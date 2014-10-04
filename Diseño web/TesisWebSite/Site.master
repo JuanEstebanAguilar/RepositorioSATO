@@ -1,0 +1,128 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Site.master.cs" Inherits="SiteMaster" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <link href="~/Styles/Site.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        * 
+       {
+           padding:0px;
+           margin:0px;
+           
+       }
+       .main
+       {
+           background:white;
+           
+       }
+       #header 
+       {
+           margin:auto;
+           width:1000px;
+           font-family:Arial, Helvetica, Sans-Serif;
+       }
+       .footer
+       {
+            background-color: #4b6c9e;
+            height: 27px;
+            width:962px;
+        }
+       ul, ol 
+       {
+           list-style:none;
+            height: 36px;
+        }
+       .nav li a 
+       {
+           background:Black;
+           color:White;
+           text-decoration:none;
+           padding:10px 15px;
+           display:block;
+                    
+       }
+       .nav li a:hover 
+       {
+            background-color: #434343;    
+       }
+       .nav > li 
+       {
+            float:left;    
+       }
+       .nav li ul 
+       {
+            display:none;
+            position:absolute;
+            min-width: 140px;
+       }
+       
+       .nav li:hover > ul 
+       {
+            display:block;    
+       }
+    </style>
+</head>
+<body>
+    <form runat="server">
+    <div class="page">
+        <div class="header">
+                <div class="loginDisplay">
+                    <asp:LoginView ID="HeadLoginView" runat="server" EnableViewState="false">
+                        <AnonymousTemplate>
+                            [ <a href="~/Account/Login.aspx" ID="HeadLoginStatus" runat="server">Iniciar sesión</a> ]
+                        </AnonymousTemplate>
+                        <LoggedInTemplate>
+                            Pantalla de bienvenida <span class="bold"><asp:LoginName ID="HeadLoginName" runat="server" /></span>!
+                            [ <asp:LoginStatus ID="HeadLoginStatus" runat="server" LogoutAction="Redirect" LogoutText="Cerrar sesión" LogoutPageUrl="~/"/> ]
+                        </LoggedInTemplate>
+                    </asp:LoginView>
+                </div>
+                <div align="center" dir="rtl">
+                    <img class="style1" src="Imagenes/img2.jpg" align="middle" dir="ltr"/>
+                </div>
+                  <ul class="nav">
+                            <li><a href="Principal.aspx">Clinica SATO</a>
+                                <ul>
+                                   <li><a href="Organigrama.aspx">Organigrama</a></li>
+                                </ul>
+                            </li>
+                            
+                            
+                            <li><a href="Staff.aspx">Staff</a></li>
+                            <li><a href="Novedades.aspx">Novedades</a></li>
+                            <li><a href="Turnos.aspx">Turnos</a></li>
+                            <li><a href="Contactenos.aspx">Contáctenos</a></li>
+                  </ul>
+                
+            
+            
+        </div>
+        
+        <div class="main">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server">
+                <p>
+                </p>
+                <p>
+                    &nbsp;</p>
+                <p>
+                </p>
+                <p>
+                </p>
+            </asp:ContentPlaceHolder>
+        </div>
+        
+    </div>
+    <div class="footer">
+        
+        <asp:Label ID="Label1" runat="server" ForeColor="White" 
+            Text="Belgrano 511 l CP: X5000JQK l Córdoba, Córdoba, Argentina l Tel: 0351-4228702"></asp:Label>
+        
+    </div>
+    </form>
+</body>
+</html>

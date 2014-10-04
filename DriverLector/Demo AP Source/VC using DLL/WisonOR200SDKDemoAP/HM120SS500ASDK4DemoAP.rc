@@ -1,0 +1,208 @@
+//Microsoft Developer Studio generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Chinese (Taiwan) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHT)
+#ifdef _WIN32
+LANGUAGE LANG_CHINESE, SUBLANG_CHINESE_TRADITIONAL
+#pragma code_page(950)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE MOVEABLE PURE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE MOVEABLE PURE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE MOVEABLE PURE 
+BEGIN
+    "#define _AFX_NO_SPLITTER_RESOURCES\r\n"
+    "#define _AFX_NO_OLE_RESOURCES\r\n"
+    "#define _AFX_NO_TRACKER_RESOURCES\r\n"
+    "#define _AFX_NO_PROPERTY_RESOURCES\r\n"
+    "\r\n"
+    "#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHT)\r\n"
+    "#ifdef _WIN32\r\n"
+    "LANGUAGE 4, 1\r\n"
+    "#pragma code_page(950)\r\n"
+    "#endif //_WIN32\r\n"
+    "#include ""res\\HM120SS500ASDK4DemoAP.rc2""  // non-Microsoft Visual C++ edited resources\r\n"
+    "#include ""l.cht\\afxres.rc""          // Standard components\r\n"
+    "#endif\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDR_MAINFRAME           ICON    DISCARDABLE     "res\\HM120SS500ASDK4DemoAP.ico"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_HM120SS500ASDK4DemoAP_DIALOG DIALOGEX 0, 0, 323, 370
+STYLE DS_MODALFRAME | WS_POPUP | WS_VISIBLE | WS_CAPTION | WS_SYSMENU
+EXSTYLE WS_EX_APPWINDOW
+CAPTION "OR200NSDK4DemoAP"
+FONT 9, "·s²Ó©úÅé"
+BEGIN
+    GROUPBOX        "PixArt PAC207BCA Device",IDC_STATIC,207,15,109,70
+    PUSHBUTTON      "Open Device",IDC_OPENDEVICE,213,27,98,18
+    GROUPBOX        "OR200N Sensor",IDC_STATIC,207,97,109,124
+    PUSHBUTTON      "Open Sensor",IDC_OPENSENSOR,213,108,98,20
+    PUSHBUTTON      "Get Full Image",IDSCAN,213,130,98,20,WS_DISABLED
+    PUSHBUTTON      "Start Realtime Image",IDC_SCANS,213,174,98,20,
+                    WS_DISABLED
+    PUSHBUTTON      "Stop Realtime Image",IDC_STOP,213,196,98,20,WS_DISABLED
+    GROUPBOX        "PTFVlib",IDC_STATIC,207,229,109,97
+    PUSHBUTTON      "Open PTFVlib",IDC_OPENHMFVLIB,214,243,98,18
+    PUSHBUTTON      "Start Enroll",IDC_STARTENROLL,214,263,98,18,WS_DISABLED
+    PUSHBUTTON      "Enroll Finger",IDC_DOENROLL,214,284,98,18,WS_DISABLED
+    PUSHBUTTON      "Verify Finger",IDC_DOVERIFY,214,304,98,18,WS_DISABLED
+    CTEXT           "Device not opened yet.",IDC_DRIVESTATUS,27,240,156,10
+    PUSHBUTTON      "Binary <=> Original",IDC_STATUS,213,152,98,20,
+                    WS_DISABLED
+    PUSHBUTTON      "Exit",IDCANCEL,214,331,98,31
+    PUSHBUTTON      "Read Product ID(PID)",IDC_READPID,15,287,84,14,
+                    WS_DISABLED
+    COMBOBOX        IDC_DEVICENUM,213,65,97,143,CBS_DROPDOWNLIST | CBS_SORT | 
+                    WS_DISABLED | WS_VSCROLL | WS_TABSTOP
+    LTEXT           "Select Device",IDC_STATIC,213,55,66,9
+    PUSHBUTTON      "Read Serial Number",IDC_READSN,108,287,84,14,
+                    WS_DISABLED
+    PUSHBUTTON      "Read Manufacturer Info",IDC_READMFS,15,305,84,14,
+                    WS_DISABLED
+    PUSHBUTTON      "Read Product Info",IDC_READPDS,108,305,84,14,
+                    WS_DISABLED
+    PUSHBUTTON      "Test",IDC_TEST,150,253,50,14,NOT WS_VISIBLE
+    GROUPBOX        "EEPROM",IDC_STATIC,7,272,192,73,WS_DISABLED
+    PUSHBUTTON      "Read Customer Info",IDC_READINFO,15,323,84,14,
+                    WS_DISABLED
+    PUSHBUTTON      "Write Customer Info",IDC_WRITEINFO,108,323,84,14,
+                    WS_DISABLED
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO MOVEABLE PURE 
+BEGIN
+    IDD_HM120SS500ASDK4DemoAP_DIALOG, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 316
+        TOPMARGIN, 7
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+#ifndef _MAC
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 1,0,1,6
+ PRODUCTVERSION 1,0,3,0
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x40004L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040404b0"
+        BEGIN
+            VALUE "Comments", "\0"
+            VALUE "CompanyName", "Wison\0"
+            VALUE "FileDescription", "OR200NSDK4DemoAP\0"
+            VALUE "FileVersion", "1, 0, 1, 6\0"
+            VALUE "InternalName", "OR200NSDK4DemoAP\0"
+            VALUE "LegalCopyright", "Copyright (c) 2009\0"
+            VALUE "LegalTrademarks", "\0"
+            VALUE "OriginalFilename", "OR200NSDK4DemoAP.exe\0"
+            VALUE "PrivateBuild", "\0"
+            VALUE "ProductName", "Wison OR200N SDK\0"
+            VALUE "ProductVersion", "1, 0, 3, 0\0"
+            VALUE "SpecialBuild", "\0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x404, 1200
+    END
+END
+
+#endif    // !_MAC
+
+#endif    // Chinese (Taiwan) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+#define _AFX_NO_SPLITTER_RESOURCES
+#define _AFX_NO_OLE_RESOURCES
+#define _AFX_NO_TRACKER_RESOURCES
+#define _AFX_NO_PROPERTY_RESOURCES
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHT)
+#ifdef _WIN32
+LANGUAGE 4, 1
+#pragma code_page(950)
+#endif //_WIN32
+#include "res\HM120SS500ASDK4DemoAP.rc2"  // non-Microsoft Visual C++ edited resources
+#include "l.cht\afxres.rc"          // Standard components
+#endif
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

@@ -1,0 +1,54 @@
+D:\Escritorio\Tesis 11-06-13\PrototipoInterfaz\SATO\Entidades\bin\Debug\Entidades.dll
+D:\Escritorio\Tesis 11-06-13\PrototipoInterfaz\SATO\Entidades\bin\Debug\Entidades.pdb
+D:\Escritorio\Tesis 11-06-13\PrototipoInterfaz\SATO\Entidades\obj\Debug\ResolveAssemblyReference.cache
+D:\Escritorio\Tesis 11-06-13\PrototipoInterfaz\SATO\Entidades\obj\Debug\Entidades.dll
+D:\Escritorio\Tesis 11-06-13\PrototipoInterfaz\SATO\Entidades\obj\Debug\Entidades.pdb
+D:\Escritorio\Tesis 22-06-13\PrototipoInterfaz\SATO\Entidades\bin\Debug\Entidades.dll
+D:\Escritorio\Tesis 22-06-13\PrototipoInterfaz\SATO\Entidades\bin\Debug\Entidades.pdb
+D:\Escritorio\Tesis 22-06-13\PrototipoInterfaz\SATO\Entidades\obj\Debug\ResolveAssemblyReference.cache
+D:\Escritorio\Tesis 22-06-13\PrototipoInterfaz\SATO\Entidades\obj\Debug\Entidades.dll
+D:\Escritorio\Tesis 22-06-13\PrototipoInterfaz\SATO\Entidades\obj\Debug\Entidades.pdb
+D:\Escritorio\Tesis 29-06-13\PrototipoInterfaz\SATO\Entidades\bin\Debug\Entidades.dll
+D:\Escritorio\Tesis 29-06-13\PrototipoInterfaz\SATO\Entidades\bin\Debug\Entidades.pdb
+D:\Escritorio\Tesis 29-06-13\PrototipoInterfaz\SATO\Entidades\obj\Debug\ResolveAssemblyReference.cache
+D:\Escritorio\Tesis 29-06-13\PrototipoInterfaz\SATO\Entidades\obj\Debug\Entidades.dll
+D:\Escritorio\Tesis 29-06-13\PrototipoInterfaz\SATO\Entidades\obj\Debug\Entidades.pdb
+D:\Escritorio\Tesis 23-07-13\PrototipoInterfaz\SATO\Entidades\obj\Debug\ResolveAssemblyReference.cache
+D:\Escritorio\Tesis 23-07-13\PrototipoInterfaz\SATO\Entidades\obj\Debug\Entidades.dll
+D:\Escritorio\Tesis 23-07-13\PrototipoInterfaz\SATO\Entidades\bin\Debug\Entidades.dll
+D:\Escritorio\Tesis 23-07-13\PrototipoInterfaz\SATO\Entidades\bin\Debug\Entidades.pdb
+D:\Escritorio\Tesis 23-07-13\PrototipoInterfaz\SATO\Entidades\obj\Debug\Entidades.pdb
+D:\Escritorio\Tesis 26-07-13\PrototipoInterfaz\SATO\Entidades\bin\Debug\Entidades.dll
+D:\Escritorio\Tesis 26-07-13\PrototipoInterfaz\SATO\Entidades\bin\Debug\Entidades.pdb
+D:\Escritorio\Tesis 26-07-13\PrototipoInterfaz\SATO\Entidades\obj\Debug\ResolveAssemblyReference.cache
+D:\Escritorio\Tesis 26-07-13\PrototipoInterfaz\SATO\Entidades\obj\Debug\Entidades.dll
+D:\Escritorio\Tesis 26-07-13\PrototipoInterfaz\SATO\Entidades\obj\Debug\Entidades.pdb
+D:\Escritorio\Tesis 30-07-13\PrototipoInterfaz\SATO\Entidades\bin\Debug\Entidades.dll
+D:\Escritorio\Tesis 30-07-13\PrototipoInterfaz\SATO\Entidades\bin\Debug\Entidades.pdb
+D:\Escritorio\Tesis 30-07-13\PrototipoInterfaz\SATO\Entidades\obj\Debug\ResolveAssemblyReference.cache
+D:\Escritorio\Tesis 30-07-13\PrototipoInterfaz\SATO\Entidades\obj\Debug\Entidades.dll
+D:\Escritorio\Tesis 30-07-13\PrototipoInterfaz\SATO\Entidades\obj\Debug\Entidades.pdb
+D:\Escritorio\Tesis 31-07-13\PrototipoInterfaz\SATO\Entidades\bin\Debug\Entidades.dll
+D:\Escritorio\Tesis 31-07-13\PrototipoInterfaz\SATO\Entidades\bin\Debug\Entidades.pdb
+D:\Escritorio\Tesis 31-07-13\PrototipoInterfaz\SATO\Entidades\obj\Debug\ResolveAssemblyReference.cache
+D:\Escritorio\Tesis 31-07-13\PrototipoInterfaz\SATO\Entidades\obj\Debug\Entidades.dll
+D:\Escritorio\Tesis 31-07-13\PrototipoInterfaz\SATO\Entidades\obj\Debug\Entidades.pdb
+D:\Escritorio\Tesis 03-08-13\PrototipoInterfaz\SATO\Entidades\bin\Debug\Entidades.dll
+D:\Escritorio\Tesis 03-08-13\PrototipoInterfaz\SATO\Entidades\bin\Debug\Entidades.pdb
+D:\Escritorio\Tesis 03-08-13\PrototipoInterfaz\SATO\Entidades\obj\Debug\ResolveAssemblyReference.cache
+D:\Escritorio\Tesis 03-08-13\PrototipoInterfaz\SATO\Entidades\obj\Debug\Entidades.dll
+D:\Escritorio\Tesis 03-08-13\PrototipoInterfaz\SATO\Entidades\obj\Debug\Entidades.pdb
+C:\Users\GuzGuz\Desktop\SAto2\SATO\Entidades\bin\Debug\Entidades.dll
+C:\Users\GuzGuz\Desktop\SAto2\SATO\Entidades\bin\Debug\Entidades.pdb
+C:\Users\GuzGuz\Desktop\SAto2\SATO\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\GuzGuz\Desktop\SAto2\SATO\Entidades\obj\Debug\Entidades.dll
+C:\Users\GuzGuz\Desktop\SAto2\SATO\Entidades\obj\Debug\Entidades.pdb
+C:\Users\GuzGuz\Desktop\SATO\SATO\Entidades\bin\Debug\Entidades.dll
+C:\Users\GuzGuz\Desktop\SATO\SATO\Entidades\bin\Debug\Entidades.pdb
+C:\Users\GuzGuz\Desktop\SATO\SATO\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\GuzGuz\Desktop\SATO\SATO\Entidades\obj\Debug\Entidades.dll
+C:\Users\GuzGuz\Desktop\SATO\SATO\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Rodrigo\Documents\Visual Studio 2010\Projects\SATO 6.0\SATO\Entidades\bin\Debug\Entidades.dll
+C:\Users\Rodrigo\Documents\Visual Studio 2010\Projects\SATO 6.0\SATO\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Rodrigo\Documents\Visual Studio 2010\Projects\SATO 6.0\SATO\Entidades\obj\Debug\Entidades.dll
+C:\Users\Rodrigo\Documents\Visual Studio 2010\Projects\SATO 6.0\SATO\Entidades\obj\Debug\Entidades.pdb

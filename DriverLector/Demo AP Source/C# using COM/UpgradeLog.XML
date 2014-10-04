@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="OR200N Demo">
+</Property><Property Name="Archivo de la solución" Value="D:\LectorHuellas\Demo AP Source\C# using COM\OR200N Demo.sln">
+</Property><Property Name="Date" Value="lunes, 07 de abril de 2014">
+</Property><Property Name="Time" Value="7:31">
+</Property></Properties><Event ErrorLevel="1" Project="OR200N Demo" Source="OR200N Demo\OR200N Demo.csproj" Description="La versión de destino de su proyecto es .NET Framework 2.0 ó 3.0. Si el proyecto utiliza ensamblados que requieren una versión más reciente de .NET Framework, no se podrá compilar. Puede cambiar la versión de .NET Framework haciendo clic en Propiedades en el menú del proyecto y seleccionando una nueva versión en el cuadro desplegable '.NET Framework'. (En Visual Basic, haga clic en el botón 'Opciones avanzadas del compilador...' en la pestaña Compilar).">
+</Event><Event ErrorLevel="0" Project="OR200N Demo" Source="OR200N Demo\OR200N Demo.csproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="OR200N Demo" Source="OR200N Demo\OR200N Demo.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="OR200N Demo.sln" Description="La solución se convirtió correctamente">
+</Event><Event ErrorLevel="3" Project="" Source="OR200N Demo.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="OR200N Demo" Source="OR200N Demo\OR200N Demo.csproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event></UpgradeLog>

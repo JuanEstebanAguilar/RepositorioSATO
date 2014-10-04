@@ -1,0 +1,531 @@
+unit Unit1;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
+  Dialogs, StdCtrls, Buttons, ExtCtrls;
+
+type
+  TForm1 = class(TForm)
+    cmdOpenDevice: TBitBtn;
+    cmdOpenPTFVlib: TBitBtn;
+    cmdOpenSensor: TBitBtn;
+    cmdStartEnroll: TBitBtn;
+    CmdGetFullImage: TBitBtn;
+    cmdEnrollFinger: TBitBtn;
+    cmdBin2Original: TBitBtn;
+    cmdVerifyFinger: TBitBtn;
+    cmdSaveImage: TBitBtn;
+    cmdLeave: TBitBtn;
+    cmdStopGetImage: TBitBtn;
+    m_DriveStatus: TLabel;
+    picture1: TImage;
+    ComboBox1: TComboBox;
+    Label1: TLabel;
+    procedure cmdOpenDeviceClick(Sender: TObject);
+    procedure cmdOpenPTFVlibClick(Sender: TObject);
+    procedure cmdOpenSensorClick(Sender: TObject);
+    procedure cmdStartEnrollClick(Sender: TObject);
+    procedure cmdStopGetImageClick(Sender: TObject);
+    procedure cmdLeaveClick(Sender: TObject);
+    procedure cmdSaveImageClick(Sender: TObject);
+    procedure CmdGetFullImageClick(Sender: TObject);
+    procedure cmdEnrollFingerClick(Sender: TObject);
+    procedure cmdBin2OriginalClick(Sender: TObject);
+    procedure cmdVerifyFingerClick(Sender: TObject);
+    procedure FormClose(Sender: TObject; var Action: TCloseAction);
+    procedure ComboBox1Change(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    m_iDevice, m_iWidth, m_iHeight, m_iEnroll, bmpnum:longint;
+    bStatus, bStatus1, bIsBinary, bsweep:Boolean;
+    m_pPicture: array [0..73727] of Byte;
+    m_SAbuf: array [0..131071] of Byte;
+//    pEnrolledFeatures(HMFV_MAX_TEMPLATE_SIZE - 1) As Byte
+    pEnrolledFeatures: array [0..499] of Byte;
+  end;
+
+var
+  Form1: TForm1;
+
+const
+
+MAX_AREA_SIZE             = 256;
+
+SENSOR_WIDTH              = 256;
+SENSOR_HEIGHT             = 288;
+SENSOR_RESOLUTION         = 500;
+SENSOR_OK                 = 1;
+SENSOR_SECURITY_AREA_SIZE = 131072;
+
+HMFV_MAX_TEMPLATE_SIZE    = 500;
+HMFV_LIB_NOT_OPENED       = -100;
+
+HMFV_STS_GI_TIMEOUT       = -3;
+
+HMFV_STS_EN_CONTINUE        = 1;
+HMFV_STS_EN_SUCCESS         = 0;
+HMFV_STS_EN_FAIL            = -1;
+HMFV_STS_EN_NOINIT          = -2;
+HMFV_STS_EN_TOOMANY_POORIMG = -3;
+HMFV_STS_EN_TOOMAY_TRIALS   = -4;
+
+
+HMFV_STS_VF_SUCCESS      = 2;
+HMFV_STS_VF_FAIL         = 1;
+HMFV_STS_VF_POORIMG      = -1;
+HMFV_STS_VF_ERROR        = -2;
+
+PARAID_MATCHTHRESHOLD    = 100;
+LOW_MATCH_TH             = 0;
+MID_MATCH_TH             = 1;
+HIGH_MATCH_TH            = 2;
+FINGER_ON_TH             = 120;
+
+MAX_POOR_IMAGE_TOLERANCE = 10;
+MAX_ENROLLED_FINGER_NUM  = 20;
+
+
+implementation
+
+{$R *.dfm}
+
+{DEFINICION DE LAS FUNCIONES DE LA DLL}
+
+Function bAPI4_OpenDevice():boolean;
+         far; stdcall; external 'PTSDK4_WISCMOS2_PTFV.dll';
+
+Function bAPI4_GetDeviceNum():Longint;
+         far; stdcall; external 'PTSDK4_WISCMOS2_PTFV.dll';
+
+Function bAPI4_SelectDevice(iDevice: Longint):boolean;
+         far; stdcall; external 'PTSDK4_WISCMOS2_PTFV.dll';
+
+Function bAPI4_OpenSensor():boolean;
+         far; stdcall; external 'PTSDK4_WISCMOS2_PTFV.dll';
+
+Function bAPI4_CloseSensor():boolean;
+         far; stdcall; external 'PTSDK4_WISCMOS2_PTFV.dll';
+
+//Function bAPI4_GetImage(picture: pointer; timeout: Longint; iResolution: Longint; piWidth: Longint; piHeight: Longint):boolean;
+//         far; stdcall; external 'PTSDK4_WISCMOS2_PTFV.dll';
+
+//Function bAPI4_GetBinaryImage(picture: pointer; timeout: Longint; iResolution: Longint; piWidth: Longint; piHeight: Longint):boolean;
+//         far; stdcall; external 'PTSDK4_WISCMOS2_PTFV.dll';
+
+Function bAPI4_GetImage(picture: PBYTE; timeout: Longint; iResolution: Longint; piWidth: PLongint; piHeight: PLongint):boolean;
+         far; stdcall; external 'PTSDK4_WISCMOS2_PTFV.dll';
+
+Function bAPI4_GetBinaryImage(picture: PBYTE; timeout: Longint; iResolution: Longint; piWidth: PLongint; piHeight: PLongint):boolean;
+         far; stdcall; external 'PTSDK4_WISCMOS2_PTFV.dll';
+
+//Function bAPI4_ReadSensor(pBuf: Byte): Boolean;
+//         far; stdcall; external 'PTSDK4_WISCMOS2_PTFV.dll';
+
+Function bAPI4_StopImage():boolean;
+         far; stdcall; external 'PTSDK4_WISCMOS2_PTFV.dll';
+
+Function bAPI4_CheckSensorStatus (var pbStatus: Boolean):boolean;
+         far; stdcall; external 'PTSDK4_WISCMOS2_PTFV.dll';
+
+Function bAPI4_HMFVOpenLib():boolean;
+         far; stdcall; external 'PTSDK4_WISCMOS2_PTFV.dll';
+
+Function bAPI4_HMFVCLoseLib():boolean;
+         far; stdcall; external 'PTSDK4_WISCMOS2_PTFV.dll';
+
+Function bAPI4_HMFVStartEnroll(iDefaultEnrolledTimes: Longint):boolean;
+         far; stdcall; external 'PTSDK4_WISCMOS2_PTFV.dll';
+
+Function bAPI4_HMFVEnroll (iResolution: Longint; iWidth: Longint; iHeight: Longint;
+         pFingerImage: PBYTE; pEnrolledFeatures: PBYTE; pwEnRetSize: PBYTE; piStatus: PLongint):boolean;
+         far; stdcall; external 'PTSDK4_WISCMOS2_PTFV.dll';
+
+Function bAPI4_HMFVVerify(iResolution: Longint; iWidth: Longint; iHeight: Longint; pFingerImage: PBYTE;
+         var pEnrolledFeatures: PBYTE; iEnrolledNum: Longint; piMatchedID: PLongint; piStatus: PLongint):boolean;
+         far; stdcall; external 'PTSDK4_WISCMOS2_PTFV.dll';
+
+Function bAPI4_HMFVVerify2(iResolution: Longint; iWidth: Longint; iHeight: Longint; pFingerImage: PBYTE;
+         pEnrolledFeatures: PBYTE; iEnrolledNum: Longint; piMatchedID: PLongint; piStatus: PLongint):boolean;
+         far; stdcall; external 'PTSDK4_WISCMOS2_PTFV.dll';
+
+Function bAPI4_HMFVSetParas(iParaID: Longint; iParaValue: Longint):boolean;
+         far; stdcall; external 'PTSDK4_WISCMOS2_PTFV.dll';
+
+Function bAPI4_HMFVGetParas(iParaID: Longint; piParaValue: PLongint):boolean;
+         far; stdcall; external 'PTSDK4_WISCMOS2_PTFV.dll';
+
+Function bAPI4_HMFVExtract(iResolution: Longint; iWidth: Longint; iHeight: Longint; pFingerImage: PBYTE;
+         pFeatures: PBYTE; pwFeatSize: PLongint; piQuality: PLongint):boolean;
+         far; stdcall; external 'PTSDK4_WISCMOS2_PTFV.dll';
+
+Function bAPI4_HMFVVerifyTemplate(pTemplate: PBYTE; var ppEnrolledfeatures: PBYTE; iEnrolledNum: Longint; piMatchedID: PLongint;
+         piStatus: PLongint):boolean;
+         far; stdcall; external 'PTSDK4_WISCMOS2_PTFV.dll';
+
+Function bAPI4_SaveImage(const filename: PChar; width: Longint ; height: Longint; picture: PBYTE):boolean;
+         far; stdcall; external 'PTSDK4_WISCMOS2_PTFV.dll';
+
+
+procedure TForm1.ComboBox1Change(Sender: TObject);
+begin
+    m_iDevice := ComboBox1.ItemIndex;
+    cmdOpenSensor.Enabled := True;
+
+    CmdGetFullImage.Enabled := False;
+    cmdStopGetImage.Enabled := False;
+    cmdBin2Original.Enabled := False;
+    cmdOpenPTFVlib.Enabled := False;
+    cmdSaveImage.Enabled := False;
+
+    cmdStartEnroll.Enabled := False;
+    cmdVerifyFinger.Enabled := False ;
+end;
+
+procedure TForm1.cmdOpenDeviceClick(Sender: TObject);
+var i, devno:Longint;
+begin
+    ComboBox1.Enabled := False;
+    cmdOpenSensor.Enabled := False;
+    CmdGetFullImage.Enabled := False;
+    cmdStopGetImage.Enabled := False;
+    cmdBin2Original.Enabled := False;
+    cmdOpenPTFVlib.Enabled := False;
+    cmdSaveImage.Enabled := False;
+
+    cmdStartEnroll.Enabled := False;
+    cmdVerifyFinger.Enabled := False ;
+
+    ComboBox1.Items.Clear;
+    bStatus := bAPI4_OpenDevice();
+    If bStatus Then begin
+        devno := bAPI4_GetDeviceNum();
+        For i := 0 To (devno - 1) do begin
+          ComboBox1.Items.Add('Device '+ inttostr(i));
+          Next;
+        end;
+        ComboBox1.ItemIndex := 0;
+        ComboBox1.Enabled := True;
+        m_DriveStatus.Caption := 'Open device OK! Please select device first!';
+    end Else m_DriveStatus.Caption := 'Open device Fail';
+
+end;
+
+procedure TForm1.cmdOpenPTFVlibClick(Sender: TObject);
+begin
+    If bAPI4_HMFVOpenLib() Then begin
+        cmdStartEnroll.Enabled  := True;
+        cmdVerifyFinger.Enabled := True;
+        m_DriveStatus.Caption   := 'Open PTFVlib OK';
+    end Else m_DriveStatus.Caption := 'Open PTFVlib Fail';
+end;
+
+procedure TForm1.cmdOpenSensorClick(Sender: TObject);
+begin
+    If bAPI4_OpenSensor() Then begin
+        bStatus := bAPI4_SelectDevice(m_iDevice);
+        If bStatus Then begin
+            m_DriveStatus.Caption := 'Select and Open Device'+ inttostr(m_iDevice) +' OK';
+            bIsBinary := True;
+        end Else m_DriveStatus.Caption := 'Select and Open Device'+ inttostr(m_iDevice) +' Fail';
+
+        If bAPI4_HMFVOpenLib() Then begin
+            CmdGetFullImage.Enabled := True;
+            cmdStopGetImage.Enabled := True;
+            cmdBin2Original.Enabled := True;
+            cmdOpenPTFVlib.Enabled  := True;
+            cmdSaveImage.Enabled    := True;
+
+        end Else m_DriveStatus.Caption := 'Open Library Fail';
+    end Else m_DriveStatus.Caption := 'Open sensor Fail';
+end;
+
+procedure TForm1.cmdStartEnrollClick(Sender: TObject);
+var bStatus: Boolean;
+    MAX_POOR_IMAGE_TOLERANCE:longint;  // line added by Fernando
+begin
+
+    If m_iEnroll >= MAX_ENROLLED_FINGER_NUM Then begin
+       ShowMessage('DB is full!');
+       Exit;
+    end;
+
+    MAX_POOR_IMAGE_TOLERANCE := 10; // line added by Fernando
+    If bAPI4_HMFVStartEnroll(MAX_POOR_IMAGE_TOLERANCE) Then cmdEnrollFinger.Enabled := True
+    Else ShowMessage('Start enroll failed!');
+
+end;
+
+procedure TForm1.cmdStopGetImageClick(Sender: TObject);
+var bStatus: Boolean;
+begin
+    m_DriveStatus.Caption := 'Get image stopped';
+    bsweep  := False;
+    bStatus := bAPI4_StopImage();
+end;
+
+procedure TForm1.cmdLeaveClick(Sender: TObject);
+var  bStatus1, bStatus2, bStatus3: Boolean;
+begin
+    bStatus1 := bAPI4_StopImage();
+    bStatus2 := bAPI4_CloseSensor();
+    bStatus3 := bAPI4_HMFVCLoseLib();
+end;
+
+procedure TForm1.cmdSaveImageClick(Sender: TObject);
+var
+  r_value: Boolean;
+  fstr: String;
+  //filename: array [0..63] of char;
+  filename: PChar;
+
+SENSOR_WIDTH, SENSOR_HEIGHT:longint;  // line added by Fernando
+
+begin
+    fstr := 'bmp_' + inttostr(bmpnum) + '.bmp';
+    filename := PChar(fstr);
+    bmpnum   := bmpnum + 1;
+
+    SENSOR_WIDTH  := 256;  // line added by Fernando
+    SENSOR_HEIGHT := 288;  // line added by Fernando
+
+    r_value := bAPI4_SaveImage(filename, SENSOR_WIDTH, SENSOR_HEIGHT, @m_pPicture[0]);
+
+//    If SENSOR_OK <> r_value Then m_DriveStatus.Caption := 'Save Image Fail!'    // original commented by Fernando
+    If (SENSOR_OK = 1) <> r_value Then m_DriveStatus.Caption := 'Save Image Fail!'      // line chabged by Fernando
+    Else m_DriveStatus.Caption := 'Save Image (bmp_' + inttostr(bmpnum-1) + '.bmp) OK!';
+
+end;
+
+procedure TForm1.CmdGetFullImageClick(Sender: TObject);
+var
+    r_value: Boolean;
+    sensor_timeout, num: Longint;
+    SENSOR_WIDTH, SENSOR_HEIGHT, SENSOR_RESOLUTION:longint;  // line added by Fernando
+    filename: array [0..63]of char;
+begin
+
+    sensor_timeout := 30000;
+
+    For num := 0 To 32766 do begin
+       m_pPicture[num] := 255;
+       Next;
+    end;
+
+    For num := 0 To 32766 do begin
+        m_pPicture[32766 + num] := 255;
+        Next;
+    end;
+
+    For num := 0 To 8195 do begin
+        m_pPicture[65532 + num] := 255;
+        Next;
+    end;
+
+//    'bIsBinary = True
+
+    m_DriveStatus.Caption := 'Put your finger on sensor...';
+
+    m_iWidth  := SENSOR_WIDTH;
+    m_iHeight := SENSOR_HEIGHT;
+
+    SENSOR_RESOLUTION := 500; // line added by Fernando
+    SENSOR_WIDTH  := 256;  // line added by Fernando
+    SENSOR_HEIGHT := 288;  // line added by Fernando
+
+    If bIsBinary Then r_value := bAPI4_GetBinaryImage(@m_pPicture[0], sensor_timeout, SENSOR_RESOLUTION, @m_iWidth, @m_iHeight)
+    Else r_value := bAPI4_GetImage(@m_pPicture[0], sensor_timeout, SENSOR_RESOLUTION, @m_iWidth, @m_iHeight);
+
+
+//    If SENSOR_OK <> r_value Then m_DriveStatus.Caption := 'Get Image Fail!'    // original commented by Fernando
+    If (SENSOR_OK = 1) <> r_value Then m_DriveStatus.Caption := 'Get Image Fail!'      // line chabged by Fernando
+    Else m_DriveStatus.Caption := 'Get Image OK!';
+
+    filename := 'fingerprint.bmp';
+
+
+    r_value := bAPI4_SaveImage(@filename, SENSOR_WIDTH, SENSOR_HEIGHT, @m_pPicture[0]);
+    Picture1.Picture.LoadFromFile(filename);
+end;
+
+procedure TForm1.cmdEnrollFingerClick(Sender: TObject);
+var
+    iStatus, sensor_timeout, num: Longint;
+    iEnSize: Byte;
+    r_value, r_value2: Boolean;
+    pEnrolledFeatures:array [0..HMFV_MAX_TEMPLATE_SIZE - 1] of Byte;
+    SENSOR_WIDTH, SENSOR_HEIGHT, SENSOR_RESOLUTION:longint;  // line added by Fernando
+begin
+
+    sensor_timeout := 10000;
+    iStatus := 1;
+    bsweep := True;
+    SENSOR_RESOLUTION := 500; // line added by Fernando
+    SENSOR_WIDTH  := 256;  // line added by Fernando
+    SENSOR_HEIGHT := 288;  // line added by Fernando
+
+
+
+    While (iStatus > 0) And (bsweep = True) do begin
+        For num := 0 To 32766 do begin
+           m_pPicture[num] := 0;
+           Next;
+        end;
+
+        For num := 0 To 32766 do begin
+           m_pPicture[32766 + num] := 0;
+           Next;
+        end;
+
+        For num := 0 To 8195 do begin
+           m_pPicture[65532 + num] := 0;
+           Next;
+        end;
+
+        m_DriveStatus.Caption := 'Put your finger on sensor...';
+
+        m_iWidth := SENSOR_WIDTH;
+        m_iHeight := SENSOR_HEIGHT;
+
+        r_value := bAPI4_GetImage(@(m_pPicture[0]), sensor_timeout, SENSOR_RESOLUTION, @m_iWidth, @m_iHeight);
+
+        If (r_value = False) Then m_DriveStatus.Caption := 'Get finger image failed!'
+        Else m_DriveStatus.Caption := 'Get Image OK!';
+
+        r_value2 := bAPI4_HMFVEnroll(SENSOR_RESOLUTION, SENSOR_WIDTH, SENSOR_HEIGHT, addr(m_pPicture[0]), addr(pEnrolledFeatures[0]), @iEnSize, @iStatus);
+
+        If (r_value2 = False) Then begin
+           m_DriveStatus.Caption := 'Enrolled error!';
+           bsweep := False;
+        end
+    end; // while end
+
+
+    Case (iStatus) of
+      HMFV_STS_EN_SUCCESS: begin
+          For num := 0 To HMFV_MAX_TEMPLATE_SIZE - 1 do begin
+            m_SAbuf[m_iEnroll * HMFV_MAX_TEMPLATE_SIZE + num] := pEnrolledFeatures[num];
+            Next;
+          end;
+
+          m_iEnroll := m_iEnroll + 1;
+
+//          'If MAX_ENROLLED_FINGER_NUM = m_iEnroll Then
+//          '    m_iEnroll = m_iEnroll - 1
+//          'End If
+          m_DriveStatus.Caption := '*** The ' + inttostr(m_iEnroll) + '_st finger enrolled ***';
+      end;
+
+      HMFV_STS_EN_TOOMANY_POORIMG: m_DriveStatus.Caption := inttostr(MAX_POOR_IMAGE_TOLERANCE) + ' of poor image met';
+
+      HMFV_STS_EN_TOOMAY_TRIALS:   m_DriveStatus.Caption := 'Too many useless sweepings (12 times in default)';
+
+      HMFV_STS_EN_FAIL:            m_DriveStatus.Caption := 'Enrolled failed';
+
+      HMFV_STS_EN_CONTINUE:        m_DriveStatus.Caption := 'Button: Stop Getting Image pressed';
+    End; // end case
+
+    cmdEnrollFinger.Enabled := False;
+
+end;
+
+procedure TForm1.cmdBin2OriginalClick(Sender: TObject);
+var r_value:Boolean;
+begin
+
+    If bIsBinary Then begin
+        bIsBinary := False;
+        m_DriveStatus.Caption := 'Gray Image Mode';
+    end Else begin
+        bIsBinary := True;
+        m_DriveStatus.Caption := 'Binary Image Mode';
+    End;
+
+//   'Dim buf(260) As Byte
+//   'r_value = bAPI4_ReadSensor(buf(0))
+
+end;
+
+procedure TForm1.cmdVerifyFingerClick(Sender: TObject);
+var
+    r_value, r_value2: Boolean;
+    i, j, num, sensor_timeout, iMatchID, iStatus, check: Longint;
+    msg: String;
+    ppEnrollDB: array [0..19,0..499] of Byte;
+    SENSOR_WIDTH, SENSOR_HEIGHT, SENSOR_RESOLUTION:longint;  // line added by Fernando
+begin
+    SENSOR_RESOLUTION := 500; // line added by Fernando
+    SENSOR_WIDTH  := 256;  // line added by Fernando
+    SENSOR_HEIGHT := 288;  // line added by Fernando
+
+
+    iMatchID := 1;
+    sensor_timeout := 10000;
+
+    If (m_iEnroll > 0) Then begin
+
+        For num := 0 To 32766 do begin
+           m_pPicture[num] := 0;
+           Next;
+        end;
+
+        For num := 0 To 32766 do begin
+           m_pPicture[32766 + num] := 0;
+           Next;
+        end;
+
+        For num := 0 To 8195 do begin
+           m_pPicture[65532 + num] := 0;
+           Next;
+        end;
+
+        m_DriveStatus.Caption := 'Put your finger on sensor...';
+
+        m_iWidth := SENSOR_WIDTH;
+        m_iHeight := SENSOR_HEIGHT;
+
+        r_value := bAPI4_GetImage(@(m_pPicture[0]), sensor_timeout, SENSOR_RESOLUTION, @m_iWidth, @m_iHeight);
+
+        If (r_value = False) Then m_DriveStatus.Caption := 'Get finger image failed'
+        Else m_DriveStatus.Caption := 'Get Image OK!';
+
+//        'ReDim ppEnrollDB(MAX_ENROLLED_FINGER_NUM - 1, HMFV_MAX_TEMPLATE_SIZE - 1) As Byte
+//        'ReDim ppEnrollDB(19, 499) As Byte
+//        'For i = 0 To m_iEnroll - 1
+//        '    For j = 0 To 499
+//        '        ppEnrollDB(i, j) = m_SAbuf(i * 500 + j)
+//        '    Next j
+//        'Next i
+
+        r_value2 := bAPI4_HMFVVerify2(SENSOR_RESOLUTION, SENSOR_WIDTH, SENSOR_HEIGHT, addr(m_pPicture[0]), addr(m_SAbuf[0]), m_iEnroll, @iMatchID, @iStatus);
+
+        If (r_value2 = False) Then m_DriveStatus.Caption := 'Verify error!'
+        Else
+          If (HMFV_STS_VF_SUCCESS = iStatus) Then begin
+             m_DriveStatus.Caption := '*** Verify Pass! ***';
+             msg := 'match id = ' + inttostr(iMatchID);
+             m_DriveStatus.Caption := msg;
+          end Else m_DriveStatus.Caption := 'Verify failed!';
+
+    end Else m_DriveStatus.Caption := 'No enrolled fingers';
+
+end;
+
+procedure TForm1.FormClose(Sender: TObject; var Action: TCloseAction);
+var bStatus1, bStatus2, bStatus3: Boolean;
+begin
+
+//    'If MsgBox("Do you want to exit?", vbQuestion + vbYesNo) = vbNo Then
+//    '    Cancel = -1
+//    'Else
+        bStatus1 := bAPI4_StopImage();
+        bStatus2 := bAPI4_CloseSensor();
+        bStatus3 := bAPI4_HMFVCLoseLib();
+        Application.Terminate;
+//    'End If
+
+end;
+
+end.

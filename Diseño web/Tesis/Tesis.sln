@@ -1,0 +1,80 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Tesis", "..\..\WebSites\Tesis\", "{68D9CA04-78A2-417C-9577-3B137C31A440}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/Tesis"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\WebSites\Tesis\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\Tesis\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/Tesis"
+		Release.AspNetCompiler.PhysicalPath = "..\..\WebSites\Tesis\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\Tesis\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1640"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "TesisWebSite", "..\TesisWebSite\", "{331F7740-7CDA-4B98-8996-8C335C926CFA}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/TesisWebSite"
+		Debug.AspNetCompiler.PhysicalPath = "..\TesisWebSite\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\TesisWebSite\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/TesisWebSite"
+		Release.AspNetCompiler.PhysicalPath = "..\TesisWebSite\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\TesisWebSite\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1933"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "TesisWebSite", "C:\Users\GuzGuz\Desktop\TesisWebSite\", "{88A0AEE9-DDDF-442A-941E-CB697E6C4BA7}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/TesisWebSite(1)"
+		Debug.AspNetCompiler.PhysicalPath = "C:\Users\GuzGuz\Desktop\TesisWebSite\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\TesisWebSite(1)\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/TesisWebSite(1)"
+		Release.AspNetCompiler.PhysicalPath = "C:\Users\GuzGuz\Desktop\TesisWebSite\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\TesisWebSite(1)\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "3040"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68D9CA04-78A2-417C-9577-3B137C31A440}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68D9CA04-78A2-417C-9577-3B137C31A440}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{331F7740-7CDA-4B98-8996-8C335C926CFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{331F7740-7CDA-4B98-8996-8C335C926CFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88A0AEE9-DDDF-442A-941E-CB697E6C4BA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88A0AEE9-DDDF-442A-941E-CB697E6C4BA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

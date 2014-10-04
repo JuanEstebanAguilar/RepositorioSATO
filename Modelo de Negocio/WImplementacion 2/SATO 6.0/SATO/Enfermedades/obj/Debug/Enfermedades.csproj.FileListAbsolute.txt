@@ -1,0 +1,4 @@
+C:\Users\Rodrigo\Documents\Visual Studio 2010\Projects\SATO 6.0\SATO\Enfermedades\bin\Debug\Enfermedades.dll
+C:\Users\Rodrigo\Documents\Visual Studio 2010\Projects\SATO 6.0\SATO\Enfermedades\bin\Debug\Enfermedades.pdb
+C:\Users\Rodrigo\Documents\Visual Studio 2010\Projects\SATO 6.0\SATO\Enfermedades\obj\Debug\Enfermedades.dll
+C:\Users\Rodrigo\Documents\Visual Studio 2010\Projects\SATO 6.0\SATO\Enfermedades\obj\Debug\Enfermedades.pdb

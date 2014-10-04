@@ -1,0 +1,12 @@
+D:\LectorHuellas\Demo AP Source\C# using COM\OR200N Demo\obj\Debug\OR200N Demo.exe
+D:\LectorHuellas\Demo AP Source\C# using COM\OR200N Demo\obj\Debug\ResolveAssemblyReference.cache
+D:\LectorHuellas\Demo AP Source\C# using COM\OR200N Demo\obj\Debug\OR200N_Demo.Form1.resources
+D:\LectorHuellas\Demo AP Source\C# using COM\OR200N Demo\obj\Debug\OR200N_Demo.Properties.Resources.resources
+D:\LectorHuellas\Demo AP Source\C# using COM\OR200N Demo\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\LectorHuellas\Demo AP Source\C# using COM\OR200N Demo\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\LectorHuellas\Demo AP Source\C# using COM\OR200N Demo\bin\Debug\OR200N Demo.exe
+D:\LectorHuellas\Demo AP Source\C# using COM\OR200N Demo\bin\Debug\OR200N Demo.pdb
+D:\LectorHuellas\Demo AP Source\C# using COM\OR200N Demo\bin\Debug\Interop.WisSensorNLibLib.dll
+D:\LectorHuellas\Demo AP Source\C# using COM\OR200N Demo\obj\Debug\OR200N Demo.pdb
+D:\LectorHuellas\Demo AP Source\C# using COM\OR200N Demo\obj\Debug\Interop.WisSensorNLibLib.dll
+D:\LectorHuellas\Demo AP Source\C# using COM\OR200N Demo\obj\Debug\OR200N Demo.csproj.ResolveComReference.cache

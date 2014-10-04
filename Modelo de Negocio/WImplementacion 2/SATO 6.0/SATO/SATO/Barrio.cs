@@ -1,0 +1,224 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Windows.Forms;
+using Negocio;
+using Entidades;
+
+namespace Presentacion
+{
+    public partial class frmBarrio : Form
+    {
+        private Validador validador = new Validador();
+        private Localidad localidad;
+
+        public frmBarrio()
+        {
+            InitializeComponent();
+        }
+
+        public frmBarrio(Localidad localidad)
+        {
+            InitializeComponent();
+            this.localidad = localidad;
+        }
+
+        private void button12_Click(object sender, EventArgs e)
+        {
+            frmProvincia vtProvincia = new frmProvincia();
+            vtProvincia.ShowDialog();
+        }
+
+        private void button8_Click(object sender, EventArgs e)
+        {
+            frmLocalidad vtLocalidad = new frmLocalidad();
+            vtLocalidad.ShowDialog();
+        }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            frmDepartamento vtDepartamento = new frmDepartamento();
+            vtDepartamento.ShowDialog();
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void frmBarrio_Load(object sender, EventArgs e)
+        {
+            mostrarProvincias();
+            mostrarDepartamentosPorProvincia((int)cmbProvincias.SelectedValue);
+            mostrarLocalidadesPorDepartamento((int)cmbDepartamentos.SelectedValue);
+            cmbProvincias.SelectedValue = localidad.Departamento.Provincia.IdProvincia;
+            cmbDepartamentos.SelectedValue = localidad.Departamento.IdDepartamento;
+            cmbLocalidades.SelectedValue = localidad.Idlocalidad;
+            txtBarrio.Focus();
+            validador.manejarBotonesABM(btnCancelar, btnAgregar, btnCancelar, btnModificar, btnEliminar, btnGuardar, btnSalir);
+        }
+
+        private void mostrarProvincias()
+        {
+            LogicaNegocio logicaNegocio = new LogicaNegocio();
+            cmbProvincias.ValueMember = "idProvincia";
+            cmbProvincias.DisplayMember = "nombre";
+            cmbProvincias.DataSource = logicaNegocio.obtenerProvincias();
+        }
+
+        private void mostrarDepartamentosPorProvincia(int idProvincia)
+        {
+            LogicaNegocio logicaNegocio = new LogicaNegocio();
+            cmbDepartamentos.ValueMember = "idDepartamento";
+            cmbDepartamentos.DisplayMember = "nombre";
+            cmbDepartamentos.DataSource = logicaNegocio.obtenerDepartamentosPorProvincia(idProvincia);
+        }
+
+        private void mostrarLocalidadesPorDepartamento(int idDepartamento)
+        {
+            LogicaNegocio logicaNegocio = new LogicaNegocio();
+            cmbLocalidades.ValueMember = "idLocalidad";
+            cmbLocalidades.DisplayMember = "nombre";
+            cmbLocalidades.DataSource = logicaNegocio.obtenerLocalidadesPorDepartamento(idDepartamento);
+        }
+
+        private void cmbProvincias_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            mostrarDepartamentosPorProvincia((int)cmbProvincias.SelectedValue);
+        }
+
+        private void cmbDepartamentos_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            mostrarLocalidadesPorDepartamento((int)cmbDepartamentos.SelectedValue);
+        }
+
+        private void cmbLocalidades_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void cmbLocalidades_DropDownClosed(object sender, EventArgs e)
+        {
+            cargarGrilla((int)cmbLocalidades.SelectedValue);
+        }
+
+        private void cargarGrilla(int idLocalidad)
+        {
+            LogicaNegocio negocio = new LogicaNegocio();
+            List<Barrio> barrios = negocio.obtenerBarriosPorLocalidad(idLocalidad);
+            dgvBarrios.Rows.Clear();
+            if (barrios != null)
+            {
+                foreach (Barrio barrio in barrios)
+                {
+                    int fila = dgvBarrios.Rows.Add();
+                    dgvBarrios.Rows[fila].Cells["idbarrio"].Value = barrio.IdBarrio;
+                    dgvBarrios.Rows[fila].Cells["nombre"].Value = barrio.Nombre;
+                    dgvBarrios.Rows[fila].Cells["comentario"].Value = barrio.Comentario;
+                }
+            }
+            else
+            {
+                MessageBox.Show("No hay barrio en esta localidad", "Atención", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+        }
+
+        private void btnNuevo_Click(object sender, EventArgs e)
+        {
+            validador.habilitarControles(this, true);
+            validador.manejarBotonesABM(btnAgregar, btnAgregar, btnCancelar, btnModificar, btnEliminar, btnGuardar, btnSalir);
+            validador.limpiarTexBox(this);
+            txtBarrio.Focus();
+        }
+
+        private void btnCancelar_Click(object sender, EventArgs e)
+        {
+            validador.habilitarControles(this, false);
+            validador.manejarBotonesABM(btnCancelar, btnAgregar, btnCancelar, btnModificar, btnEliminar, btnGuardar, btnSalir);
+        }
+
+        private void btnModificar_Click(object sender, EventArgs e)
+        {
+            validador.habilitarControles(this, true);
+            validador.manejarBotonesABM(btnModificar, btnAgregar, btnCancelar, btnModificar, btnEliminar, btnGuardar, btnSalir);
+        }
+
+        private void btnEliminar_Click(object sender, EventArgs e)
+        {
+            validador.habilitarControles(this, false);
+            validador.manejarBotonesABM(btnEliminar, btnAgregar, btnCancelar, btnModificar, btnEliminar, btnGuardar, btnSalir);
+        }
+
+        private void btnGuardar_Click(object sender, EventArgs e)
+        {
+            validador.habilitarControles(this, false);
+            validador.manejarBotonesABM(btnGuardar, btnAgregar, btnCancelar, btnModificar, btnEliminar, btnGuardar, btnSalir);
+            if (guardarBarrio())
+            {
+                MessageBox.Show("El barrio se registro exitosamente", "Atención", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                int idLocalidad=Convert.ToInt32(cmbLocalidades.SelectedValue);
+                cargarGrilla(idLocalidad);
+            }
+        }
+
+        private Boolean guardarBarrio()
+        { 
+            
+            String nombreBarrio;
+            if (validador.validarString(txtBarrio,"Ingrese el nombre del paciente","Atención"))
+            {nombreBarrio = txtBarrio.Text.Trim();}
+            else{return false;}
+
+            String comentario;
+            comentario = txtComentario.Text.Trim();
+            Provincia provincia=(Provincia)cmbProvincias.SelectedItem;
+            Departamento departamento=(Departamento)cmbDepartamentos.SelectedItem;
+            Localidad localidad=(Localidad)cmbLocalidades.SelectedItem;
+
+            Barrio barrio = new Barrio();
+            barrio.Nombre = nombreBarrio;
+            barrio.Comentario = comentario;
+            barrio.Localidad = localidad;
+
+            LogicaNegocio negocio = new LogicaNegocio();
+            
+            if(negocio.tomarBarrio(barrio))
+                return true;
+            return false;
+        }
+
+        private void btnSalir_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void dgvBarrios_CellClick(object sender, DataGridViewCellEventArgs e)
+        {
+            if (e.RowIndex >= 0 && e.ColumnIndex >= 0)
+            {
+                Barrio barrio=new Barrio();
+                barrio.IdBarrio=Convert.ToInt32(dgvBarrios[0, e.RowIndex].Value.ToString());
+                LogicaNegocio negocio = new LogicaNegocio();
+                barrio = negocio.obtenerBarrioPorId(barrio.IdBarrio);
+                cmbProvincias.SelectedValue = barrio.Localidad.Departamento.Provincia.IdProvincia;
+                cmbDepartamentos.SelectedValue = barrio.Localidad.Departamento.IdDepartamento;
+                cmbLocalidades.SelectedValue = barrio.localidad.Idlocalidad;
+                txtBarrio.Text = barrio.Nombre;
+                txtComentario.Text = barrio.Comentario;
+            }
+        }
+
+        private void dgvBarrios_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
+        private void dgvBarrios_CellDoubleClick(object sender, DataGridViewCellEventArgs e)
+        {
+        }
+    }
+}
