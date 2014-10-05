@@ -336,7 +336,7 @@
             this.groupBox2.Controls.Add(this.pnlTurnos);
             this.groupBox2.Location = new System.Drawing.Point(15, 245);
             this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Size = new System.Drawing.Size(715, 350);
+            this.groupBox2.Size = new System.Drawing.Size(716, 350);
             this.groupBox2.TabIndex = 44;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Turnos activos";
@@ -452,7 +452,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(743, 645);
+            this.ClientSize = new System.Drawing.Size(928, 645);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
