@@ -369,4 +369,17 @@ C:\Users\Pc\Desktop\WImplementacion\SATO\Negocio\obj\Debug\Negocio.csprojResolve
 C:\Users\Pc\Desktop\WImplementacion\SATO\Negocio\obj\Debug\Negocio.csproj.ResolveComReference.cache
 C:\Users\Pc\Desktop\WImplementacion\SATO\Negocio\obj\Debug\Negocio.dll
 C:\Users\Pc\Desktop\WImplementacion\SATO\Negocio\obj\Debug\Negocio.pdb
+<<<<<<< HEAD
+D:\RepositorioGit\RepositorioSATO\WImplementacion\SATO\Negocio\bin\Debug\Negocio.dll
+D:\RepositorioGit\RepositorioSATO\WImplementacion\SATO\Negocio\bin\Debug\Negocio.pdb
+D:\RepositorioGit\RepositorioSATO\WImplementacion\SATO\Negocio\bin\Debug\Datos.dll
+D:\RepositorioGit\RepositorioSATO\WImplementacion\SATO\Negocio\bin\Debug\Entidades.dll
+D:\RepositorioGit\RepositorioSATO\WImplementacion\SATO\Negocio\bin\Debug\Datos.pdb
+D:\RepositorioGit\RepositorioSATO\WImplementacion\SATO\Negocio\bin\Debug\Entidades.pdb
+D:\RepositorioGit\RepositorioSATO\WImplementacion\SATO\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+D:\RepositorioGit\RepositorioSATO\WImplementacion\SATO\Negocio\obj\Debug\Negocio.csproj.ResolveComReference.cache
+D:\RepositorioGit\RepositorioSATO\WImplementacion\SATO\Negocio\obj\Debug\Negocio.dll
+D:\RepositorioGit\RepositorioSATO\WImplementacion\SATO\Negocio\obj\Debug\Negocio.pdb
+=======
+>>>>>>> origin/master
 >>>>>>> origin/master
