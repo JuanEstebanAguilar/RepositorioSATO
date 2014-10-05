@@ -1850,11 +1850,7 @@ namespace Negocio
                 usuarioProf.Contrasenia = drProfesional.GetString(22);
                 usuarioProf.Comentario = drProfesional.GetString(23);
                 prof.Usuario = usuarioProf;
-
-
-                return prof;
-
-
+           return prof;
             }
             return null;
 

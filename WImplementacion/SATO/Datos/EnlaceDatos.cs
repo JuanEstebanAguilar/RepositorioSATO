@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using System.Data.SqlClient;
@@ -11,12 +12,17 @@ namespace Datos
 {
     public class EnlaceDatos
     {
+<<<<<<< HEAD
         static String strCadena = "Data Source=RODRIGO-PC;Initial Catalog=Clinica;Integrated Security=True";
+=======
+        static String strCadena = @"Data Source=PC-PC\PC;Initial Catalog=Clinica;Integrated Security=True";
+>>>>>>> origin/master
         private SqlConnection getConexion()
         {
-            SqlConnection cnConexion = new SqlConnection(strCadena);
-            cnConexion.Open();
-            return cnConexion;
+                SqlConnection cnConexion = new SqlConnection(strCadena);
+                cnConexion.Open();
+                return cnConexion;
+
         }
         public SqlDataReader getProvincias()
         {
@@ -26,7 +32,6 @@ namespace Datos
             getConexion().Close();
             return drProvincias;
         }
-
         public SqlDataReader getEspecialidades()
         {
             SqlCommand cmdEspecialidades = new SqlCommand("spGetEspecialidades", getConexion());
@@ -1313,8 +1318,7 @@ namespace Datos
                 //Modificar Domicilio
                 cmd = new SqlCommand("spModificarDomicilio", cn, trans);
                 cmd.CommandType = CommandType.StoredProcedure;
-
-
+                
                 SqlParameter pcalle = cmd.Parameters.AddWithValue("@calle", paciente.Domicilio.Calle);
                 SqlParameter pnumero = cmd.Parameters.AddWithValue("@numero", paciente.Domicilio.Numero);
                 SqlParameter pdepartamento = cmd.Parameters.AddWithValue("@departamento", paciente.Domicilio.Departamento);
@@ -1323,13 +1327,8 @@ namespace Datos
                 SqlParameter pidBarrio = cmd.Parameters.AddWithValue("@idBarrio", paciente.Domicilio.Barrio.IdBarrio);
                 SqlParameter pidPersonaparadomicilio = cmd.Parameters.AddWithValue("@idPersona", paciente.Idpersona);
 
-
                 cmd.ExecuteNonQuery();
                 cmd.Parameters.Clear();
-
-
-
-
                 trans.Commit();
                 cn.Close();
                 return true;
@@ -1765,8 +1764,166 @@ namespace Datos
             return cmdDias.ExecuteReader();
         }
 
+        public SqlDataReader getControles(int idEnfermedad)
+        {
+            SqlCommand cmdControles = new SqlCommand("spGetControles", getConexion());
+            cmdControles.CommandType = CommandType.StoredProcedure;
+            cmdControles.Parameters.Add(new SqlParameter("idEnfermedad", idEnfermedad));
+            SqlDataReader drControles = cmdControles.ExecuteReader();
+            return drControles;
+        }
+        public SqlDataReader getMedicamentos()
+        {
+            SqlCommand cmdMedicamentos = new SqlCommand("spGetMedicamentos", getConexion());
+            cmdMedicamentos.CommandType = CommandType.StoredProcedure;
+            SqlDataReader drMedicamentos = cmdMedicamentos.ExecuteReader();
+            return drMedicamentos;
+        }
+        public SqlDataReader getEnfermedades()
+        {
+            SqlCommand cmdEnfermedades = new SqlCommand("spGetEnfermedades", getConexion());
+            cmdEnfermedades.CommandType = CommandType.StoredProcedure;
+            SqlDataReader drEnfermedades = cmdEnfermedades.ExecuteReader();
+            return drEnfermedades;
+        }
+
+        public bool registrarAtencion(List<Practica> practicas, Diagnostico diag, Prescripcion presc, DateTime fecha, Turno turno)
+        {
+            SqlTransaction trans;
+            SqlConnection cn = getConexion();
+            trans = cn.BeginTransaction();
+            try
+            {
+
+                //Registrar Prescripcion
+                SqlCommand cmd = new SqlCommand("spSetPrescripcionMedica", cn, trans);
+                cmd.CommandType = CommandType.StoredProcedure;
+                DateTime fechaPresc = DateTime.Now;
+
+                SqlParameter pidPrescripcion = cmd.Parameters.Add("@idPrescripcion", SqlDbType.Int);
+                SqlParameter pFechaPrescripcion = cmd.Parameters.AddWithValue("@fechaPresc", fechaPresc);
+
+                pidPrescripcion.Direction = ParameterDirection.Output;
+
+                cmd.ExecuteNonQuery();
+                int idp = Convert.ToInt32(pidPrescripcion.Value.ToString());
+                cmd.Parameters.Clear();
+
+                //Registrar Atencion
+
+                cmd = new SqlCommand("spSetAtencion", cn, trans);
+                cmd.CommandType = CommandType.StoredProcedure;
+                SqlParameter pid = cmd.Parameters.Add("@idatencion", SqlDbType.Int);
+                pid.Direction = ParameterDirection.Output;
+                SqlParameter idturno = cmd.Parameters.AddWithValue("@idturno", turno.IdTurno);
+                SqlParameter fechaAtencion = cmd.Parameters.AddWithValue("@fechaAtencion", fecha);
+                SqlParameter idPrescripcion = cmd.Parameters.AddWithValue("@idPrescripcion", idp);
+
+                cmd.ExecuteNonQuery();
+                int id = Convert.ToInt32(pid.Value.ToString());
+                cmd.Parameters.Clear();
 
 
+
+
+                //Registrar DetallePrescripcion
+                cmd = new SqlCommand("spSetDetallePrescripcion", cn, trans);
+                cmd.CommandType = CommandType.StoredProcedure;
+
+
+                SqlParameter pDetallePrescripcionid = cmd.Parameters.Add("@idDetallePrescripcion", SqlDbType.Int);
+                pDetallePrescripcionid.Direction = ParameterDirection.Output;
+
+                SqlParameter pDPidPrescripcion = cmd.Parameters.AddWithValue("@idPrescripcion", id);
+
+                foreach (Medicamento medic in presc.Listamedicamentos)
+                {
+                    SqlParameter pidMedicamento = cmd.Parameters.AddWithValue("@idMedicamento", medic.IdMedicamento);
+                    SqlParameter phoras = cmd.Parameters.AddWithValue("@horas", presc.Horas);
+                    SqlParameter pdias = cmd.Parameters.AddWithValue("@dias", presc.Dias);
+                    SqlParameter pcantMedicamentos = cmd.Parameters.AddWithValue("@cantMedicamentos", presc.CantidadMedicamentos);
+
+                    cmd.ExecuteNonQuery();
+                    cmd.Parameters.Clear();
+                }
+
+
+                //Registrar DetalleAtencion
+
+                cmd = new SqlCommand("spSetDetalleAtencion", cn, trans);
+                cmd.CommandType = CommandType.StoredProcedure;
+                SqlParameter pidDetalleAtencion = cmd.Parameters.Add("@iddetalleatencion", SqlDbType.Int);
+                pidDetalleAtencion.Direction = ParameterDirection.Output;
+                SqlParameter idPracticas = cmd.Parameters.AddWithValue("@idPracticas", turno.IdTurno);
+                SqlParameter idatencion = cmd.Parameters.AddWithValue("@idatencion", id);
+
+
+                foreach (Object obj in diag.ListEnfermedades)
+                {
+
+                    if (obj is Entidades.Miopia)
+                    {
+
+                        SqlParameter idEnfermedadMiopia = cmd.Parameters.AddWithValue("@idEnfermedad", ((Miopia)obj).IdEnfermedad);
+                        cmd.ExecuteNonQuery();
+                        cmd.Parameters.Clear();
+                    }
+
+                    else if (obj is Atigmatismo)
+                    {
+                        SqlParameter idEnfermedadAtigmatismo = cmd.Parameters.AddWithValue("@idEnfermedad", ((Entidades.Atigmatismo)obj).IdEnfermedad);
+                        cmd.ExecuteNonQuery();
+                        cmd.Parameters.Clear();
+                    }
+                }
+
+
+                trans.Commit();
+                cn.Close();
+                return true;
+
+            }
+            catch (SqlException ex)
+            {
+                trans.Rollback();
+                cn.Close();
+                return false;
+
+            }
+        }
+
+        public List<Turno> obtenerPacientePorTurno(DateTime date, int idProfesional)
+        {
+            EnlaceDatos enlaceDatos = new EnlaceDatos();
+            SqlDataReader drPacientes = enlaceDatos.getPacientesPorTurnos(date, idProfesional);
+            List<Turno> lstTurno = new List<Turno>();
+
+            while (drPacientes.Read())
+            {
+                Paciente pac = new Paciente();
+                Turno t = new Turno();
+
+                pac.IdPaciente = Convert.ToInt32(drPacientes[0].ToString());
+                pac.Apellido = drPacientes[1].ToString();
+                pac.Nombre = drPacientes[2].ToString();
+                t.Paciente = pac;
+                t.Comentario = drPacientes[3].ToString();
+                t.IdTurno = Convert.ToInt32(drPacientes[4].ToString());
+                lstTurno.Add(t);
+
+            }
+            return lstTurno;
+        }
+
+        public SqlDataReader getPacientesPorTurnos(DateTime date, int idProfesional)
+        {
+            SqlCommand cmdPacientesPorTurnos = new SqlCommand("spGetPacientesPorTurno", getConexion());
+            cmdPacientesPorTurnos.CommandType = CommandType.StoredProcedure;
+            cmdPacientesPorTurnos.Parameters.Add(new SqlParameter("fechaturno", date));
+            cmdPacientesPorTurnos.Parameters.Add(new SqlParameter("idprofesional", idProfesional));
+            SqlDataReader drPacientesPorTurnos = cmdPacientesPorTurnos.ExecuteReader();
+            return drPacientesPorTurnos;
+        }                
     }
 }
 

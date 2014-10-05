@@ -35,9 +35,16 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <Reference Include="Interop.WisSensorNLibLib">
       <HintPath>C:\Users\Rodrigo\Documents\Lector\SDK\Demo Program\C# using COM\Interop.WisSensorNLibLib.dll</HintPath>
       <EmbedInteropTypes>True</EmbedInteropTypes>
+=======
+    <Reference Include="Interop.WisSensorNLibLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>bin\Debug\Interop.WisSensorNLibLib.dll</HintPath>
+>>>>>>> origin/master
     </Reference>
     <Reference Include="PresentationCore" />
     <Reference Include="PresentationFramework" />
@@ -58,6 +65,12 @@
     <Reference Include="WindowsFormsIntegration" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Atencion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Atencion.Designer.cs">
+      <DependentUpon>Atencion.cs</DependentUpon>
+    </Compile>
     <Compile Include="Barrio.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -198,6 +211,9 @@
       <DependentUpon>Mensaje.cs</DependentUpon>
     </Compile>
     <Compile Include="Validador.cs" />
+    <EmbeddedResource Include="Atencion.resx">
+      <DependentUpon>Atencion.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Barrio.resx">
       <DependentUpon>Barrio.cs</DependentUpon>
       <SubType>Designer</SubType>

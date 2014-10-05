@@ -1228,6 +1228,7 @@ D:\Escritorio\tesis 04-10-14\SATO\obj\x86\Debug\Presentacion.frmMensaje.resource
 D:\Escritorio\tesis 04-10-14\SATO\obj\x86\Debug\GenerateResource.read.1.tlog
 D:\Escritorio\tesis 04-10-14\SATO\obj\x86\Debug\GenerateResource.write.1.tlog
 D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\SATO\bin\Debug\SATO.exe.config
+<<<<<<< HEAD
 D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.csproj.ResolveComReference.cache
 D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\SATO\obj\x86\Debug\SATO.exe
 D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\SATO\obj\x86\Debug\SATO.pdb
@@ -1264,3 +1265,47 @@ D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\SATO\obj\x86\Debug\Pre
 D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.frmUsuario.resources
 D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.frmMensaje.resources
 D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.csproj.GenerateResource.Cache
+=======
+D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\SATO\obj\x86\Debug\Interop.WisSensorNLibLib.dll
+D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.csproj.ResolveComReference.cache
+D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\SATO\obj\x86\Debug\SATO.exe
+D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\SATO\obj\x86\Debug\SATO.pdb
+C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.csproj.ResolveComReference.cache
+C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.frmAtencion.resources
+C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.frmBarrio.resources
+C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.BuscarEmpleado.resources
+C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.frmBuscarPaciente.resources
+C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.BuscarProfesional.resources
+C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.frmConfiguracion.resources
+C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.frmConsultorio.resources
+C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.frmCuadrosDialogo.resources
+C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.frmDiagramacion.resources
+C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.frmEmpleado.resources
+C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.frmPaciente.resources
+C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.frmProfesional.resources
+C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.Splash.resources
+C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.frmHistoriaClinica.resources
+C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.frmLocalidad.resources
+C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.frmCobertura.resources
+C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.frmLogin.resources
+C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.frmPrincipal.resources
+C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.frmProvincia.resources
+C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.frmTiposDocumento.resources
+C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.frmTurnos.resources
+C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.frmUsuario.resources
+C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.frmMensaje.resources
+C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.csproj.GenerateResource.Cache
+C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\bin\Debug\SATO.exe.config
+C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\bin\Debug\SATO.exe
+C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\bin\Debug\SATO.pdb
+C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\bin\Debug\Entidades.dll
+C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\bin\Debug\Negocio.dll
+C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\bin\Debug\Datos.dll
+C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\bin\Debug\Entidades.pdb
+C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\bin\Debug\Negocio.pdb
+C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\bin\Debug\Datos.pdb
+C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\obj\x86\Debug\SATO.exe
+C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\obj\x86\Debug\SATO.pdb
+>>>>>>> origin/master

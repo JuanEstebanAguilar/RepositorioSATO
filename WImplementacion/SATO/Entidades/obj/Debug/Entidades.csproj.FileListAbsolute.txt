@@ -168,3 +168,7 @@ D:\Escritorio\tesis 04-10-14\Entidades\bin\Debug\Entidades.pdb
 D:\Escritorio\tesis 04-10-14\Entidades\obj\Debug\ResolveAssemblyReference.cache
 D:\Escritorio\tesis 04-10-14\Entidades\obj\Debug\Entidades.dll
 D:\Escritorio\tesis 04-10-14\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Pc\Desktop\WImplementacion\SATO\Entidades\bin\Debug\Entidades.dll
+C:\Users\Pc\Desktop\WImplementacion\SATO\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Pc\Desktop\WImplementacion\SATO\Entidades\obj\Debug\Entidades.dll
+C:\Users\Pc\Desktop\WImplementacion\SATO\Entidades\obj\Debug\Entidades.pdb
