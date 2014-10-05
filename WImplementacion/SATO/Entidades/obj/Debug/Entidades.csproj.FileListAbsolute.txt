@@ -169,20 +169,14 @@ D:\Escritorio\tesis 04-10-14\Entidades\obj\Debug\ResolveAssemblyReference.cache
 D:\Escritorio\tesis 04-10-14\Entidades\obj\Debug\Entidades.dll
 D:\Escritorio\tesis 04-10-14\Entidades\obj\Debug\Entidades.pdb
 <<<<<<< HEAD
-<<<<<<< HEAD
 D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\Entidades\bin\Debug\Entidades.dll
 D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\Entidades\bin\Debug\Entidades.pdb
 D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
 D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\Entidades\obj\Debug\Entidades.dll
 D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\Entidades\obj\Debug\Entidades.pdb
 =======
-=======
 >>>>>>> origin/master
 C:\Users\Pc\Desktop\WImplementacion\SATO\Entidades\bin\Debug\Entidades.dll
 C:\Users\Pc\Desktop\WImplementacion\SATO\Entidades\bin\Debug\Entidades.pdb
 C:\Users\Pc\Desktop\WImplementacion\SATO\Entidades\obj\Debug\Entidades.dll
 C:\Users\Pc\Desktop\WImplementacion\SATO\Entidades\obj\Debug\Entidades.pdb
-<<<<<<< HEAD
->>>>>>> origin/master
-=======
->>>>>>> origin/master
