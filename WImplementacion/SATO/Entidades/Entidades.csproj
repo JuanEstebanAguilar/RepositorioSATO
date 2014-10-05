@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{3F9AA500-C83D-47FD-88B2-0AB0C17B84D1}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Negocio</RootNamespace>
+    <AssemblyName>Entidades</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Afiliacion.cs" />
+    <Compile Include="Atencion.cs" />
+    <Compile Include="Atigmatismo.cs" />
+    <Compile Include="Barrio.cs" />
+    <Compile Include="CoberturaMedica.cs" />
+    <Compile Include="Cobro.cs" />
+    <Compile Include="Consultorio.cs" />
+    <Compile Include="Controles.cs" />
+    <Compile Include="Correo.cs" />
+    <Compile Include="Departamento.cs" />
+    <Compile Include="DetalleAtencion.cs" />
+    <Compile Include="DetalleDiagramacion.cs" />
+    <Compile Include="Dia.cs" />
+    <Compile Include="Diagnostico.cs" />
+    <Compile Include="Diagramacion.cs" />
+    <Compile Include="Domicilio.cs" />
+    <Compile Include="Empleado.cs" />
+    <Compile Include="Enfermedad.cs" />
+    <Compile Include="Especialidad.cs" />
+    <Compile Include="EstadoDiagramacion.cs" />
+    <Compile Include="EstadoMensaje.cs" />
+    <Compile Include="EstadoTurno.cs" />
+    <Compile Include="EstadoUsuario.cs" />
+    <Compile Include="FranjaHoraria.cs" />
+    <Compile Include="Huella.cs" />
+    <Compile Include="Item.cs" />
+    <Compile Include="Localidad.cs" />
+    <Compile Include="Medicamento.cs" />
+    <Compile Include="Mensaje.cs" />
+    <Compile Include="Miopia.cs" />
+    <Compile Include="Paciente.cs" />
+    <Compile Include="Cuenta.cs" />
+    <Compile Include="Persona.cs" />
+    <Compile Include="Practica.cs" />
+    <Compile Include="Prescripcion.cs" />
+    <Compile Include="PresentacionMedicamento.cs" />
+    <Compile Include="Profesional.cs" />
+    <Compile Include="Proveedor.cs" />
+    <Compile Include="Provincia.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Sexo.cs" />
+    <Compile Include="SingletonPersonaLogueada.cs" />
+    <Compile Include="Telefono.cs" />
+    <Compile Include="TipoDocumento.cs" />
+    <Compile Include="TipoMensaje.cs" />
+    <Compile Include="TipoTelefono.cs" />
+    <Compile Include="Turno.cs" />
+    <Compile Include="Usuario.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

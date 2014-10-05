@@ -1,0 +1,449 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{F7D8FE04-AC71-4E36-B89A-75B67AC407B5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Presentacion</RootNamespace>
+    <AssemblyName>SATO</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Interop.WisSensorNLibLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>bin\Debug\Interop.WisSensorNLibLib.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Speech" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UIAutomationProvider" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="WindowsFormsIntegration" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Atencion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Atencion.Designer.cs">
+      <DependentUpon>Atencion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Barrio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Barrio.designer.cs">
+      <DependentUpon>Barrio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BuscarEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BuscarEmpleado.Designer.cs">
+      <DependentUpon>BuscarEmpleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BuscarPaciente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BuscarPaciente.Designer.cs">
+      <DependentUpon>BuscarPaciente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BuscarProfesional.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BuscarProfesional.Designer.cs">
+      <DependentUpon>BuscarProfesional.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ClinicaDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ClinicaDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Configuracion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Configuracion.Designer.cs">
+      <DependentUpon>Configuracion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consultorio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consultorio.Designer.cs">
+      <DependentUpon>Consultorio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CuadrosDialogo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CuadrosDialogo.Designer.cs">
+      <DependentUpon>CuadrosDialogo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Diagramacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Diagramacion.Designer.cs">
+      <DependentUpon>Diagramacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Empleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Empleado.designer.cs">
+      <DependentUpon>Empleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Paciente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Paciente.designer.cs">
+      <DependentUpon>Paciente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Profesional.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Profesional.designer.cs">
+      <DependentUpon>Profesional.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Splash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Splash.Designer.cs">
+      <DependentUpon>Splash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HistoriaClinica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HistoriaClinica.Designer.cs">
+      <DependentUpon>HistoriaClinica.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Localidad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Localidad.Designer.cs">
+      <DependentUpon>Localidad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cobertura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cobertura.Designer.cs">
+      <DependentUpon>Cobertura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principal.Designer.cs">
+      <DependentUpon>Principal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Provincia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Provincia.Designer.cs">
+      <DependentUpon>Provincia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TipoDocumento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TipoDocumento.designer.cs">
+      <DependentUpon>TipoDocumento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Turno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Turno.Designer.cs">
+      <DependentUpon>Turno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usuario.Designer.cs">
+      <DependentUpon>Usuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mensaje.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mensaje.Designer.cs">
+      <DependentUpon>Mensaje.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Validador.cs" />
+    <EmbeddedResource Include="Atencion.resx">
+      <DependentUpon>Atencion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Barrio.resx">
+      <DependentUpon>Barrio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BuscarEmpleado.resx">
+      <DependentUpon>BuscarEmpleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BuscarPaciente.resx">
+      <DependentUpon>BuscarPaciente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BuscarProfesional.resx">
+      <DependentUpon>BuscarProfesional.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Configuracion.resx">
+      <DependentUpon>Configuracion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consultorio.resx">
+      <DependentUpon>Consultorio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CuadrosDialogo.resx">
+      <DependentUpon>CuadrosDialogo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Diagramacion.resx">
+      <DependentUpon>Diagramacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Empleado.resx">
+      <DependentUpon>Empleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Paciente.resx">
+      <DependentUpon>Paciente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Profesional.resx">
+      <DependentUpon>Profesional.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Splash.resx">
+      <DependentUpon>Splash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HistoriaClinica.resx">
+      <DependentUpon>HistoriaClinica.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Localidad.resx">
+      <DependentUpon>Localidad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cobertura.resx">
+      <DependentUpon>Cobertura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principal.resx">
+      <DependentUpon>Principal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Provincia.resx">
+      <DependentUpon>Provincia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TipoDocumento.resx">
+      <DependentUpon>TipoDocumento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Turno.resx">
+      <DependentUpon>Turno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usuario.resx">
+      <DependentUpon>Usuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mensaje.resx">
+      <DependentUpon>Mensaje.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="ClinicaDataSet.xsc">
+      <DependentUpon>ClinicaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ClinicaDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ClinicaDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ClinicaDataSet.xss">
+      <DependentUpon>ClinicaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Entidades\Entidades.csproj">
+      <Project>{3F9AA500-C83D-47FD-88B2-0AB0C17B84D1}</Project>
+      <Name>Entidades</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Negocio\Negocio.csproj">
+      <Project>{B6FC9B7B-460C-447F-8352-520C89B063B3}</Project>
+      <Name>Negocio</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\accept.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cross.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\time.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\agregar.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancelar.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\16 %28Edit-2%29.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\borrar.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\disk.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\salir.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\printer.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Aero_Blue_Leaf_Wallpaper.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OjoSinFondo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OjoSinFondo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OjoSinFondo2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OjoSinFondo3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\huella.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="WisSensorNLibLib">
+      <Guid>{E6287062-CF20-42EE-AA0E-957063C191C9}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\acceso_investigaciones.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\acceso_pacientes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\acceso_turnos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono_paciente_chico.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono_turno_chico.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono_atencion_chico.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono_atencion_grande.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono_diagramacion_chico.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono_diagramacion_grande.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono_historiaclinica_chico.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono_historiaclinica_grande.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono_investigacion_chico.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono_investigacion_grande.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono_paciente_grande.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono_turno_grande.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono_configurar_chico.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono_configurar_grande.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono_imprimir_chico.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono_imprimir_grande.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nonaccept.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

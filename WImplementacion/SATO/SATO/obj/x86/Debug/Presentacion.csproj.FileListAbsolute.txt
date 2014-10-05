@@ -1,0 +1,1272 @@
+D:\Escritorio\Tesis 11-06-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Escritorio\Tesis 11-06-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.Barrio.resources
+D:\Escritorio\Tesis 11-06-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.Consultorio.resources
+D:\Escritorio\Tesis 11-06-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.CuadrosDialogo.resources
+D:\Escritorio\Tesis 11-06-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.Departamento.resources
+D:\Escritorio\Tesis 11-06-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.Empleado.resources
+D:\Escritorio\Tesis 11-06-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.HistoriaClinica.resources
+D:\Escritorio\Tesis 11-06-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.Localidad.resources
+D:\Escritorio\Tesis 11-06-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.Cobertura.resources
+D:\Escritorio\Tesis 11-06-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.Paciente.resources
+D:\Escritorio\Tesis 11-06-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.Principal.resources
+D:\Escritorio\Tesis 11-06-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.Profesional.resources
+D:\Escritorio\Tesis 11-06-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.Properties.Resources.resources
+D:\Escritorio\Tesis 11-06-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.Provincia.resources
+D:\Escritorio\Tesis 11-06-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.TipoDocumento.resources
+D:\Escritorio\Tesis 11-06-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.grdTurnos.resources
+D:\Escritorio\Tesis 11-06-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.Usuario.resources
+D:\Escritorio\Tesis 11-06-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Escritorio\Tesis 11-06-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Escritorio\Tesis 11-06-13\PrototipoInterfaz\SATO\SATO\bin\Debug\SATO.exe.config
+D:\Escritorio\Tesis 11-06-13\PrototipoInterfaz\SATO\SATO\bin\Debug\SATO.exe
+D:\Escritorio\Tesis 11-06-13\PrototipoInterfaz\SATO\SATO\bin\Debug\SATO.pdb
+D:\Escritorio\Tesis 11-06-13\PrototipoInterfaz\SATO\SATO\bin\Debug\Entidades.dll
+D:\Escritorio\Tesis 11-06-13\PrototipoInterfaz\SATO\SATO\bin\Debug\Negocio.dll
+D:\Escritorio\Tesis 11-06-13\PrototipoInterfaz\SATO\SATO\bin\Debug\Datos.dll
+D:\Escritorio\Tesis 11-06-13\PrototipoInterfaz\SATO\SATO\bin\Debug\Entidades.pdb
+D:\Escritorio\Tesis 11-06-13\PrototipoInterfaz\SATO\SATO\bin\Debug\Negocio.pdb
+D:\Escritorio\Tesis 11-06-13\PrototipoInterfaz\SATO\SATO\bin\Debug\Datos.pdb
+D:\Escritorio\Tesis 11-06-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\SATO.exe
+D:\Escritorio\Tesis 11-06-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\SATO.pdb
+D:\Escritorio\Tesis 22-06-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Escritorio\Tesis 22-06-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.Properties.Resources.resources
+D:\Escritorio\Tesis 22-06-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.Usuario.resources
+D:\Escritorio\Tesis 22-06-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Escritorio\Tesis 22-06-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Escritorio\Tesis 22-06-13\PrototipoInterfaz\SATO\SATO\bin\Debug\SATO.exe.config
+D:\Escritorio\Tesis 22-06-13\PrototipoInterfaz\SATO\SATO\bin\Debug\SATO.exe
+D:\Escritorio\Tesis 22-06-13\PrototipoInterfaz\SATO\SATO\bin\Debug\SATO.pdb
+D:\Escritorio\Tesis 22-06-13\PrototipoInterfaz\SATO\SATO\bin\Debug\Entidades.dll
+D:\Escritorio\Tesis 22-06-13\PrototipoInterfaz\SATO\SATO\bin\Debug\Negocio.dll
+D:\Escritorio\Tesis 22-06-13\PrototipoInterfaz\SATO\SATO\bin\Debug\Datos.dll
+D:\Escritorio\Tesis 22-06-13\PrototipoInterfaz\SATO\SATO\bin\Debug\Entidades.pdb
+D:\Escritorio\Tesis 22-06-13\PrototipoInterfaz\SATO\SATO\bin\Debug\Negocio.pdb
+D:\Escritorio\Tesis 22-06-13\PrototipoInterfaz\SATO\SATO\bin\Debug\Datos.pdb
+D:\Escritorio\Tesis 22-06-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\SATO.exe
+D:\Escritorio\Tesis 22-06-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\SATO.pdb
+D:\Escritorio\Tesis 22-06-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmBarrio.resources
+D:\Escritorio\Tesis 22-06-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmConsultorio.resources
+D:\Escritorio\Tesis 22-06-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmCuadrosDialogo.resources
+D:\Escritorio\Tesis 22-06-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmDepartamento.resources
+D:\Escritorio\Tesis 22-06-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmEmpleado.resources
+D:\Escritorio\Tesis 22-06-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmHistoriaClinica.resources
+D:\Escritorio\Tesis 22-06-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmLocalidad.resources
+D:\Escritorio\Tesis 22-06-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmCobertura.resources
+D:\Escritorio\Tesis 22-06-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmLogin.resources
+D:\Escritorio\Tesis 22-06-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmPaciente.resources
+D:\Escritorio\Tesis 22-06-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmPrincipal.resources
+D:\Escritorio\Tesis 22-06-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmProfesional.resources
+D:\Escritorio\Tesis 22-06-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmProvincia.resources
+D:\Escritorio\Tesis 22-06-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmTiposDocumento.resources
+D:\Escritorio\Tesis 22-06-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmTurnos.resources
+D:\Escritorio\Tesis 29-06-13\PrototipoInterfaz\SATO\SATO\bin\Debug\SATO.exe.config
+D:\Escritorio\Tesis 29-06-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\SATO.exe
+D:\Escritorio\Tesis 29-06-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\SATO.pdb
+D:\Escritorio\Tesis 29-06-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Escritorio\Tesis 29-06-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmBarrio.resources
+D:\Escritorio\Tesis 29-06-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmConsultorio.resources
+D:\Escritorio\Tesis 29-06-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmCuadrosDialogo.resources
+D:\Escritorio\Tesis 29-06-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmDepartamento.resources
+D:\Escritorio\Tesis 29-06-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmEmpleado.resources
+D:\Escritorio\Tesis 29-06-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmHistoriaClinica.resources
+D:\Escritorio\Tesis 29-06-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmLocalidad.resources
+D:\Escritorio\Tesis 29-06-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmCobertura.resources
+D:\Escritorio\Tesis 29-06-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmLogin.resources
+D:\Escritorio\Tesis 29-06-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmPaciente.resources
+D:\Escritorio\Tesis 29-06-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmPrincipal.resources
+D:\Escritorio\Tesis 29-06-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmProfesional.resources
+D:\Escritorio\Tesis 29-06-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.Properties.Resources.resources
+D:\Escritorio\Tesis 29-06-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmProvincia.resources
+D:\Escritorio\Tesis 29-06-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmTiposDocumento.resources
+D:\Escritorio\Tesis 29-06-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmTurnos.resources
+D:\Escritorio\Tesis 29-06-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.Usuario.resources
+D:\Escritorio\Tesis 29-06-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Escritorio\Tesis 29-06-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Escritorio\Tesis 29-06-13\PrototipoInterfaz\SATO\SATO\bin\Debug\SATO.exe
+D:\Escritorio\Tesis 29-06-13\PrototipoInterfaz\SATO\SATO\bin\Debug\SATO.pdb
+D:\Escritorio\Tesis 29-06-13\PrototipoInterfaz\SATO\SATO\bin\Debug\Entidades.dll
+D:\Escritorio\Tesis 29-06-13\PrototipoInterfaz\SATO\SATO\bin\Debug\Negocio.dll
+D:\Escritorio\Tesis 29-06-13\PrototipoInterfaz\SATO\SATO\bin\Debug\Datos.dll
+D:\Escritorio\Tesis 29-06-13\PrototipoInterfaz\SATO\SATO\bin\Debug\Entidades.pdb
+D:\Escritorio\Tesis 29-06-13\PrototipoInterfaz\SATO\SATO\bin\Debug\Negocio.pdb
+D:\Escritorio\Tesis 29-06-13\PrototipoInterfaz\SATO\SATO\bin\Debug\Datos.pdb
+D:\Escritorio\Tesis 23-07-13\PrototipoInterfaz\SATO\SATO\bin\Debug\SATO.exe.config
+D:\Escritorio\Tesis 23-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\SATO.exe
+D:\Escritorio\Tesis 23-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\SATO.pdb
+D:\Escritorio\Tesis 23-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Escritorio\Tesis 23-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmBarrio.resources
+D:\Escritorio\Tesis 23-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmConsultorio.resources
+D:\Escritorio\Tesis 23-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmCuadrosDialogo.resources
+D:\Escritorio\Tesis 23-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmDepartamento.resources
+D:\Escritorio\Tesis 23-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmEmpleado.resources
+D:\Escritorio\Tesis 23-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmHistoriaClinica.resources
+D:\Escritorio\Tesis 23-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmLocalidad.resources
+D:\Escritorio\Tesis 23-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmCobertura.resources
+D:\Escritorio\Tesis 23-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmLogin.resources
+D:\Escritorio\Tesis 23-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmPaciente.resources
+D:\Escritorio\Tesis 23-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmPrincipal.resources
+D:\Escritorio\Tesis 23-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmProfesional.resources
+D:\Escritorio\Tesis 23-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.Properties.Resources.resources
+D:\Escritorio\Tesis 23-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmProvincia.resources
+D:\Escritorio\Tesis 23-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmTiposDocumento.resources
+D:\Escritorio\Tesis 23-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmTurnos.resources
+D:\Escritorio\Tesis 23-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.Usuario.resources
+D:\Escritorio\Tesis 23-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Escritorio\Tesis 23-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Escritorio\Tesis 23-07-13\PrototipoInterfaz\SATO\SATO\bin\Debug\SATO.exe
+D:\Escritorio\Tesis 23-07-13\PrototipoInterfaz\SATO\SATO\bin\Debug\SATO.pdb
+D:\Escritorio\Tesis 23-07-13\PrototipoInterfaz\SATO\SATO\bin\Debug\Entidades.dll
+D:\Escritorio\Tesis 23-07-13\PrototipoInterfaz\SATO\SATO\bin\Debug\Negocio.dll
+D:\Escritorio\Tesis 23-07-13\PrototipoInterfaz\SATO\SATO\bin\Debug\Datos.dll
+D:\Escritorio\Tesis 23-07-13\PrototipoInterfaz\SATO\SATO\bin\Debug\Entidades.pdb
+D:\Escritorio\Tesis 23-07-13\PrototipoInterfaz\SATO\SATO\bin\Debug\Negocio.pdb
+D:\Escritorio\Tesis 23-07-13\PrototipoInterfaz\SATO\SATO\bin\Debug\Datos.pdb
+D:\Escritorio\Tesis 26-07-13\PrototipoInterfaz\SATO\SATO\bin\Debug\SATO.exe.config
+D:\Escritorio\Tesis 26-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\SATO.exe
+D:\Escritorio\Tesis 26-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\SATO.pdb
+D:\Escritorio\Tesis 26-07-13\PrototipoInterfaz\SATO\SATO\bin\Debug\SATO.exe
+D:\Escritorio\Tesis 26-07-13\PrototipoInterfaz\SATO\SATO\bin\Debug\SATO.pdb
+D:\Escritorio\Tesis 26-07-13\PrototipoInterfaz\SATO\SATO\bin\Debug\Entidades.dll
+D:\Escritorio\Tesis 26-07-13\PrototipoInterfaz\SATO\SATO\bin\Debug\Negocio.dll
+D:\Escritorio\Tesis 26-07-13\PrototipoInterfaz\SATO\SATO\bin\Debug\Datos.dll
+D:\Escritorio\Tesis 26-07-13\PrototipoInterfaz\SATO\SATO\bin\Debug\Entidades.pdb
+D:\Escritorio\Tesis 26-07-13\PrototipoInterfaz\SATO\SATO\bin\Debug\Negocio.pdb
+D:\Escritorio\Tesis 26-07-13\PrototipoInterfaz\SATO\SATO\bin\Debug\Datos.pdb
+D:\Escritorio\Tesis 26-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Escritorio\Tesis 26-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmBarrio.resources
+D:\Escritorio\Tesis 26-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmConsultorio.resources
+D:\Escritorio\Tesis 26-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmCuadrosDialogo.resources
+D:\Escritorio\Tesis 26-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmDepartamento.resources
+D:\Escritorio\Tesis 26-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmEmpleado.resources
+D:\Escritorio\Tesis 26-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmHistoriaClinica.resources
+D:\Escritorio\Tesis 26-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmLocalidad.resources
+D:\Escritorio\Tesis 26-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmCobertura.resources
+D:\Escritorio\Tesis 26-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmLogin.resources
+D:\Escritorio\Tesis 26-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmPaciente.resources
+D:\Escritorio\Tesis 26-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmPrincipal.resources
+D:\Escritorio\Tesis 26-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmProfesional.resources
+D:\Escritorio\Tesis 26-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.Properties.Resources.resources
+D:\Escritorio\Tesis 26-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmProvincia.resources
+D:\Escritorio\Tesis 26-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmTiposDocumento.resources
+D:\Escritorio\Tesis 26-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmTurnos.resources
+D:\Escritorio\Tesis 26-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.Usuario.resources
+D:\Escritorio\Tesis 26-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Escritorio\Tesis 26-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Escritorio\Tesis 30-07-13\PrototipoInterfaz\SATO\SATO\bin\Debug\SATO.exe.config
+D:\Escritorio\Tesis 30-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\SATO.exe
+D:\Escritorio\Tesis 30-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\SATO.pdb
+D:\Escritorio\Tesis 30-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Escritorio\Tesis 30-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmBarrio.resources
+D:\Escritorio\Tesis 30-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmConsultorio.resources
+D:\Escritorio\Tesis 30-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmCuadrosDialogo.resources
+D:\Escritorio\Tesis 30-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmDepartamento.resources
+D:\Escritorio\Tesis 30-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmEmpleado.resources
+D:\Escritorio\Tesis 30-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmHistoriaClinica.resources
+D:\Escritorio\Tesis 30-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmLocalidad.resources
+D:\Escritorio\Tesis 30-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmCobertura.resources
+D:\Escritorio\Tesis 30-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmLogin.resources
+D:\Escritorio\Tesis 30-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmPaciente.resources
+D:\Escritorio\Tesis 30-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmPrincipal.resources
+D:\Escritorio\Tesis 30-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmProfesional.resources
+D:\Escritorio\Tesis 30-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.Properties.Resources.resources
+D:\Escritorio\Tesis 30-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmProvincia.resources
+D:\Escritorio\Tesis 30-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmTiposDocumento.resources
+D:\Escritorio\Tesis 30-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmTurnos.resources
+D:\Escritorio\Tesis 30-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.Usuario.resources
+D:\Escritorio\Tesis 30-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Escritorio\Tesis 30-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Escritorio\Tesis 30-07-13\PrototipoInterfaz\SATO\SATO\bin\Debug\SATO.exe
+D:\Escritorio\Tesis 30-07-13\PrototipoInterfaz\SATO\SATO\bin\Debug\SATO.pdb
+D:\Escritorio\Tesis 30-07-13\PrototipoInterfaz\SATO\SATO\bin\Debug\Entidades.dll
+D:\Escritorio\Tesis 30-07-13\PrototipoInterfaz\SATO\SATO\bin\Debug\Negocio.dll
+D:\Escritorio\Tesis 30-07-13\PrototipoInterfaz\SATO\SATO\bin\Debug\Datos.dll
+D:\Escritorio\Tesis 30-07-13\PrototipoInterfaz\SATO\SATO\bin\Debug\Entidades.pdb
+D:\Escritorio\Tesis 30-07-13\PrototipoInterfaz\SATO\SATO\bin\Debug\Negocio.pdb
+D:\Escritorio\Tesis 30-07-13\PrototipoInterfaz\SATO\SATO\bin\Debug\Datos.pdb
+D:\Escritorio\Tesis 31-07-13\PrototipoInterfaz\SATO\SATO\bin\Debug\SATO.exe.config
+D:\Escritorio\Tesis 31-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\SATO.exe
+D:\Escritorio\Tesis 31-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\SATO.pdb
+D:\Escritorio\Tesis 31-07-13\PrototipoInterfaz\SATO\SATO\bin\Debug\SATO.exe
+D:\Escritorio\Tesis 31-07-13\PrototipoInterfaz\SATO\SATO\bin\Debug\SATO.pdb
+D:\Escritorio\Tesis 31-07-13\PrototipoInterfaz\SATO\SATO\bin\Debug\Entidades.dll
+D:\Escritorio\Tesis 31-07-13\PrototipoInterfaz\SATO\SATO\bin\Debug\Negocio.dll
+D:\Escritorio\Tesis 31-07-13\PrototipoInterfaz\SATO\SATO\bin\Debug\Datos.dll
+D:\Escritorio\Tesis 31-07-13\PrototipoInterfaz\SATO\SATO\bin\Debug\Entidades.pdb
+D:\Escritorio\Tesis 31-07-13\PrototipoInterfaz\SATO\SATO\bin\Debug\Negocio.pdb
+D:\Escritorio\Tesis 31-07-13\PrototipoInterfaz\SATO\SATO\bin\Debug\Datos.pdb
+D:\Escritorio\Tesis 31-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Escritorio\Tesis 31-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmBarrio.resources
+D:\Escritorio\Tesis 31-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmConsultorio.resources
+D:\Escritorio\Tesis 31-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmCuadrosDialogo.resources
+D:\Escritorio\Tesis 31-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmDepartamento.resources
+D:\Escritorio\Tesis 31-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmEmpleado.resources
+D:\Escritorio\Tesis 31-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmHistoriaClinica.resources
+D:\Escritorio\Tesis 31-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmLocalidad.resources
+D:\Escritorio\Tesis 31-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmCobertura.resources
+D:\Escritorio\Tesis 31-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmLogin.resources
+D:\Escritorio\Tesis 31-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmPaciente.resources
+D:\Escritorio\Tesis 31-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmPrincipal.resources
+D:\Escritorio\Tesis 31-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmProfesional.resources
+D:\Escritorio\Tesis 31-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.Properties.Resources.resources
+D:\Escritorio\Tesis 31-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmProvincia.resources
+D:\Escritorio\Tesis 31-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmTiposDocumento.resources
+D:\Escritorio\Tesis 31-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmTurnos.resources
+D:\Escritorio\Tesis 31-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Escritorio\Tesis 31-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Escritorio\Tesis 31-07-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmUsuario.resources
+D:\Escritorio\Tesis 03-08-13\PrototipoInterfaz\SATO\SATO\bin\Debug\SATO.exe.config
+D:\Escritorio\Tesis 03-08-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\SATO.exe
+D:\Escritorio\Tesis 03-08-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\SATO.pdb
+D:\Escritorio\Tesis 03-08-13\PrototipoInterfaz\SATO\SATO\bin\Debug\SATO.exe
+D:\Escritorio\Tesis 03-08-13\PrototipoInterfaz\SATO\SATO\bin\Debug\SATO.pdb
+D:\Escritorio\Tesis 03-08-13\PrototipoInterfaz\SATO\SATO\bin\Debug\Entidades.dll
+D:\Escritorio\Tesis 03-08-13\PrototipoInterfaz\SATO\SATO\bin\Debug\Negocio.dll
+D:\Escritorio\Tesis 03-08-13\PrototipoInterfaz\SATO\SATO\bin\Debug\Datos.dll
+D:\Escritorio\Tesis 03-08-13\PrototipoInterfaz\SATO\SATO\bin\Debug\Entidades.pdb
+D:\Escritorio\Tesis 03-08-13\PrototipoInterfaz\SATO\SATO\bin\Debug\Negocio.pdb
+D:\Escritorio\Tesis 03-08-13\PrototipoInterfaz\SATO\SATO\bin\Debug\Datos.pdb
+D:\Escritorio\Tesis 03-08-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Escritorio\Tesis 03-08-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmBarrio.resources
+D:\Escritorio\Tesis 03-08-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmConsultorio.resources
+D:\Escritorio\Tesis 03-08-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmCuadrosDialogo.resources
+D:\Escritorio\Tesis 03-08-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmDepartamento.resources
+D:\Escritorio\Tesis 03-08-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmEmpleado.resources
+D:\Escritorio\Tesis 03-08-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmHistoriaClinica.resources
+D:\Escritorio\Tesis 03-08-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmLocalidad.resources
+D:\Escritorio\Tesis 03-08-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmCobertura.resources
+D:\Escritorio\Tesis 03-08-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmLogin.resources
+D:\Escritorio\Tesis 03-08-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmPaciente.resources
+D:\Escritorio\Tesis 03-08-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmPrincipal.resources
+D:\Escritorio\Tesis 03-08-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmProfesional.resources
+D:\Escritorio\Tesis 03-08-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.Properties.Resources.resources
+D:\Escritorio\Tesis 03-08-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmProvincia.resources
+D:\Escritorio\Tesis 03-08-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmTiposDocumento.resources
+D:\Escritorio\Tesis 03-08-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmTurnos.resources
+D:\Escritorio\Tesis 03-08-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmUsuario.resources
+D:\Escritorio\Tesis 03-08-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Escritorio\Tesis 03-08-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Escritorio\Tesis 03-08-13\PrototipoInterfaz\SATO\SATO\obj\x86\Debug\Presentacion.frmBuscarPaciente.resources
+C:\Users\GuzGuz\Desktop\SAto2\SATO\SATO\bin\Debug\SATO.exe.config
+C:\Users\GuzGuz\Desktop\SAto2\SATO\SATO\obj\x86\Debug\SATO.exe
+C:\Users\GuzGuz\Desktop\SAto2\SATO\SATO\obj\x86\Debug\SATO.pdb
+C:\Users\GuzGuz\Desktop\SAto2\SATO\SATO\bin\Debug\SATO.exe
+C:\Users\GuzGuz\Desktop\SAto2\SATO\SATO\bin\Debug\SATO.pdb
+C:\Users\GuzGuz\Desktop\SAto2\SATO\SATO\bin\Debug\Entidades.dll
+C:\Users\GuzGuz\Desktop\SAto2\SATO\SATO\bin\Debug\Negocio.dll
+C:\Users\GuzGuz\Desktop\SAto2\SATO\SATO\bin\Debug\Datos.dll
+C:\Users\GuzGuz\Desktop\SAto2\SATO\SATO\bin\Debug\Entidades.pdb
+C:\Users\GuzGuz\Desktop\SAto2\SATO\SATO\bin\Debug\Negocio.pdb
+C:\Users\GuzGuz\Desktop\SAto2\SATO\SATO\bin\Debug\Datos.pdb
+C:\Users\GuzGuz\Desktop\SAto2\SATO\SATO\obj\x86\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\GuzGuz\Desktop\SAto2\SATO\SATO\obj\x86\Debug\Presentacion.frmBarrio.resources
+C:\Users\GuzGuz\Desktop\SAto2\SATO\SATO\obj\x86\Debug\Presentacion.frmBuscarPaciente.resources
+C:\Users\GuzGuz\Desktop\SAto2\SATO\SATO\obj\x86\Debug\Presentacion.frmConsultorio.resources
+C:\Users\GuzGuz\Desktop\SAto2\SATO\SATO\obj\x86\Debug\Presentacion.frmCuadrosDialogo.resources
+C:\Users\GuzGuz\Desktop\SAto2\SATO\SATO\obj\x86\Debug\Presentacion.frmDepartamento.resources
+C:\Users\GuzGuz\Desktop\SAto2\SATO\SATO\obj\x86\Debug\Presentacion.frmEmpleado.resources
+C:\Users\GuzGuz\Desktop\SAto2\SATO\SATO\obj\x86\Debug\Presentacion.frmHistoriaClinica.resources
+C:\Users\GuzGuz\Desktop\SAto2\SATO\SATO\obj\x86\Debug\Presentacion.frmLocalidad.resources
+C:\Users\GuzGuz\Desktop\SAto2\SATO\SATO\obj\x86\Debug\Presentacion.frmCobertura.resources
+C:\Users\GuzGuz\Desktop\SAto2\SATO\SATO\obj\x86\Debug\Presentacion.frmLogin.resources
+C:\Users\GuzGuz\Desktop\SAto2\SATO\SATO\obj\x86\Debug\Presentacion.frmPaciente.resources
+C:\Users\GuzGuz\Desktop\SAto2\SATO\SATO\obj\x86\Debug\Presentacion.frmPrincipal.resources
+C:\Users\GuzGuz\Desktop\SAto2\SATO\SATO\obj\x86\Debug\Presentacion.frmProfesional.resources
+C:\Users\GuzGuz\Desktop\SAto2\SATO\SATO\obj\x86\Debug\Presentacion.Properties.Resources.resources
+C:\Users\GuzGuz\Desktop\SAto2\SATO\SATO\obj\x86\Debug\Presentacion.frmProvincia.resources
+C:\Users\GuzGuz\Desktop\SAto2\SATO\SATO\obj\x86\Debug\Presentacion.frmTiposDocumento.resources
+C:\Users\GuzGuz\Desktop\SAto2\SATO\SATO\obj\x86\Debug\Presentacion.frmTurnos.resources
+C:\Users\GuzGuz\Desktop\SAto2\SATO\SATO\obj\x86\Debug\Presentacion.frmUsuario.resources
+C:\Users\GuzGuz\Desktop\SAto2\SATO\SATO\obj\x86\Debug\Presentacion.csproj.GenerateResource.Cache
+E:\Repo\WImplementacion\SATO\SATO\SATO\bin\Debug\SATO.exe.config
+E:\Repo\WImplementacion\SATO\SATO\SATO\obj\x86\Debug\SATO.exe
+E:\Repo\WImplementacion\SATO\SATO\SATO\obj\x86\Debug\SATO.pdb
+C:\Users\GuzGuz\Desktop\SATO\SATO\SATO\bin\Debug\SATO.exe.config
+C:\Users\GuzGuz\Desktop\SATO\SATO\SATO\obj\x86\Debug\SATO.exe
+C:\Users\GuzGuz\Desktop\SATO\SATO\SATO\obj\x86\Debug\SATO.pdb
+C:\Users\GuzGuz\Desktop\SATO\SATO\SATO\bin\Debug\SATO.exe
+C:\Users\GuzGuz\Desktop\SATO\SATO\SATO\bin\Debug\SATO.pdb
+C:\Users\GuzGuz\Desktop\SATO\SATO\SATO\bin\Debug\Entidades.dll
+C:\Users\GuzGuz\Desktop\SATO\SATO\SATO\bin\Debug\Negocio.dll
+C:\Users\GuzGuz\Desktop\SATO\SATO\SATO\bin\Debug\Datos.dll
+C:\Users\GuzGuz\Desktop\SATO\SATO\SATO\bin\Debug\Entidades.pdb
+C:\Users\GuzGuz\Desktop\SATO\SATO\SATO\bin\Debug\Negocio.pdb
+C:\Users\GuzGuz\Desktop\SATO\SATO\SATO\bin\Debug\Datos.pdb
+C:\Users\GuzGuz\Desktop\SATO\SATO\SATO\obj\x86\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\GuzGuz\Desktop\SATO\SATO\SATO\obj\x86\Debug\Presentacion.frmBarrio.resources
+C:\Users\GuzGuz\Desktop\SATO\SATO\SATO\obj\x86\Debug\Presentacion.frmBuscarPaciente.resources
+C:\Users\GuzGuz\Desktop\SATO\SATO\SATO\obj\x86\Debug\Presentacion.frmConsultorio.resources
+C:\Users\GuzGuz\Desktop\SATO\SATO\SATO\obj\x86\Debug\Presentacion.frmCuadrosDialogo.resources
+C:\Users\GuzGuz\Desktop\SATO\SATO\SATO\obj\x86\Debug\Presentacion.frmDepartamento.resources
+C:\Users\GuzGuz\Desktop\SATO\SATO\SATO\obj\x86\Debug\Presentacion.frmEmpleado.resources
+C:\Users\GuzGuz\Desktop\SATO\SATO\SATO\obj\x86\Debug\Presentacion.frmHistoriaClinica.resources
+C:\Users\GuzGuz\Desktop\SATO\SATO\SATO\obj\x86\Debug\Presentacion.frmLocalidad.resources
+C:\Users\GuzGuz\Desktop\SATO\SATO\SATO\obj\x86\Debug\Presentacion.frmCobertura.resources
+C:\Users\GuzGuz\Desktop\SATO\SATO\SATO\obj\x86\Debug\Presentacion.frmLogin.resources
+C:\Users\GuzGuz\Desktop\SATO\SATO\SATO\obj\x86\Debug\Presentacion.frmPaciente.resources
+C:\Users\GuzGuz\Desktop\SATO\SATO\SATO\obj\x86\Debug\Presentacion.frmPrincipal.resources
+C:\Users\GuzGuz\Desktop\SATO\SATO\SATO\obj\x86\Debug\Presentacion.frmProfesional.resources
+C:\Users\GuzGuz\Desktop\SATO\SATO\SATO\obj\x86\Debug\Presentacion.Properties.Resources.resources
+C:\Users\GuzGuz\Desktop\SATO\SATO\SATO\obj\x86\Debug\Presentacion.frmProvincia.resources
+C:\Users\GuzGuz\Desktop\SATO\SATO\SATO\obj\x86\Debug\Presentacion.frmTiposDocumento.resources
+C:\Users\GuzGuz\Desktop\SATO\SATO\SATO\obj\x86\Debug\Presentacion.frmTurnos.resources
+C:\Users\GuzGuz\Desktop\SATO\SATO\SATO\obj\x86\Debug\Presentacion.frmUsuario.resources
+C:\Users\GuzGuz\Desktop\SATO\SATO\SATO\obj\x86\Debug\Presentacion.csproj.GenerateResource.Cache
+C:\Users\GuzGuz\Desktop\SATO\SATO\SATO\obj\x86\Debug\Presentacion.BuscarProfesional.resources
+C:\Users\Rodrigo\Documents\Visual Studio 2010\Projects\SATO 6.0\SATO\SATO\bin\Debug\SATO.exe.config
+C:\Users\Rodrigo\Documents\Visual Studio 2010\Projects\SATO 6.0\SATO\SATO\obj\x86\Debug\SATO.exe
+C:\Users\Rodrigo\Documents\Visual Studio 2010\Projects\SATO 6.0\SATO\SATO\obj\x86\Debug\SATO.pdb
+C:\Users\Rodrigo\Documents\Visual Studio 2010\Projects\SATO 6.0\SATO\SATO\obj\x86\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\Documents\Visual Studio 2010\Projects\SATO 6.0\SATO\SATO\obj\x86\Debug\Presentacion.frmBarrio.resources
+C:\Users\Rodrigo\Documents\Visual Studio 2010\Projects\SATO 6.0\SATO\SATO\obj\x86\Debug\Presentacion.frmBuscarPaciente.resources
+C:\Users\Rodrigo\Documents\Visual Studio 2010\Projects\SATO 6.0\SATO\SATO\obj\x86\Debug\Presentacion.BuscarProfesional.resources
+C:\Users\Rodrigo\Documents\Visual Studio 2010\Projects\SATO 6.0\SATO\SATO\obj\x86\Debug\Presentacion.frmConsultorio.resources
+C:\Users\Rodrigo\Documents\Visual Studio 2010\Projects\SATO 6.0\SATO\SATO\obj\x86\Debug\Presentacion.frmCuadrosDialogo.resources
+C:\Users\Rodrigo\Documents\Visual Studio 2010\Projects\SATO 6.0\SATO\SATO\obj\x86\Debug\Presentacion.frmDepartamento.resources
+C:\Users\Rodrigo\Documents\Visual Studio 2010\Projects\SATO 6.0\SATO\SATO\obj\x86\Debug\Presentacion.frmEmpleado.resources
+C:\Users\Rodrigo\Documents\Visual Studio 2010\Projects\SATO 6.0\SATO\SATO\obj\x86\Debug\Presentacion.frmHistoriaClinica.resources
+C:\Users\Rodrigo\Documents\Visual Studio 2010\Projects\SATO 6.0\SATO\SATO\obj\x86\Debug\Presentacion.frmLocalidad.resources
+C:\Users\Rodrigo\Documents\Visual Studio 2010\Projects\SATO 6.0\SATO\SATO\obj\x86\Debug\Presentacion.frmCobertura.resources
+C:\Users\Rodrigo\Documents\Visual Studio 2010\Projects\SATO 6.0\SATO\SATO\obj\x86\Debug\Presentacion.frmLogin.resources
+C:\Users\Rodrigo\Documents\Visual Studio 2010\Projects\SATO 6.0\SATO\SATO\obj\x86\Debug\Presentacion.frmPaciente.resources
+C:\Users\Rodrigo\Documents\Visual Studio 2010\Projects\SATO 6.0\SATO\SATO\obj\x86\Debug\Presentacion.frmPrincipal.resources
+C:\Users\Rodrigo\Documents\Visual Studio 2010\Projects\SATO 6.0\SATO\SATO\obj\x86\Debug\Presentacion.frmProfesional.resources
+C:\Users\Rodrigo\Documents\Visual Studio 2010\Projects\SATO 6.0\SATO\SATO\obj\x86\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Rodrigo\Documents\Visual Studio 2010\Projects\SATO 6.0\SATO\SATO\obj\x86\Debug\Presentacion.frmProvincia.resources
+C:\Users\Rodrigo\Documents\Visual Studio 2010\Projects\SATO 6.0\SATO\SATO\obj\x86\Debug\Presentacion.frmTiposDocumento.resources
+C:\Users\Rodrigo\Documents\Visual Studio 2010\Projects\SATO 6.0\SATO\SATO\obj\x86\Debug\Presentacion.frmTurnos.resources
+C:\Users\Rodrigo\Documents\Visual Studio 2010\Projects\SATO 6.0\SATO\SATO\obj\x86\Debug\Presentacion.frmUsuario.resources
+C:\Users\Rodrigo\Documents\Visual Studio 2010\Projects\SATO 6.0\SATO\SATO\obj\x86\Debug\Presentacion.csproj.GenerateResource.Cache
+C:\Users\Rodrigo\Documents\Visual Studio 2010\Projects\SATO 6.0\SATO\SATO\bin\Debug\SATO.exe
+C:\Users\Rodrigo\Documents\Visual Studio 2010\Projects\SATO 6.0\SATO\SATO\bin\Debug\SATO.pdb
+C:\Users\Rodrigo\Documents\Visual Studio 2010\Projects\SATO 6.0\SATO\SATO\bin\Debug\Entidades.dll
+C:\Users\Rodrigo\Documents\Visual Studio 2010\Projects\SATO 6.0\SATO\SATO\bin\Debug\Negocio.dll
+C:\Users\Rodrigo\Documents\Visual Studio 2010\Projects\SATO 6.0\SATO\SATO\bin\Debug\Datos.dll
+C:\Users\Rodrigo\Documents\Visual Studio 2010\Projects\SATO 6.0\SATO\SATO\bin\Debug\Entidades.pdb
+C:\Users\Rodrigo\Documents\Visual Studio 2010\Projects\SATO 6.0\SATO\SATO\bin\Debug\Negocio.pdb
+C:\Users\Rodrigo\Documents\Visual Studio 2010\Projects\SATO 6.0\SATO\SATO\bin\Debug\Datos.pdb
+C:\Users\Rodrigo\Documents\Visual Studio 2010\Projects\SATO 6.0\SATO\SATO\obj\x86\Debug\Presentacion.BuscarEmpleado.resources
+C:\Users\Rodrigo\Documents\Visual Studio 2010\Projects\SATO 6.0\SATO\SATO\obj\x86\Debug\Presentacion.frmDiagramacion.resources
+D:\Escritorio\tesis 07-04-14\SATO\bin\Debug\SATO.exe.config
+D:\Escritorio\tesis 07-04-14\SATO\obj\x86\Debug\SATO.exe
+D:\Escritorio\tesis 07-04-14\SATO\obj\x86\Debug\SATO.pdb
+D:\Escritorio\tesis 07-04-14\SATO\bin\Debug\SATO.exe
+D:\Escritorio\tesis 07-04-14\SATO\bin\Debug\SATO.pdb
+D:\Escritorio\tesis 07-04-14\SATO\bin\Debug\Entidades.dll
+D:\Escritorio\tesis 07-04-14\SATO\bin\Debug\Negocio.dll
+D:\Escritorio\tesis 07-04-14\SATO\bin\Debug\Datos.dll
+D:\Escritorio\tesis 07-04-14\SATO\bin\Debug\Entidades.pdb
+D:\Escritorio\tesis 07-04-14\SATO\bin\Debug\Negocio.pdb
+D:\Escritorio\tesis 07-04-14\SATO\bin\Debug\Datos.pdb
+D:\Escritorio\tesis 07-04-14\SATO\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Escritorio\tesis 07-04-14\SATO\obj\x86\Debug\Presentacion.frmBarrio.resources
+D:\Escritorio\tesis 07-04-14\SATO\obj\x86\Debug\Presentacion.BuscarEmpleado.resources
+D:\Escritorio\tesis 07-04-14\SATO\obj\x86\Debug\Presentacion.frmBuscarPaciente.resources
+D:\Escritorio\tesis 07-04-14\SATO\obj\x86\Debug\Presentacion.BuscarProfesional.resources
+D:\Escritorio\tesis 07-04-14\SATO\obj\x86\Debug\Presentacion.frmConsultorio.resources
+D:\Escritorio\tesis 07-04-14\SATO\obj\x86\Debug\Presentacion.frmCuadrosDialogo.resources
+D:\Escritorio\tesis 07-04-14\SATO\obj\x86\Debug\Presentacion.frmDepartamento.resources
+D:\Escritorio\tesis 07-04-14\SATO\obj\x86\Debug\Presentacion.frmDiagramacion.resources
+D:\Escritorio\tesis 07-04-14\SATO\obj\x86\Debug\Presentacion.frmEmpleado.resources
+D:\Escritorio\tesis 07-04-14\SATO\obj\x86\Debug\Presentacion.frmHistoriaClinica.resources
+D:\Escritorio\tesis 07-04-14\SATO\obj\x86\Debug\Presentacion.frmLocalidad.resources
+D:\Escritorio\tesis 07-04-14\SATO\obj\x86\Debug\Presentacion.frmCobertura.resources
+D:\Escritorio\tesis 07-04-14\SATO\obj\x86\Debug\Presentacion.frmLogin.resources
+D:\Escritorio\tesis 07-04-14\SATO\obj\x86\Debug\Presentacion.frmPaciente.resources
+D:\Escritorio\tesis 07-04-14\SATO\obj\x86\Debug\Presentacion.frmPrincipal.resources
+D:\Escritorio\tesis 07-04-14\SATO\obj\x86\Debug\Presentacion.frmProfesional.resources
+D:\Escritorio\tesis 07-04-14\SATO\obj\x86\Debug\Presentacion.Properties.Resources.resources
+D:\Escritorio\tesis 07-04-14\SATO\obj\x86\Debug\Presentacion.frmProvincia.resources
+D:\Escritorio\tesis 07-04-14\SATO\obj\x86\Debug\Presentacion.frmTiposDocumento.resources
+D:\Escritorio\tesis 07-04-14\SATO\obj\x86\Debug\Presentacion.frmTurnos.resources
+D:\Escritorio\tesis 07-04-14\SATO\obj\x86\Debug\Presentacion.frmUsuario.resources
+D:\Escritorio\tesis 07-04-14\SATO\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Escritorio\tesis 07-04-14\SATO\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Escritorio\tesis 07-04-14\SATO\obj\x86\Debug\Presentacion.frmMensaje.resources
+D:\Escritorio\tesis 18-04-14\SATO\bin\Debug\SATO.exe.config
+D:\Escritorio\tesis 18-04-14\SATO\obj\x86\Debug\SATO.exe
+D:\Escritorio\tesis 18-04-14\SATO\obj\x86\Debug\SATO.pdb
+D:\Escritorio\tesis 18-04-14\SATO\bin\Debug\SATO.exe
+D:\Escritorio\tesis 18-04-14\SATO\bin\Debug\SATO.pdb
+D:\Escritorio\tesis 18-04-14\SATO\bin\Debug\Entidades.dll
+D:\Escritorio\tesis 18-04-14\SATO\bin\Debug\Negocio.dll
+D:\Escritorio\tesis 18-04-14\SATO\bin\Debug\Datos.dll
+D:\Escritorio\tesis 18-04-14\SATO\bin\Debug\Entidades.pdb
+D:\Escritorio\tesis 18-04-14\SATO\bin\Debug\Negocio.pdb
+D:\Escritorio\tesis 18-04-14\SATO\bin\Debug\Datos.pdb
+D:\Escritorio\tesis 18-04-14\SATO\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Escritorio\tesis 18-04-14\SATO\obj\x86\Debug\Presentacion.frmBarrio.resources
+D:\Escritorio\tesis 18-04-14\SATO\obj\x86\Debug\Presentacion.BuscarEmpleado.resources
+D:\Escritorio\tesis 18-04-14\SATO\obj\x86\Debug\Presentacion.frmBuscarPaciente.resources
+D:\Escritorio\tesis 18-04-14\SATO\obj\x86\Debug\Presentacion.BuscarProfesional.resources
+D:\Escritorio\tesis 18-04-14\SATO\obj\x86\Debug\Presentacion.frmConsultorio.resources
+D:\Escritorio\tesis 18-04-14\SATO\obj\x86\Debug\Presentacion.frmCuadrosDialogo.resources
+D:\Escritorio\tesis 18-04-14\SATO\obj\x86\Debug\Presentacion.frmDepartamento.resources
+D:\Escritorio\tesis 18-04-14\SATO\obj\x86\Debug\Presentacion.frmDiagramacion.resources
+D:\Escritorio\tesis 18-04-14\SATO\obj\x86\Debug\Presentacion.frmEmpleado.resources
+D:\Escritorio\tesis 18-04-14\SATO\obj\x86\Debug\Presentacion.frmHistoriaClinica.resources
+D:\Escritorio\tesis 18-04-14\SATO\obj\x86\Debug\Presentacion.frmLocalidad.resources
+D:\Escritorio\tesis 18-04-14\SATO\obj\x86\Debug\Presentacion.frmCobertura.resources
+D:\Escritorio\tesis 18-04-14\SATO\obj\x86\Debug\Presentacion.frmLogin.resources
+D:\Escritorio\tesis 18-04-14\SATO\obj\x86\Debug\Presentacion.frmPaciente.resources
+D:\Escritorio\tesis 18-04-14\SATO\obj\x86\Debug\Presentacion.frmPrincipal.resources
+D:\Escritorio\tesis 18-04-14\SATO\obj\x86\Debug\Presentacion.frmProfesional.resources
+D:\Escritorio\tesis 18-04-14\SATO\obj\x86\Debug\Presentacion.Properties.Resources.resources
+D:\Escritorio\tesis 18-04-14\SATO\obj\x86\Debug\Presentacion.frmProvincia.resources
+D:\Escritorio\tesis 18-04-14\SATO\obj\x86\Debug\Presentacion.frmTiposDocumento.resources
+D:\Escritorio\tesis 18-04-14\SATO\obj\x86\Debug\Presentacion.frmTurnos.resources
+D:\Escritorio\tesis 18-04-14\SATO\obj\x86\Debug\Presentacion.frmUsuario.resources
+D:\Escritorio\tesis 18-04-14\SATO\obj\x86\Debug\Presentacion.frmMensaje.resources
+D:\Escritorio\tesis 18-04-14\SATO\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Escritorio\tesis 18-04-14\SATO\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Escritorio\tesis 23-04-14\SATO\bin\Debug\SATO.exe.config
+D:\Escritorio\tesis 23-04-14\SATO\obj\x86\Debug\SATO.exe
+D:\Escritorio\tesis 23-04-14\SATO\obj\x86\Debug\SATO.pdb
+D:\Escritorio\tesis 23-04-14\SATO\bin\Debug\SATO.exe
+D:\Escritorio\tesis 23-04-14\SATO\bin\Debug\SATO.pdb
+D:\Escritorio\tesis 23-04-14\SATO\bin\Debug\Entidades.dll
+D:\Escritorio\tesis 23-04-14\SATO\bin\Debug\Negocio.dll
+D:\Escritorio\tesis 23-04-14\SATO\bin\Debug\Datos.dll
+D:\Escritorio\tesis 23-04-14\SATO\bin\Debug\Entidades.pdb
+D:\Escritorio\tesis 23-04-14\SATO\bin\Debug\Negocio.pdb
+D:\Escritorio\tesis 23-04-14\SATO\bin\Debug\Datos.pdb
+D:\Escritorio\tesis 23-04-14\SATO\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Escritorio\tesis 23-04-14\SATO\obj\x86\Debug\Presentacion.frmBarrio.resources
+D:\Escritorio\tesis 23-04-14\SATO\obj\x86\Debug\Presentacion.BuscarEmpleado.resources
+D:\Escritorio\tesis 23-04-14\SATO\obj\x86\Debug\Presentacion.frmBuscarPaciente.resources
+D:\Escritorio\tesis 23-04-14\SATO\obj\x86\Debug\Presentacion.BuscarProfesional.resources
+D:\Escritorio\tesis 23-04-14\SATO\obj\x86\Debug\Presentacion.frmConsultorio.resources
+D:\Escritorio\tesis 23-04-14\SATO\obj\x86\Debug\Presentacion.frmCuadrosDialogo.resources
+D:\Escritorio\tesis 23-04-14\SATO\obj\x86\Debug\Presentacion.frmDepartamento.resources
+D:\Escritorio\tesis 23-04-14\SATO\obj\x86\Debug\Presentacion.frmDiagramacion.resources
+D:\Escritorio\tesis 23-04-14\SATO\obj\x86\Debug\Presentacion.frmEmpleado.resources
+D:\Escritorio\tesis 23-04-14\SATO\obj\x86\Debug\Presentacion.frmHistoriaClinica.resources
+D:\Escritorio\tesis 23-04-14\SATO\obj\x86\Debug\Presentacion.frmLocalidad.resources
+D:\Escritorio\tesis 23-04-14\SATO\obj\x86\Debug\Presentacion.frmCobertura.resources
+D:\Escritorio\tesis 23-04-14\SATO\obj\x86\Debug\Presentacion.frmLogin.resources
+D:\Escritorio\tesis 23-04-14\SATO\obj\x86\Debug\Presentacion.frmPaciente.resources
+D:\Escritorio\tesis 23-04-14\SATO\obj\x86\Debug\Presentacion.frmPrincipal.resources
+D:\Escritorio\tesis 23-04-14\SATO\obj\x86\Debug\Presentacion.frmProfesional.resources
+D:\Escritorio\tesis 23-04-14\SATO\obj\x86\Debug\Presentacion.Properties.Resources.resources
+D:\Escritorio\tesis 23-04-14\SATO\obj\x86\Debug\Presentacion.frmProvincia.resources
+D:\Escritorio\tesis 23-04-14\SATO\obj\x86\Debug\Presentacion.frmTiposDocumento.resources
+D:\Escritorio\tesis 23-04-14\SATO\obj\x86\Debug\Presentacion.frmTurnos.resources
+D:\Escritorio\tesis 23-04-14\SATO\obj\x86\Debug\Presentacion.frmUsuario.resources
+D:\Escritorio\tesis 23-04-14\SATO\obj\x86\Debug\Presentacion.frmMensaje.resources
+D:\Escritorio\tesis 23-04-14\SATO\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Escritorio\tesis 23-04-14\SATO\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Escritorio\tesis 23-04-14\SATO\obj\x86\Debug\Presentacion.Splash.resources
+D:\Escritorio\tesis 06-05-14\SATO\bin\Debug\SATO.exe.config
+D:\Escritorio\tesis 06-05-14\SATO\obj\x86\Debug\SATO.exe
+D:\Escritorio\tesis 06-05-14\SATO\obj\x86\Debug\SATO.pdb
+D:\Escritorio\tesis 06-05-14\SATO\bin\Debug\SATO.exe
+D:\Escritorio\tesis 06-05-14\SATO\bin\Debug\SATO.pdb
+D:\Escritorio\tesis 06-05-14\SATO\bin\Debug\Entidades.dll
+D:\Escritorio\tesis 06-05-14\SATO\bin\Debug\Negocio.dll
+D:\Escritorio\tesis 06-05-14\SATO\bin\Debug\Datos.dll
+D:\Escritorio\tesis 06-05-14\SATO\bin\Debug\Entidades.pdb
+D:\Escritorio\tesis 06-05-14\SATO\bin\Debug\Negocio.pdb
+D:\Escritorio\tesis 06-05-14\SATO\bin\Debug\Datos.pdb
+D:\Escritorio\tesis 06-05-14\SATO\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Escritorio\tesis 06-05-14\SATO\obj\x86\Debug\Presentacion.frmBarrio.resources
+D:\Escritorio\tesis 06-05-14\SATO\obj\x86\Debug\Presentacion.BuscarEmpleado.resources
+D:\Escritorio\tesis 06-05-14\SATO\obj\x86\Debug\Presentacion.frmBuscarPaciente.resources
+D:\Escritorio\tesis 06-05-14\SATO\obj\x86\Debug\Presentacion.BuscarProfesional.resources
+D:\Escritorio\tesis 06-05-14\SATO\obj\x86\Debug\Presentacion.frmConsultorio.resources
+D:\Escritorio\tesis 06-05-14\SATO\obj\x86\Debug\Presentacion.frmCuadrosDialogo.resources
+D:\Escritorio\tesis 06-05-14\SATO\obj\x86\Debug\Presentacion.frmDepartamento.resources
+D:\Escritorio\tesis 06-05-14\SATO\obj\x86\Debug\Presentacion.frmDiagramacion.resources
+D:\Escritorio\tesis 06-05-14\SATO\obj\x86\Debug\Presentacion.frmEmpleado.resources
+D:\Escritorio\tesis 06-05-14\SATO\obj\x86\Debug\Presentacion.Splash.resources
+D:\Escritorio\tesis 06-05-14\SATO\obj\x86\Debug\Presentacion.frmHistoriaClinica.resources
+D:\Escritorio\tesis 06-05-14\SATO\obj\x86\Debug\Presentacion.frmLocalidad.resources
+D:\Escritorio\tesis 06-05-14\SATO\obj\x86\Debug\Presentacion.frmCobertura.resources
+D:\Escritorio\tesis 06-05-14\SATO\obj\x86\Debug\Presentacion.frmLogin.resources
+D:\Escritorio\tesis 06-05-14\SATO\obj\x86\Debug\Presentacion.frmPaciente.resources
+D:\Escritorio\tesis 06-05-14\SATO\obj\x86\Debug\Presentacion.frmPrincipal.resources
+D:\Escritorio\tesis 06-05-14\SATO\obj\x86\Debug\Presentacion.frmProfesional.resources
+D:\Escritorio\tesis 06-05-14\SATO\obj\x86\Debug\Presentacion.Properties.Resources.resources
+D:\Escritorio\tesis 06-05-14\SATO\obj\x86\Debug\Presentacion.frmProvincia.resources
+D:\Escritorio\tesis 06-05-14\SATO\obj\x86\Debug\Presentacion.frmTiposDocumento.resources
+D:\Escritorio\tesis 06-05-14\SATO\obj\x86\Debug\Presentacion.frmTurnos.resources
+D:\Escritorio\tesis 06-05-14\SATO\obj\x86\Debug\Presentacion.frmUsuario.resources
+D:\Escritorio\tesis 06-05-14\SATO\obj\x86\Debug\Presentacion.frmMensaje.resources
+D:\Escritorio\tesis 06-05-14\SATO\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Escritorio\tesis 06-05-14\SATO\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Escritorio\tesis 12-05-14\SATO\bin\Debug\SATO.exe.config
+D:\Escritorio\tesis 12-05-14\SATO\obj\x86\Debug\SATO.exe
+D:\Escritorio\tesis 12-05-14\SATO\obj\x86\Debug\SATO.pdb
+D:\Escritorio\tesis 12-05-14\SATO\bin\Debug\SATO.exe
+D:\Escritorio\tesis 12-05-14\SATO\bin\Debug\SATO.pdb
+D:\Escritorio\tesis 12-05-14\SATO\bin\Debug\Entidades.dll
+D:\Escritorio\tesis 12-05-14\SATO\bin\Debug\Negocio.dll
+D:\Escritorio\tesis 12-05-14\SATO\bin\Debug\Datos.dll
+D:\Escritorio\tesis 12-05-14\SATO\bin\Debug\Entidades.pdb
+D:\Escritorio\tesis 12-05-14\SATO\bin\Debug\Negocio.pdb
+D:\Escritorio\tesis 12-05-14\SATO\bin\Debug\Datos.pdb
+D:\Escritorio\tesis 12-05-14\SATO\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Escritorio\tesis 12-05-14\SATO\obj\x86\Debug\Presentacion.frmBarrio.resources
+D:\Escritorio\tesis 12-05-14\SATO\obj\x86\Debug\Presentacion.BuscarEmpleado.resources
+D:\Escritorio\tesis 12-05-14\SATO\obj\x86\Debug\Presentacion.frmBuscarPaciente.resources
+D:\Escritorio\tesis 12-05-14\SATO\obj\x86\Debug\Presentacion.BuscarProfesional.resources
+D:\Escritorio\tesis 12-05-14\SATO\obj\x86\Debug\Presentacion.frmConsultorio.resources
+D:\Escritorio\tesis 12-05-14\SATO\obj\x86\Debug\Presentacion.frmCuadrosDialogo.resources
+D:\Escritorio\tesis 12-05-14\SATO\obj\x86\Debug\Presentacion.frmDepartamento.resources
+D:\Escritorio\tesis 12-05-14\SATO\obj\x86\Debug\Presentacion.frmDiagramacion.resources
+D:\Escritorio\tesis 12-05-14\SATO\obj\x86\Debug\Presentacion.frmEmpleado.resources
+D:\Escritorio\tesis 12-05-14\SATO\obj\x86\Debug\Presentacion.Splash.resources
+D:\Escritorio\tesis 12-05-14\SATO\obj\x86\Debug\Presentacion.frmHistoriaClinica.resources
+D:\Escritorio\tesis 12-05-14\SATO\obj\x86\Debug\Presentacion.frmLocalidad.resources
+D:\Escritorio\tesis 12-05-14\SATO\obj\x86\Debug\Presentacion.frmCobertura.resources
+D:\Escritorio\tesis 12-05-14\SATO\obj\x86\Debug\Presentacion.frmLogin.resources
+D:\Escritorio\tesis 12-05-14\SATO\obj\x86\Debug\Presentacion.frmPaciente.resources
+D:\Escritorio\tesis 12-05-14\SATO\obj\x86\Debug\Presentacion.frmPrincipal.resources
+D:\Escritorio\tesis 12-05-14\SATO\obj\x86\Debug\Presentacion.frmProfesional.resources
+D:\Escritorio\tesis 12-05-14\SATO\obj\x86\Debug\Presentacion.Properties.Resources.resources
+D:\Escritorio\tesis 12-05-14\SATO\obj\x86\Debug\Presentacion.frmProvincia.resources
+D:\Escritorio\tesis 12-05-14\SATO\obj\x86\Debug\Presentacion.frmTiposDocumento.resources
+D:\Escritorio\tesis 12-05-14\SATO\obj\x86\Debug\Presentacion.frmTurnos.resources
+D:\Escritorio\tesis 12-05-14\SATO\obj\x86\Debug\Presentacion.frmUsuario.resources
+D:\Escritorio\tesis 12-05-14\SATO\obj\x86\Debug\Presentacion.frmMensaje.resources
+D:\Escritorio\tesis 12-05-14\SATO\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Escritorio\tesis 12-05-14\SATO\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Escritorio\tesis 16-05-14\SATO\bin\Debug\SATO.exe.config
+D:\Escritorio\tesis 16-05-14\SATO\bin\Debug\SATO.exe
+D:\Escritorio\tesis 16-05-14\SATO\bin\Debug\SATO.pdb
+D:\Escritorio\tesis 16-05-14\SATO\bin\Debug\Entidades.dll
+D:\Escritorio\tesis 16-05-14\SATO\bin\Debug\Negocio.dll
+D:\Escritorio\tesis 16-05-14\SATO\bin\Debug\Datos.dll
+D:\Escritorio\tesis 16-05-14\SATO\bin\Debug\Entidades.pdb
+D:\Escritorio\tesis 16-05-14\SATO\bin\Debug\Negocio.pdb
+D:\Escritorio\tesis 16-05-14\SATO\bin\Debug\Datos.pdb
+D:\Escritorio\tesis 16-05-14\SATO\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Escritorio\tesis 16-05-14\SATO\obj\x86\Debug\Presentacion.frmBarrio.resources
+D:\Escritorio\tesis 16-05-14\SATO\obj\x86\Debug\Presentacion.BuscarEmpleado.resources
+D:\Escritorio\tesis 16-05-14\SATO\obj\x86\Debug\Presentacion.frmBuscarPaciente.resources
+D:\Escritorio\tesis 16-05-14\SATO\obj\x86\Debug\Presentacion.BuscarProfesional.resources
+D:\Escritorio\tesis 16-05-14\SATO\obj\x86\Debug\Presentacion.frmConsultorio.resources
+D:\Escritorio\tesis 16-05-14\SATO\obj\x86\Debug\Presentacion.frmCuadrosDialogo.resources
+D:\Escritorio\tesis 16-05-14\SATO\obj\x86\Debug\Presentacion.frmDepartamento.resources
+D:\Escritorio\tesis 16-05-14\SATO\obj\x86\Debug\Presentacion.frmDiagramacion.resources
+D:\Escritorio\tesis 16-05-14\SATO\obj\x86\Debug\Presentacion.frmEmpleado.resources
+D:\Escritorio\tesis 16-05-14\SATO\obj\x86\Debug\Presentacion.Splash.resources
+D:\Escritorio\tesis 16-05-14\SATO\obj\x86\Debug\Presentacion.frmHistoriaClinica.resources
+D:\Escritorio\tesis 16-05-14\SATO\obj\x86\Debug\Presentacion.frmLocalidad.resources
+D:\Escritorio\tesis 16-05-14\SATO\obj\x86\Debug\Presentacion.frmCobertura.resources
+D:\Escritorio\tesis 16-05-14\SATO\obj\x86\Debug\Presentacion.frmLogin.resources
+D:\Escritorio\tesis 16-05-14\SATO\obj\x86\Debug\Presentacion.frmPaciente.resources
+D:\Escritorio\tesis 16-05-14\SATO\obj\x86\Debug\Presentacion.frmPrincipal.resources
+D:\Escritorio\tesis 16-05-14\SATO\obj\x86\Debug\Presentacion.frmProfesional.resources
+D:\Escritorio\tesis 16-05-14\SATO\obj\x86\Debug\Presentacion.Properties.Resources.resources
+D:\Escritorio\tesis 16-05-14\SATO\obj\x86\Debug\Presentacion.frmProvincia.resources
+D:\Escritorio\tesis 16-05-14\SATO\obj\x86\Debug\Presentacion.frmTiposDocumento.resources
+D:\Escritorio\tesis 16-05-14\SATO\obj\x86\Debug\Presentacion.frmTurnos.resources
+D:\Escritorio\tesis 16-05-14\SATO\obj\x86\Debug\Presentacion.frmUsuario.resources
+D:\Escritorio\tesis 16-05-14\SATO\obj\x86\Debug\Presentacion.frmMensaje.resources
+D:\Escritorio\tesis 16-05-14\SATO\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Escritorio\tesis 16-05-14\SATO\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Escritorio\tesis 16-05-14\SATO\obj\x86\Debug\SATO.exe
+D:\Escritorio\tesis 16-05-14\SATO\obj\x86\Debug\SATO.pdb
+D:\Escritorio\tesis 21-05-14\SATO\bin\Debug\SATO.exe.config
+D:\Escritorio\tesis 21-05-14\SATO\bin\Debug\SATO.exe
+D:\Escritorio\tesis 21-05-14\SATO\bin\Debug\SATO.pdb
+D:\Escritorio\tesis 21-05-14\SATO\bin\Debug\Entidades.dll
+D:\Escritorio\tesis 21-05-14\SATO\bin\Debug\Negocio.dll
+D:\Escritorio\tesis 21-05-14\SATO\bin\Debug\Datos.dll
+D:\Escritorio\tesis 21-05-14\SATO\bin\Debug\Entidades.pdb
+D:\Escritorio\tesis 21-05-14\SATO\bin\Debug\Negocio.pdb
+D:\Escritorio\tesis 21-05-14\SATO\bin\Debug\Datos.pdb
+D:\Escritorio\tesis 21-05-14\SATO\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Escritorio\tesis 21-05-14\SATO\obj\x86\Debug\Presentacion.frmBarrio.resources
+D:\Escritorio\tesis 21-05-14\SATO\obj\x86\Debug\Presentacion.BuscarEmpleado.resources
+D:\Escritorio\tesis 21-05-14\SATO\obj\x86\Debug\Presentacion.frmBuscarPaciente.resources
+D:\Escritorio\tesis 21-05-14\SATO\obj\x86\Debug\Presentacion.BuscarProfesional.resources
+D:\Escritorio\tesis 21-05-14\SATO\obj\x86\Debug\Presentacion.frmConsultorio.resources
+D:\Escritorio\tesis 21-05-14\SATO\obj\x86\Debug\Presentacion.frmCuadrosDialogo.resources
+D:\Escritorio\tesis 21-05-14\SATO\obj\x86\Debug\Presentacion.frmDepartamento.resources
+D:\Escritorio\tesis 21-05-14\SATO\obj\x86\Debug\Presentacion.frmDiagramacion.resources
+D:\Escritorio\tesis 21-05-14\SATO\obj\x86\Debug\Presentacion.frmEmpleado.resources
+D:\Escritorio\tesis 21-05-14\SATO\obj\x86\Debug\Presentacion.Splash.resources
+D:\Escritorio\tesis 21-05-14\SATO\obj\x86\Debug\Presentacion.frmHistoriaClinica.resources
+D:\Escritorio\tesis 21-05-14\SATO\obj\x86\Debug\Presentacion.frmLocalidad.resources
+D:\Escritorio\tesis 21-05-14\SATO\obj\x86\Debug\Presentacion.frmCobertura.resources
+D:\Escritorio\tesis 21-05-14\SATO\obj\x86\Debug\Presentacion.frmLogin.resources
+D:\Escritorio\tesis 21-05-14\SATO\obj\x86\Debug\Presentacion.frmPaciente.resources
+D:\Escritorio\tesis 21-05-14\SATO\obj\x86\Debug\Presentacion.frmPrincipal.resources
+D:\Escritorio\tesis 21-05-14\SATO\obj\x86\Debug\Presentacion.frmProfesional.resources
+D:\Escritorio\tesis 21-05-14\SATO\obj\x86\Debug\Presentacion.Properties.Resources.resources
+D:\Escritorio\tesis 21-05-14\SATO\obj\x86\Debug\Presentacion.frmProvincia.resources
+D:\Escritorio\tesis 21-05-14\SATO\obj\x86\Debug\Presentacion.frmTiposDocumento.resources
+D:\Escritorio\tesis 21-05-14\SATO\obj\x86\Debug\Presentacion.frmTurnos.resources
+D:\Escritorio\tesis 21-05-14\SATO\obj\x86\Debug\Presentacion.frmUsuario.resources
+D:\Escritorio\tesis 21-05-14\SATO\obj\x86\Debug\Presentacion.frmMensaje.resources
+D:\Escritorio\tesis 21-05-14\SATO\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Escritorio\tesis 21-05-14\SATO\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Escritorio\tesis 21-05-14\SATO\obj\x86\Debug\SATO.exe
+D:\Escritorio\tesis 21-05-14\SATO\obj\x86\Debug\SATO.pdb
+D:\Escritorio\tesis 26-05-14\SATO\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Escritorio\tesis 26-05-14\SATO\obj\x86\Debug\Interop.WisSensorNLibLib.dll
+D:\Escritorio\tesis 26-05-14\SATO\obj\x86\Debug\Presentacion.csproj.ResolveComReference.cache
+D:\Escritorio\tesis 26-05-14\SATO\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Escritorio\tesis 26-05-14\SATO\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Escritorio\tesis 26-05-14\SATO\bin\Debug\SATO.exe.config
+D:\Escritorio\tesis 26-05-14\SATO\bin\Debug\SATO.exe
+D:\Escritorio\tesis 26-05-14\SATO\bin\Debug\SATO.pdb
+D:\Escritorio\tesis 26-05-14\SATO\bin\Debug\Entidades.dll
+D:\Escritorio\tesis 26-05-14\SATO\bin\Debug\Negocio.dll
+D:\Escritorio\tesis 26-05-14\SATO\bin\Debug\Datos.dll
+D:\Escritorio\tesis 26-05-14\SATO\bin\Debug\Entidades.pdb
+D:\Escritorio\tesis 26-05-14\SATO\bin\Debug\Negocio.pdb
+D:\Escritorio\tesis 26-05-14\SATO\bin\Debug\Datos.pdb
+D:\Escritorio\tesis 26-05-14\SATO\obj\x86\Debug\Presentacion.frmBarrio.resources
+D:\Escritorio\tesis 26-05-14\SATO\obj\x86\Debug\Presentacion.BuscarEmpleado.resources
+D:\Escritorio\tesis 26-05-14\SATO\obj\x86\Debug\Presentacion.frmBuscarPaciente.resources
+D:\Escritorio\tesis 26-05-14\SATO\obj\x86\Debug\Presentacion.BuscarProfesional.resources
+D:\Escritorio\tesis 26-05-14\SATO\obj\x86\Debug\Presentacion.frmConsultorio.resources
+D:\Escritorio\tesis 26-05-14\SATO\obj\x86\Debug\Presentacion.frmCuadrosDialogo.resources
+D:\Escritorio\tesis 26-05-14\SATO\obj\x86\Debug\Presentacion.frmDepartamento.resources
+D:\Escritorio\tesis 26-05-14\SATO\obj\x86\Debug\Presentacion.frmDiagramacion.resources
+D:\Escritorio\tesis 26-05-14\SATO\obj\x86\Debug\Presentacion.frmEmpleado.resources
+D:\Escritorio\tesis 26-05-14\SATO\obj\x86\Debug\Presentacion.Splash.resources
+D:\Escritorio\tesis 26-05-14\SATO\obj\x86\Debug\Presentacion.frmHistoriaClinica.resources
+D:\Escritorio\tesis 26-05-14\SATO\obj\x86\Debug\Presentacion.frmLocalidad.resources
+D:\Escritorio\tesis 26-05-14\SATO\obj\x86\Debug\Presentacion.frmCobertura.resources
+D:\Escritorio\tesis 26-05-14\SATO\obj\x86\Debug\Presentacion.frmLogin.resources
+D:\Escritorio\tesis 26-05-14\SATO\obj\x86\Debug\Presentacion.frmPaciente.resources
+D:\Escritorio\tesis 26-05-14\SATO\obj\x86\Debug\Presentacion.frmPrincipal.resources
+D:\Escritorio\tesis 26-05-14\SATO\obj\x86\Debug\Presentacion.frmProfesional.resources
+D:\Escritorio\tesis 26-05-14\SATO\obj\x86\Debug\Presentacion.Properties.Resources.resources
+D:\Escritorio\tesis 26-05-14\SATO\obj\x86\Debug\Presentacion.frmProvincia.resources
+D:\Escritorio\tesis 26-05-14\SATO\obj\x86\Debug\Presentacion.frmTiposDocumento.resources
+D:\Escritorio\tesis 26-05-14\SATO\obj\x86\Debug\Presentacion.frmTurnos.resources
+D:\Escritorio\tesis 26-05-14\SATO\obj\x86\Debug\Presentacion.frmUsuario.resources
+D:\Escritorio\tesis 26-05-14\SATO\obj\x86\Debug\Presentacion.frmMensaje.resources
+D:\Escritorio\tesis 26-05-14\SATO\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Escritorio\tesis 26-05-14\SATO\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Escritorio\tesis 26-05-14\SATO\obj\x86\Debug\SATO.exe
+D:\Escritorio\tesis 26-05-14\SATO\obj\x86\Debug\SATO.pdb
+D:\Escritorio\tesis 29-05-14\SATO\bin\Debug\SATO.exe.config
+D:\Escritorio\tesis 29-05-14\SATO\obj\x86\Debug\Interop.WisSensorNLibLib.dll
+D:\Escritorio\tesis 29-05-14\SATO\obj\x86\Debug\Presentacion.csproj.ResolveComReference.cache
+D:\Escritorio\tesis 29-05-14\SATO\bin\Debug\SATO.exe
+D:\Escritorio\tesis 29-05-14\SATO\bin\Debug\SATO.pdb
+D:\Escritorio\tesis 29-05-14\SATO\bin\Debug\Entidades.dll
+D:\Escritorio\tesis 29-05-14\SATO\bin\Debug\Negocio.dll
+D:\Escritorio\tesis 29-05-14\SATO\bin\Debug\Datos.dll
+D:\Escritorio\tesis 29-05-14\SATO\bin\Debug\Entidades.pdb
+D:\Escritorio\tesis 29-05-14\SATO\bin\Debug\Negocio.pdb
+D:\Escritorio\tesis 29-05-14\SATO\bin\Debug\Datos.pdb
+D:\Escritorio\tesis 29-05-14\SATO\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Escritorio\tesis 29-05-14\SATO\obj\x86\Debug\Presentacion.frmBarrio.resources
+D:\Escritorio\tesis 29-05-14\SATO\obj\x86\Debug\Presentacion.BuscarEmpleado.resources
+D:\Escritorio\tesis 29-05-14\SATO\obj\x86\Debug\Presentacion.frmBuscarPaciente.resources
+D:\Escritorio\tesis 29-05-14\SATO\obj\x86\Debug\Presentacion.BuscarProfesional.resources
+D:\Escritorio\tesis 29-05-14\SATO\obj\x86\Debug\Presentacion.frmConsultorio.resources
+D:\Escritorio\tesis 29-05-14\SATO\obj\x86\Debug\Presentacion.frmCuadrosDialogo.resources
+D:\Escritorio\tesis 29-05-14\SATO\obj\x86\Debug\Presentacion.frmDepartamento.resources
+D:\Escritorio\tesis 29-05-14\SATO\obj\x86\Debug\Presentacion.frmDiagramacion.resources
+D:\Escritorio\tesis 29-05-14\SATO\obj\x86\Debug\Presentacion.frmEmpleado.resources
+D:\Escritorio\tesis 29-05-14\SATO\obj\x86\Debug\Presentacion.Splash.resources
+D:\Escritorio\tesis 29-05-14\SATO\obj\x86\Debug\Presentacion.frmHistoriaClinica.resources
+D:\Escritorio\tesis 29-05-14\SATO\obj\x86\Debug\Presentacion.frmLocalidad.resources
+D:\Escritorio\tesis 29-05-14\SATO\obj\x86\Debug\Presentacion.frmCobertura.resources
+D:\Escritorio\tesis 29-05-14\SATO\obj\x86\Debug\Presentacion.frmLogin.resources
+D:\Escritorio\tesis 29-05-14\SATO\obj\x86\Debug\Presentacion.frmPaciente.resources
+D:\Escritorio\tesis 29-05-14\SATO\obj\x86\Debug\Presentacion.frmPrincipal.resources
+D:\Escritorio\tesis 29-05-14\SATO\obj\x86\Debug\Presentacion.frmProfesional.resources
+D:\Escritorio\tesis 29-05-14\SATO\obj\x86\Debug\Presentacion.Properties.Resources.resources
+D:\Escritorio\tesis 29-05-14\SATO\obj\x86\Debug\Presentacion.frmProvincia.resources
+D:\Escritorio\tesis 29-05-14\SATO\obj\x86\Debug\Presentacion.frmTiposDocumento.resources
+D:\Escritorio\tesis 29-05-14\SATO\obj\x86\Debug\Presentacion.frmTurnos.resources
+D:\Escritorio\tesis 29-05-14\SATO\obj\x86\Debug\Presentacion.frmUsuario.resources
+D:\Escritorio\tesis 29-05-14\SATO\obj\x86\Debug\Presentacion.frmMensaje.resources
+D:\Escritorio\tesis 29-05-14\SATO\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Escritorio\tesis 29-05-14\SATO\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Escritorio\tesis 29-05-14\SATO\obj\x86\Debug\SATO.exe
+D:\Escritorio\tesis 29-05-14\SATO\obj\x86\Debug\SATO.pdb
+D:\Escritorio\tesis 01-06-14\SATO\bin\Debug\SATO.exe.config
+D:\Escritorio\tesis 01-06-14\SATO\obj\x86\Debug\Interop.WisSensorNLibLib.dll
+D:\Escritorio\tesis 01-06-14\SATO\obj\x86\Debug\Presentacion.csproj.ResolveComReference.cache
+D:\Escritorio\tesis 01-06-14\SATO\obj\x86\Debug\SATO.exe
+D:\Escritorio\tesis 01-06-14\SATO\obj\x86\Debug\SATO.pdb
+D:\Escritorio\tesis 01-06-14\SATO\bin\Debug\SATO.exe
+D:\Escritorio\tesis 01-06-14\SATO\bin\Debug\SATO.pdb
+D:\Escritorio\tesis 01-06-14\SATO\bin\Debug\Entidades.dll
+D:\Escritorio\tesis 01-06-14\SATO\bin\Debug\Negocio.dll
+D:\Escritorio\tesis 01-06-14\SATO\bin\Debug\Datos.dll
+D:\Escritorio\tesis 01-06-14\SATO\bin\Debug\Entidades.pdb
+D:\Escritorio\tesis 01-06-14\SATO\bin\Debug\Negocio.pdb
+D:\Escritorio\tesis 01-06-14\SATO\bin\Debug\Datos.pdb
+D:\Escritorio\tesis 01-06-14\SATO\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Escritorio\tesis 01-06-14\SATO\obj\x86\Debug\Presentacion.frmBarrio.resources
+D:\Escritorio\tesis 01-06-14\SATO\obj\x86\Debug\Presentacion.BuscarEmpleado.resources
+D:\Escritorio\tesis 01-06-14\SATO\obj\x86\Debug\Presentacion.frmBuscarPaciente.resources
+D:\Escritorio\tesis 01-06-14\SATO\obj\x86\Debug\Presentacion.BuscarProfesional.resources
+D:\Escritorio\tesis 01-06-14\SATO\obj\x86\Debug\Presentacion.frmConsultorio.resources
+D:\Escritorio\tesis 01-06-14\SATO\obj\x86\Debug\Presentacion.frmCuadrosDialogo.resources
+D:\Escritorio\tesis 01-06-14\SATO\obj\x86\Debug\Presentacion.frmDepartamento.resources
+D:\Escritorio\tesis 01-06-14\SATO\obj\x86\Debug\Presentacion.frmDiagramacion.resources
+D:\Escritorio\tesis 01-06-14\SATO\obj\x86\Debug\Presentacion.frmEmpleado.resources
+D:\Escritorio\tesis 01-06-14\SATO\obj\x86\Debug\Presentacion.Splash.resources
+D:\Escritorio\tesis 01-06-14\SATO\obj\x86\Debug\Presentacion.frmHistoriaClinica.resources
+D:\Escritorio\tesis 01-06-14\SATO\obj\x86\Debug\Presentacion.frmLocalidad.resources
+D:\Escritorio\tesis 01-06-14\SATO\obj\x86\Debug\Presentacion.frmCobertura.resources
+D:\Escritorio\tesis 01-06-14\SATO\obj\x86\Debug\Presentacion.frmLogin.resources
+D:\Escritorio\tesis 01-06-14\SATO\obj\x86\Debug\Presentacion.frmPaciente.resources
+D:\Escritorio\tesis 01-06-14\SATO\obj\x86\Debug\Presentacion.frmPrincipal.resources
+D:\Escritorio\tesis 01-06-14\SATO\obj\x86\Debug\Presentacion.frmProfesional.resources
+D:\Escritorio\tesis 01-06-14\SATO\obj\x86\Debug\Presentacion.Properties.Resources.resources
+D:\Escritorio\tesis 01-06-14\SATO\obj\x86\Debug\Presentacion.frmProvincia.resources
+D:\Escritorio\tesis 01-06-14\SATO\obj\x86\Debug\Presentacion.frmTiposDocumento.resources
+D:\Escritorio\tesis 01-06-14\SATO\obj\x86\Debug\Presentacion.frmTurnos.resources
+D:\Escritorio\tesis 01-06-14\SATO\obj\x86\Debug\Presentacion.frmUsuario.resources
+D:\Escritorio\tesis 01-06-14\SATO\obj\x86\Debug\Presentacion.frmMensaje.resources
+D:\Escritorio\tesis 01-06-14\SATO\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Escritorio\tesis 01-06-14\SATO\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Escritorio\tesis 11-06-14\SATO\bin\Debug\SATO.exe.config
+D:\Escritorio\tesis 11-06-14\SATO\obj\x86\Debug\Interop.WisSensorNLibLib.dll
+D:\Escritorio\tesis 11-06-14\SATO\obj\x86\Debug\Presentacion.csproj.ResolveComReference.cache
+D:\Escritorio\tesis 11-06-14\SATO\obj\x86\Debug\SATO.exe
+D:\Escritorio\tesis 11-06-14\SATO\obj\x86\Debug\SATO.pdb
+D:\Escritorio\tesis 11-06-14\SATO\bin\Debug\SATO.exe
+D:\Escritorio\tesis 11-06-14\SATO\bin\Debug\SATO.pdb
+D:\Escritorio\tesis 11-06-14\SATO\bin\Debug\Entidades.dll
+D:\Escritorio\tesis 11-06-14\SATO\bin\Debug\Negocio.dll
+D:\Escritorio\tesis 11-06-14\SATO\bin\Debug\Datos.dll
+D:\Escritorio\tesis 11-06-14\SATO\bin\Debug\Entidades.pdb
+D:\Escritorio\tesis 11-06-14\SATO\bin\Debug\Negocio.pdb
+D:\Escritorio\tesis 11-06-14\SATO\bin\Debug\Datos.pdb
+D:\Escritorio\tesis 11-06-14\SATO\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Escritorio\tesis 11-06-14\SATO\obj\x86\Debug\Presentacion.frmBarrio.resources
+D:\Escritorio\tesis 11-06-14\SATO\obj\x86\Debug\Presentacion.BuscarEmpleado.resources
+D:\Escritorio\tesis 11-06-14\SATO\obj\x86\Debug\Presentacion.frmBuscarPaciente.resources
+D:\Escritorio\tesis 11-06-14\SATO\obj\x86\Debug\Presentacion.BuscarProfesional.resources
+D:\Escritorio\tesis 11-06-14\SATO\obj\x86\Debug\Presentacion.frmConsultorio.resources
+D:\Escritorio\tesis 11-06-14\SATO\obj\x86\Debug\Presentacion.frmCuadrosDialogo.resources
+D:\Escritorio\tesis 11-06-14\SATO\obj\x86\Debug\Presentacion.frmDepartamento.resources
+D:\Escritorio\tesis 11-06-14\SATO\obj\x86\Debug\Presentacion.frmDiagramacion.resources
+D:\Escritorio\tesis 11-06-14\SATO\obj\x86\Debug\Presentacion.frmEmpleado.resources
+D:\Escritorio\tesis 11-06-14\SATO\obj\x86\Debug\Presentacion.Splash.resources
+D:\Escritorio\tesis 11-06-14\SATO\obj\x86\Debug\Presentacion.frmHistoriaClinica.resources
+D:\Escritorio\tesis 11-06-14\SATO\obj\x86\Debug\Presentacion.frmLocalidad.resources
+D:\Escritorio\tesis 11-06-14\SATO\obj\x86\Debug\Presentacion.frmCobertura.resources
+D:\Escritorio\tesis 11-06-14\SATO\obj\x86\Debug\Presentacion.frmLogin.resources
+D:\Escritorio\tesis 11-06-14\SATO\obj\x86\Debug\Presentacion.frmPaciente.resources
+D:\Escritorio\tesis 11-06-14\SATO\obj\x86\Debug\Presentacion.frmPrincipal.resources
+D:\Escritorio\tesis 11-06-14\SATO\obj\x86\Debug\Presentacion.frmProfesional.resources
+D:\Escritorio\tesis 11-06-14\SATO\obj\x86\Debug\Presentacion.Properties.Resources.resources
+D:\Escritorio\tesis 11-06-14\SATO\obj\x86\Debug\Presentacion.frmProvincia.resources
+D:\Escritorio\tesis 11-06-14\SATO\obj\x86\Debug\Presentacion.frmTiposDocumento.resources
+D:\Escritorio\tesis 11-06-14\SATO\obj\x86\Debug\Presentacion.frmTurnos.resources
+D:\Escritorio\tesis 11-06-14\SATO\obj\x86\Debug\Presentacion.frmUsuario.resources
+D:\Escritorio\tesis 11-06-14\SATO\obj\x86\Debug\Presentacion.frmMensaje.resources
+D:\Escritorio\tesis 11-06-14\SATO\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Escritorio\tesis 11-06-14\SATO\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Escritorio\tesis 15-06-14\SATO\bin\Debug\SATO.exe.config
+D:\Escritorio\tesis 15-06-14\SATO\obj\x86\Debug\Interop.WisSensorNLibLib.dll
+D:\Escritorio\tesis 15-06-14\SATO\obj\x86\Debug\Presentacion.csproj.ResolveComReference.cache
+D:\Escritorio\tesis 15-06-14\SATO\obj\x86\Debug\SATO.exe
+D:\Escritorio\tesis 15-06-14\SATO\obj\x86\Debug\SATO.pdb
+D:\Escritorio\tesis 15-06-14\SATO\bin\Debug\SATO.exe
+D:\Escritorio\tesis 15-06-14\SATO\bin\Debug\SATO.pdb
+D:\Escritorio\tesis 15-06-14\SATO\bin\Debug\Entidades.dll
+D:\Escritorio\tesis 15-06-14\SATO\bin\Debug\Negocio.dll
+D:\Escritorio\tesis 15-06-14\SATO\bin\Debug\Datos.dll
+D:\Escritorio\tesis 15-06-14\SATO\bin\Debug\Entidades.pdb
+D:\Escritorio\tesis 15-06-14\SATO\bin\Debug\Negocio.pdb
+D:\Escritorio\tesis 15-06-14\SATO\bin\Debug\Datos.pdb
+D:\Escritorio\tesis 15-06-14\SATO\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Escritorio\tesis 15-06-14\SATO\obj\x86\Debug\Presentacion.frmBarrio.resources
+D:\Escritorio\tesis 15-06-14\SATO\obj\x86\Debug\Presentacion.BuscarEmpleado.resources
+D:\Escritorio\tesis 15-06-14\SATO\obj\x86\Debug\Presentacion.frmBuscarPaciente.resources
+D:\Escritorio\tesis 15-06-14\SATO\obj\x86\Debug\Presentacion.BuscarProfesional.resources
+D:\Escritorio\tesis 15-06-14\SATO\obj\x86\Debug\Presentacion.frmConsultorio.resources
+D:\Escritorio\tesis 15-06-14\SATO\obj\x86\Debug\Presentacion.frmCuadrosDialogo.resources
+D:\Escritorio\tesis 15-06-14\SATO\obj\x86\Debug\Presentacion.frmDepartamento.resources
+D:\Escritorio\tesis 15-06-14\SATO\obj\x86\Debug\Presentacion.frmDiagramacion.resources
+D:\Escritorio\tesis 15-06-14\SATO\obj\x86\Debug\Presentacion.frmEmpleado.resources
+D:\Escritorio\tesis 15-06-14\SATO\obj\x86\Debug\Presentacion.Splash.resources
+D:\Escritorio\tesis 15-06-14\SATO\obj\x86\Debug\Presentacion.frmHistoriaClinica.resources
+D:\Escritorio\tesis 15-06-14\SATO\obj\x86\Debug\Presentacion.frmLocalidad.resources
+D:\Escritorio\tesis 15-06-14\SATO\obj\x86\Debug\Presentacion.frmCobertura.resources
+D:\Escritorio\tesis 15-06-14\SATO\obj\x86\Debug\Presentacion.frmLogin.resources
+D:\Escritorio\tesis 15-06-14\SATO\obj\x86\Debug\Presentacion.frmPaciente.resources
+D:\Escritorio\tesis 15-06-14\SATO\obj\x86\Debug\Presentacion.frmPrincipal.resources
+D:\Escritorio\tesis 15-06-14\SATO\obj\x86\Debug\Presentacion.frmProfesional.resources
+D:\Escritorio\tesis 15-06-14\SATO\obj\x86\Debug\Presentacion.Properties.Resources.resources
+D:\Escritorio\tesis 15-06-14\SATO\obj\x86\Debug\Presentacion.frmProvincia.resources
+D:\Escritorio\tesis 15-06-14\SATO\obj\x86\Debug\Presentacion.frmTiposDocumento.resources
+D:\Escritorio\tesis 15-06-14\SATO\obj\x86\Debug\Presentacion.frmTurnos.resources
+D:\Escritorio\tesis 15-06-14\SATO\obj\x86\Debug\Presentacion.frmUsuario.resources
+D:\Escritorio\tesis 15-06-14\SATO\obj\x86\Debug\Presentacion.frmMensaje.resources
+D:\Escritorio\tesis 15-06-14\SATO\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Escritorio\tesis 15-06-14\SATO\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Escritorio\tesis 23-06-14\SATO\bin\Debug\SATO.exe.config
+D:\Escritorio\tesis 23-06-14\SATO\obj\x86\Debug\Interop.WisSensorNLibLib.dll
+D:\Escritorio\tesis 23-06-14\SATO\obj\x86\Debug\Presentacion.csproj.ResolveComReference.cache
+D:\Escritorio\tesis 23-06-14\SATO\obj\x86\Debug\SATO.exe
+D:\Escritorio\tesis 23-06-14\SATO\obj\x86\Debug\SATO.pdb
+D:\Escritorio\tesis 23-06-14\SATO\bin\Debug\SATO.exe
+D:\Escritorio\tesis 23-06-14\SATO\bin\Debug\SATO.pdb
+D:\Escritorio\tesis 23-06-14\SATO\bin\Debug\Entidades.dll
+D:\Escritorio\tesis 23-06-14\SATO\bin\Debug\Negocio.dll
+D:\Escritorio\tesis 23-06-14\SATO\bin\Debug\Datos.dll
+D:\Escritorio\tesis 23-06-14\SATO\bin\Debug\Entidades.pdb
+D:\Escritorio\tesis 23-06-14\SATO\bin\Debug\Negocio.pdb
+D:\Escritorio\tesis 23-06-14\SATO\bin\Debug\Datos.pdb
+D:\Escritorio\tesis 23-06-14\SATO\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Escritorio\tesis 23-06-14\SATO\obj\x86\Debug\Presentacion.frmBarrio.resources
+D:\Escritorio\tesis 23-06-14\SATO\obj\x86\Debug\Presentacion.BuscarEmpleado.resources
+D:\Escritorio\tesis 23-06-14\SATO\obj\x86\Debug\Presentacion.frmBuscarPaciente.resources
+D:\Escritorio\tesis 23-06-14\SATO\obj\x86\Debug\Presentacion.BuscarProfesional.resources
+D:\Escritorio\tesis 23-06-14\SATO\obj\x86\Debug\Presentacion.frmConsultorio.resources
+D:\Escritorio\tesis 23-06-14\SATO\obj\x86\Debug\Presentacion.frmCuadrosDialogo.resources
+D:\Escritorio\tesis 23-06-14\SATO\obj\x86\Debug\Presentacion.frmDepartamento.resources
+D:\Escritorio\tesis 23-06-14\SATO\obj\x86\Debug\Presentacion.frmDiagramacion.resources
+D:\Escritorio\tesis 23-06-14\SATO\obj\x86\Debug\Presentacion.frmEmpleado.resources
+D:\Escritorio\tesis 23-06-14\SATO\obj\x86\Debug\Presentacion.Splash.resources
+D:\Escritorio\tesis 23-06-14\SATO\obj\x86\Debug\Presentacion.frmHistoriaClinica.resources
+D:\Escritorio\tesis 23-06-14\SATO\obj\x86\Debug\Presentacion.frmLocalidad.resources
+D:\Escritorio\tesis 23-06-14\SATO\obj\x86\Debug\Presentacion.frmCobertura.resources
+D:\Escritorio\tesis 23-06-14\SATO\obj\x86\Debug\Presentacion.frmLogin.resources
+D:\Escritorio\tesis 23-06-14\SATO\obj\x86\Debug\Presentacion.frmPaciente.resources
+D:\Escritorio\tesis 23-06-14\SATO\obj\x86\Debug\Presentacion.frmPrincipal.resources
+D:\Escritorio\tesis 23-06-14\SATO\obj\x86\Debug\Presentacion.frmProfesional.resources
+D:\Escritorio\tesis 23-06-14\SATO\obj\x86\Debug\Presentacion.Properties.Resources.resources
+D:\Escritorio\tesis 23-06-14\SATO\obj\x86\Debug\Presentacion.frmProvincia.resources
+D:\Escritorio\tesis 23-06-14\SATO\obj\x86\Debug\Presentacion.frmTiposDocumento.resources
+D:\Escritorio\tesis 23-06-14\SATO\obj\x86\Debug\Presentacion.frmTurnos.resources
+D:\Escritorio\tesis 23-06-14\SATO\obj\x86\Debug\Presentacion.frmUsuario.resources
+D:\Escritorio\tesis 23-06-14\SATO\obj\x86\Debug\Presentacion.frmMensaje.resources
+D:\Escritorio\tesis 23-06-14\SATO\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Escritorio\tesis 23-06-14\SATO\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Escritorio\tesis 24-06-14\SATO\bin\Debug\SATO.exe.config
+D:\Escritorio\tesis 24-06-14\SATO\obj\x86\Debug\Interop.WisSensorNLibLib.dll
+D:\Escritorio\tesis 24-06-14\SATO\obj\x86\Debug\Presentacion.csproj.ResolveComReference.cache
+D:\Escritorio\tesis 24-06-14\SATO\obj\x86\Debug\SATO.exe
+D:\Escritorio\tesis 24-06-14\SATO\obj\x86\Debug\SATO.pdb
+D:\Escritorio\tesis 24-06-14\SATO\bin\Debug\SATO.exe
+D:\Escritorio\tesis 24-06-14\SATO\bin\Debug\SATO.pdb
+D:\Escritorio\tesis 24-06-14\SATO\bin\Debug\Entidades.dll
+D:\Escritorio\tesis 24-06-14\SATO\bin\Debug\Negocio.dll
+D:\Escritorio\tesis 24-06-14\SATO\bin\Debug\Datos.dll
+D:\Escritorio\tesis 24-06-14\SATO\bin\Debug\Entidades.pdb
+D:\Escritorio\tesis 24-06-14\SATO\bin\Debug\Negocio.pdb
+D:\Escritorio\tesis 24-06-14\SATO\bin\Debug\Datos.pdb
+D:\Escritorio\tesis 24-06-14\SATO\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Escritorio\tesis 24-06-14\SATO\obj\x86\Debug\Presentacion.frmBarrio.resources
+D:\Escritorio\tesis 24-06-14\SATO\obj\x86\Debug\Presentacion.BuscarEmpleado.resources
+D:\Escritorio\tesis 24-06-14\SATO\obj\x86\Debug\Presentacion.frmBuscarPaciente.resources
+D:\Escritorio\tesis 24-06-14\SATO\obj\x86\Debug\Presentacion.BuscarProfesional.resources
+D:\Escritorio\tesis 24-06-14\SATO\obj\x86\Debug\Presentacion.frmConsultorio.resources
+D:\Escritorio\tesis 24-06-14\SATO\obj\x86\Debug\Presentacion.frmCuadrosDialogo.resources
+D:\Escritorio\tesis 24-06-14\SATO\obj\x86\Debug\Presentacion.frmDepartamento.resources
+D:\Escritorio\tesis 24-06-14\SATO\obj\x86\Debug\Presentacion.frmDiagramacion.resources
+D:\Escritorio\tesis 24-06-14\SATO\obj\x86\Debug\Presentacion.frmEmpleado.resources
+D:\Escritorio\tesis 24-06-14\SATO\obj\x86\Debug\Presentacion.Splash.resources
+D:\Escritorio\tesis 24-06-14\SATO\obj\x86\Debug\Presentacion.frmHistoriaClinica.resources
+D:\Escritorio\tesis 24-06-14\SATO\obj\x86\Debug\Presentacion.frmLocalidad.resources
+D:\Escritorio\tesis 24-06-14\SATO\obj\x86\Debug\Presentacion.frmCobertura.resources
+D:\Escritorio\tesis 24-06-14\SATO\obj\x86\Debug\Presentacion.frmLogin.resources
+D:\Escritorio\tesis 24-06-14\SATO\obj\x86\Debug\Presentacion.frmPaciente.resources
+D:\Escritorio\tesis 24-06-14\SATO\obj\x86\Debug\Presentacion.frmPrincipal.resources
+D:\Escritorio\tesis 24-06-14\SATO\obj\x86\Debug\Presentacion.frmProfesional.resources
+D:\Escritorio\tesis 24-06-14\SATO\obj\x86\Debug\Presentacion.Properties.Resources.resources
+D:\Escritorio\tesis 24-06-14\SATO\obj\x86\Debug\Presentacion.frmProvincia.resources
+D:\Escritorio\tesis 24-06-14\SATO\obj\x86\Debug\Presentacion.frmTiposDocumento.resources
+D:\Escritorio\tesis 24-06-14\SATO\obj\x86\Debug\Presentacion.frmTurnos.resources
+D:\Escritorio\tesis 24-06-14\SATO\obj\x86\Debug\Presentacion.frmUsuario.resources
+D:\Escritorio\tesis 24-06-14\SATO\obj\x86\Debug\Presentacion.frmMensaje.resources
+D:\Escritorio\tesis 24-06-14\SATO\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Escritorio\tesis 24-06-14\SATO\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Escritorio\tesis 03-08-14\SATO\bin\Debug\SATO.exe.config
+D:\Escritorio\tesis 03-08-14\SATO\obj\x86\Debug\Interop.WisSensorNLibLib.dll
+D:\Escritorio\tesis 03-08-14\SATO\obj\x86\Debug\Presentacion.csproj.ResolveComReference.cache
+D:\Escritorio\tesis 03-08-14\SATO\obj\x86\Debug\SATO.exe
+D:\Escritorio\tesis 03-08-14\SATO\obj\x86\Debug\SATO.pdb
+D:\Escritorio\tesis 03-08-14\SATO\bin\Debug\SATO.exe
+D:\Escritorio\tesis 03-08-14\SATO\bin\Debug\SATO.pdb
+D:\Escritorio\tesis 03-08-14\SATO\bin\Debug\Entidades.dll
+D:\Escritorio\tesis 03-08-14\SATO\bin\Debug\Negocio.dll
+D:\Escritorio\tesis 03-08-14\SATO\bin\Debug\Datos.dll
+D:\Escritorio\tesis 03-08-14\SATO\bin\Debug\Entidades.pdb
+D:\Escritorio\tesis 03-08-14\SATO\bin\Debug\Negocio.pdb
+D:\Escritorio\tesis 03-08-14\SATO\bin\Debug\Datos.pdb
+D:\Escritorio\tesis 03-08-14\SATO\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Escritorio\tesis 03-08-14\SATO\obj\x86\Debug\Presentacion.frmBarrio.resources
+D:\Escritorio\tesis 03-08-14\SATO\obj\x86\Debug\Presentacion.BuscarEmpleado.resources
+D:\Escritorio\tesis 03-08-14\SATO\obj\x86\Debug\Presentacion.frmBuscarPaciente.resources
+D:\Escritorio\tesis 03-08-14\SATO\obj\x86\Debug\Presentacion.BuscarProfesional.resources
+D:\Escritorio\tesis 03-08-14\SATO\obj\x86\Debug\Presentacion.frmConsultorio.resources
+D:\Escritorio\tesis 03-08-14\SATO\obj\x86\Debug\Presentacion.frmCuadrosDialogo.resources
+D:\Escritorio\tesis 03-08-14\SATO\obj\x86\Debug\Presentacion.frmDepartamento.resources
+D:\Escritorio\tesis 03-08-14\SATO\obj\x86\Debug\Presentacion.frmDiagramacion.resources
+D:\Escritorio\tesis 03-08-14\SATO\obj\x86\Debug\Presentacion.frmEmpleado.resources
+D:\Escritorio\tesis 03-08-14\SATO\obj\x86\Debug\Presentacion.Splash.resources
+D:\Escritorio\tesis 03-08-14\SATO\obj\x86\Debug\Presentacion.frmHistoriaClinica.resources
+D:\Escritorio\tesis 03-08-14\SATO\obj\x86\Debug\Presentacion.frmLocalidad.resources
+D:\Escritorio\tesis 03-08-14\SATO\obj\x86\Debug\Presentacion.frmCobertura.resources
+D:\Escritorio\tesis 03-08-14\SATO\obj\x86\Debug\Presentacion.frmLogin.resources
+D:\Escritorio\tesis 03-08-14\SATO\obj\x86\Debug\Presentacion.frmPaciente.resources
+D:\Escritorio\tesis 03-08-14\SATO\obj\x86\Debug\Presentacion.frmPrincipal.resources
+D:\Escritorio\tesis 03-08-14\SATO\obj\x86\Debug\Presentacion.frmProfesional.resources
+D:\Escritorio\tesis 03-08-14\SATO\obj\x86\Debug\Presentacion.Properties.Resources.resources
+D:\Escritorio\tesis 03-08-14\SATO\obj\x86\Debug\Presentacion.frmProvincia.resources
+D:\Escritorio\tesis 03-08-14\SATO\obj\x86\Debug\Presentacion.frmTiposDocumento.resources
+D:\Escritorio\tesis 03-08-14\SATO\obj\x86\Debug\Presentacion.frmTurnos.resources
+D:\Escritorio\tesis 03-08-14\SATO\obj\x86\Debug\Presentacion.frmUsuario.resources
+D:\Escritorio\tesis 03-08-14\SATO\obj\x86\Debug\Presentacion.frmMensaje.resources
+D:\Escritorio\tesis 03-08-14\SATO\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Escritorio\tesis 03-08-14\SATO\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Escritorio\tesis 09-08-14\SATO\bin\Debug\SATO.exe.config
+D:\Escritorio\tesis 09-08-14\SATO\obj\x86\Debug\Interop.WisSensorNLibLib.dll
+D:\Escritorio\tesis 09-08-14\SATO\obj\x86\Debug\Presentacion.csproj.ResolveComReference.cache
+D:\Escritorio\tesis 09-08-14\SATO\obj\x86\Debug\SATO.exe
+D:\Escritorio\tesis 09-08-14\SATO\obj\x86\Debug\SATO.pdb
+D:\Escritorio\tesis 09-08-14\SATO\bin\Debug\SATO.exe
+D:\Escritorio\tesis 09-08-14\SATO\bin\Debug\SATO.pdb
+D:\Escritorio\tesis 09-08-14\SATO\bin\Debug\Entidades.dll
+D:\Escritorio\tesis 09-08-14\SATO\bin\Debug\Negocio.dll
+D:\Escritorio\tesis 09-08-14\SATO\bin\Debug\Datos.dll
+D:\Escritorio\tesis 09-08-14\SATO\bin\Debug\Entidades.pdb
+D:\Escritorio\tesis 09-08-14\SATO\bin\Debug\Negocio.pdb
+D:\Escritorio\tesis 09-08-14\SATO\bin\Debug\Datos.pdb
+D:\Escritorio\tesis 09-08-14\SATO\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Escritorio\tesis 09-08-14\SATO\obj\x86\Debug\Presentacion.frmBarrio.resources
+D:\Escritorio\tesis 09-08-14\SATO\obj\x86\Debug\Presentacion.BuscarEmpleado.resources
+D:\Escritorio\tesis 09-08-14\SATO\obj\x86\Debug\Presentacion.frmBuscarPaciente.resources
+D:\Escritorio\tesis 09-08-14\SATO\obj\x86\Debug\Presentacion.BuscarProfesional.resources
+D:\Escritorio\tesis 09-08-14\SATO\obj\x86\Debug\Presentacion.frmConsultorio.resources
+D:\Escritorio\tesis 09-08-14\SATO\obj\x86\Debug\Presentacion.frmCuadrosDialogo.resources
+D:\Escritorio\tesis 09-08-14\SATO\obj\x86\Debug\Presentacion.frmDepartamento.resources
+D:\Escritorio\tesis 09-08-14\SATO\obj\x86\Debug\Presentacion.frmDiagramacion.resources
+D:\Escritorio\tesis 09-08-14\SATO\obj\x86\Debug\Presentacion.frmEmpleado.resources
+D:\Escritorio\tesis 09-08-14\SATO\obj\x86\Debug\Presentacion.Splash.resources
+D:\Escritorio\tesis 09-08-14\SATO\obj\x86\Debug\Presentacion.frmHistoriaClinica.resources
+D:\Escritorio\tesis 09-08-14\SATO\obj\x86\Debug\Presentacion.frmLocalidad.resources
+D:\Escritorio\tesis 09-08-14\SATO\obj\x86\Debug\Presentacion.frmCobertura.resources
+D:\Escritorio\tesis 09-08-14\SATO\obj\x86\Debug\Presentacion.frmLogin.resources
+D:\Escritorio\tesis 09-08-14\SATO\obj\x86\Debug\Presentacion.frmPaciente.resources
+D:\Escritorio\tesis 09-08-14\SATO\obj\x86\Debug\Presentacion.frmPrincipal.resources
+D:\Escritorio\tesis 09-08-14\SATO\obj\x86\Debug\Presentacion.frmProfesional.resources
+D:\Escritorio\tesis 09-08-14\SATO\obj\x86\Debug\Presentacion.Properties.Resources.resources
+D:\Escritorio\tesis 09-08-14\SATO\obj\x86\Debug\Presentacion.frmProvincia.resources
+D:\Escritorio\tesis 09-08-14\SATO\obj\x86\Debug\Presentacion.frmTiposDocumento.resources
+D:\Escritorio\tesis 09-08-14\SATO\obj\x86\Debug\Presentacion.frmTurnos.resources
+D:\Escritorio\tesis 09-08-14\SATO\obj\x86\Debug\Presentacion.frmUsuario.resources
+D:\Escritorio\tesis 09-08-14\SATO\obj\x86\Debug\Presentacion.frmMensaje.resources
+D:\Escritorio\tesis 09-08-14\SATO\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Escritorio\tesis 09-08-14\SATO\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Escritorio\tesis 15-08-14\SATO\bin\Debug\SATO.exe.config
+D:\Escritorio\tesis 15-08-14\SATO\obj\x86\Debug\Interop.WisSensorNLibLib.dll
+D:\Escritorio\tesis 15-08-14\SATO\obj\x86\Debug\Presentacion.csproj.ResolveComReference.cache
+D:\Escritorio\tesis 15-08-14\SATO\obj\x86\Debug\SATO.exe
+D:\Escritorio\tesis 15-08-14\SATO\obj\x86\Debug\SATO.pdb
+D:\Escritorio\tesis 15-08-14\SATO\bin\Debug\SATO.exe
+D:\Escritorio\tesis 15-08-14\SATO\bin\Debug\SATO.pdb
+D:\Escritorio\tesis 15-08-14\SATO\bin\Debug\Entidades.dll
+D:\Escritorio\tesis 15-08-14\SATO\bin\Debug\Negocio.dll
+D:\Escritorio\tesis 15-08-14\SATO\bin\Debug\Datos.dll
+D:\Escritorio\tesis 15-08-14\SATO\bin\Debug\Entidades.pdb
+D:\Escritorio\tesis 15-08-14\SATO\bin\Debug\Negocio.pdb
+D:\Escritorio\tesis 15-08-14\SATO\bin\Debug\Datos.pdb
+D:\Escritorio\tesis 15-08-14\SATO\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Escritorio\tesis 15-08-14\SATO\obj\x86\Debug\Presentacion.frmBarrio.resources
+D:\Escritorio\tesis 15-08-14\SATO\obj\x86\Debug\Presentacion.BuscarEmpleado.resources
+D:\Escritorio\tesis 15-08-14\SATO\obj\x86\Debug\Presentacion.frmBuscarPaciente.resources
+D:\Escritorio\tesis 15-08-14\SATO\obj\x86\Debug\Presentacion.BuscarProfesional.resources
+D:\Escritorio\tesis 15-08-14\SATO\obj\x86\Debug\Presentacion.frmConsultorio.resources
+D:\Escritorio\tesis 15-08-14\SATO\obj\x86\Debug\Presentacion.frmCuadrosDialogo.resources
+D:\Escritorio\tesis 15-08-14\SATO\obj\x86\Debug\Presentacion.frmDepartamento.resources
+D:\Escritorio\tesis 15-08-14\SATO\obj\x86\Debug\Presentacion.frmDiagramacion.resources
+D:\Escritorio\tesis 15-08-14\SATO\obj\x86\Debug\Presentacion.frmEmpleado.resources
+D:\Escritorio\tesis 15-08-14\SATO\obj\x86\Debug\Presentacion.Splash.resources
+D:\Escritorio\tesis 15-08-14\SATO\obj\x86\Debug\Presentacion.frmHistoriaClinica.resources
+D:\Escritorio\tesis 15-08-14\SATO\obj\x86\Debug\Presentacion.frmLocalidad.resources
+D:\Escritorio\tesis 15-08-14\SATO\obj\x86\Debug\Presentacion.frmCobertura.resources
+D:\Escritorio\tesis 15-08-14\SATO\obj\x86\Debug\Presentacion.frmLogin.resources
+D:\Escritorio\tesis 15-08-14\SATO\obj\x86\Debug\Presentacion.frmPaciente.resources
+D:\Escritorio\tesis 15-08-14\SATO\obj\x86\Debug\Presentacion.frmPrincipal.resources
+D:\Escritorio\tesis 15-08-14\SATO\obj\x86\Debug\Presentacion.frmProfesional.resources
+D:\Escritorio\tesis 15-08-14\SATO\obj\x86\Debug\Presentacion.Properties.Resources.resources
+D:\Escritorio\tesis 15-08-14\SATO\obj\x86\Debug\Presentacion.frmProvincia.resources
+D:\Escritorio\tesis 15-08-14\SATO\obj\x86\Debug\Presentacion.frmTiposDocumento.resources
+D:\Escritorio\tesis 15-08-14\SATO\obj\x86\Debug\Presentacion.frmTurnos.resources
+D:\Escritorio\tesis 15-08-14\SATO\obj\x86\Debug\Presentacion.frmUsuario.resources
+D:\Escritorio\tesis 15-08-14\SATO\obj\x86\Debug\Presentacion.frmMensaje.resources
+D:\Escritorio\tesis 15-08-14\SATO\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Escritorio\tesis 15-08-14\SATO\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Escritorio\tesis 18-08-14\SATO\bin\Debug\SATO.exe.config
+D:\Escritorio\tesis 18-08-14\SATO\obj\x86\Debug\Interop.WisSensorNLibLib.dll
+D:\Escritorio\tesis 18-08-14\SATO\obj\x86\Debug\Presentacion.csproj.ResolveComReference.cache
+D:\Escritorio\tesis 18-08-14\SATO\obj\x86\Debug\SATO.exe
+D:\Escritorio\tesis 18-08-14\SATO\obj\x86\Debug\SATO.pdb
+D:\Escritorio\tesis 18-08-14\SATO\bin\Debug\SATO.exe
+D:\Escritorio\tesis 18-08-14\SATO\bin\Debug\SATO.pdb
+D:\Escritorio\tesis 18-08-14\SATO\bin\Debug\Entidades.dll
+D:\Escritorio\tesis 18-08-14\SATO\bin\Debug\Negocio.dll
+D:\Escritorio\tesis 18-08-14\SATO\bin\Debug\Datos.dll
+D:\Escritorio\tesis 18-08-14\SATO\bin\Debug\Entidades.pdb
+D:\Escritorio\tesis 18-08-14\SATO\bin\Debug\Negocio.pdb
+D:\Escritorio\tesis 18-08-14\SATO\bin\Debug\Datos.pdb
+D:\Escritorio\tesis 18-08-14\SATO\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Escritorio\tesis 18-08-14\SATO\obj\x86\Debug\Presentacion.frmBarrio.resources
+D:\Escritorio\tesis 18-08-14\SATO\obj\x86\Debug\Presentacion.BuscarEmpleado.resources
+D:\Escritorio\tesis 18-08-14\SATO\obj\x86\Debug\Presentacion.frmBuscarPaciente.resources
+D:\Escritorio\tesis 18-08-14\SATO\obj\x86\Debug\Presentacion.BuscarProfesional.resources
+D:\Escritorio\tesis 18-08-14\SATO\obj\x86\Debug\Presentacion.frmConsultorio.resources
+D:\Escritorio\tesis 18-08-14\SATO\obj\x86\Debug\Presentacion.frmCuadrosDialogo.resources
+D:\Escritorio\tesis 18-08-14\SATO\obj\x86\Debug\Presentacion.frmDepartamento.resources
+D:\Escritorio\tesis 18-08-14\SATO\obj\x86\Debug\Presentacion.frmDiagramacion.resources
+D:\Escritorio\tesis 18-08-14\SATO\obj\x86\Debug\Presentacion.frmEmpleado.resources
+D:\Escritorio\tesis 18-08-14\SATO\obj\x86\Debug\Presentacion.Splash.resources
+D:\Escritorio\tesis 18-08-14\SATO\obj\x86\Debug\Presentacion.frmHistoriaClinica.resources
+D:\Escritorio\tesis 18-08-14\SATO\obj\x86\Debug\Presentacion.frmLocalidad.resources
+D:\Escritorio\tesis 18-08-14\SATO\obj\x86\Debug\Presentacion.frmCobertura.resources
+D:\Escritorio\tesis 18-08-14\SATO\obj\x86\Debug\Presentacion.frmLogin.resources
+D:\Escritorio\tesis 18-08-14\SATO\obj\x86\Debug\Presentacion.frmPaciente.resources
+D:\Escritorio\tesis 18-08-14\SATO\obj\x86\Debug\Presentacion.frmPrincipal.resources
+D:\Escritorio\tesis 18-08-14\SATO\obj\x86\Debug\Presentacion.frmProfesional.resources
+D:\Escritorio\tesis 18-08-14\SATO\obj\x86\Debug\Presentacion.Properties.Resources.resources
+D:\Escritorio\tesis 18-08-14\SATO\obj\x86\Debug\Presentacion.frmProvincia.resources
+D:\Escritorio\tesis 18-08-14\SATO\obj\x86\Debug\Presentacion.frmTiposDocumento.resources
+D:\Escritorio\tesis 18-08-14\SATO\obj\x86\Debug\Presentacion.frmTurnos.resources
+D:\Escritorio\tesis 18-08-14\SATO\obj\x86\Debug\Presentacion.frmUsuario.resources
+D:\Escritorio\tesis 18-08-14\SATO\obj\x86\Debug\Presentacion.frmMensaje.resources
+D:\Escritorio\tesis 18-08-14\SATO\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Escritorio\tesis 18-08-14\SATO\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Escritorio\tesis 23-08-14\SATO\bin\Debug\SATO.exe.config
+D:\Escritorio\tesis 23-08-14\SATO\obj\x86\Debug\Interop.WisSensorNLibLib.dll
+D:\Escritorio\tesis 23-08-14\SATO\obj\x86\Debug\Presentacion.csproj.ResolveComReference.cache
+D:\Escritorio\tesis 23-08-14\SATO\obj\x86\Debug\SATO.exe
+D:\Escritorio\tesis 23-08-14\SATO\obj\x86\Debug\SATO.pdb
+D:\Escritorio\tesis 23-08-14\SATO\bin\Debug\SATO.exe
+D:\Escritorio\tesis 23-08-14\SATO\bin\Debug\SATO.pdb
+D:\Escritorio\tesis 23-08-14\SATO\bin\Debug\Entidades.dll
+D:\Escritorio\tesis 23-08-14\SATO\bin\Debug\Negocio.dll
+D:\Escritorio\tesis 23-08-14\SATO\bin\Debug\Datos.dll
+D:\Escritorio\tesis 23-08-14\SATO\bin\Debug\Entidades.pdb
+D:\Escritorio\tesis 23-08-14\SATO\bin\Debug\Negocio.pdb
+D:\Escritorio\tesis 23-08-14\SATO\bin\Debug\Datos.pdb
+D:\Escritorio\tesis 23-08-14\SATO\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Escritorio\tesis 23-08-14\SATO\obj\x86\Debug\Presentacion.frmBarrio.resources
+D:\Escritorio\tesis 23-08-14\SATO\obj\x86\Debug\Presentacion.BuscarEmpleado.resources
+D:\Escritorio\tesis 23-08-14\SATO\obj\x86\Debug\Presentacion.frmBuscarPaciente.resources
+D:\Escritorio\tesis 23-08-14\SATO\obj\x86\Debug\Presentacion.BuscarProfesional.resources
+D:\Escritorio\tesis 23-08-14\SATO\obj\x86\Debug\Presentacion.frmConsultorio.resources
+D:\Escritorio\tesis 23-08-14\SATO\obj\x86\Debug\Presentacion.frmCuadrosDialogo.resources
+D:\Escritorio\tesis 23-08-14\SATO\obj\x86\Debug\Presentacion.frmDepartamento.resources
+D:\Escritorio\tesis 23-08-14\SATO\obj\x86\Debug\Presentacion.frmDiagramacion.resources
+D:\Escritorio\tesis 23-08-14\SATO\obj\x86\Debug\Presentacion.frmEmpleado.resources
+D:\Escritorio\tesis 23-08-14\SATO\obj\x86\Debug\Presentacion.Splash.resources
+D:\Escritorio\tesis 23-08-14\SATO\obj\x86\Debug\Presentacion.frmHistoriaClinica.resources
+D:\Escritorio\tesis 23-08-14\SATO\obj\x86\Debug\Presentacion.frmLocalidad.resources
+D:\Escritorio\tesis 23-08-14\SATO\obj\x86\Debug\Presentacion.frmCobertura.resources
+D:\Escritorio\tesis 23-08-14\SATO\obj\x86\Debug\Presentacion.frmLogin.resources
+D:\Escritorio\tesis 23-08-14\SATO\obj\x86\Debug\Presentacion.frmPaciente.resources
+D:\Escritorio\tesis 23-08-14\SATO\obj\x86\Debug\Presentacion.frmPrincipal.resources
+D:\Escritorio\tesis 23-08-14\SATO\obj\x86\Debug\Presentacion.frmProfesional.resources
+D:\Escritorio\tesis 23-08-14\SATO\obj\x86\Debug\Presentacion.Properties.Resources.resources
+D:\Escritorio\tesis 23-08-14\SATO\obj\x86\Debug\Presentacion.frmProvincia.resources
+D:\Escritorio\tesis 23-08-14\SATO\obj\x86\Debug\Presentacion.frmTiposDocumento.resources
+D:\Escritorio\tesis 23-08-14\SATO\obj\x86\Debug\Presentacion.frmTurnos.resources
+D:\Escritorio\tesis 23-08-14\SATO\obj\x86\Debug\Presentacion.frmUsuario.resources
+D:\Escritorio\tesis 23-08-14\SATO\obj\x86\Debug\Presentacion.frmMensaje.resources
+D:\Escritorio\tesis 23-08-14\SATO\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Escritorio\tesis 23-08-14\SATO\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Escritorio\tesis 06-09-14\SATO\bin\Debug\SATO.exe.config
+D:\Escritorio\tesis 06-09-14\SATO\bin\Debug\SATO.exe
+D:\Escritorio\tesis 06-09-14\SATO\bin\Debug\SATO.pdb
+D:\Escritorio\tesis 06-09-14\SATO\bin\Debug\Entidades.dll
+D:\Escritorio\tesis 06-09-14\SATO\bin\Debug\Negocio.dll
+D:\Escritorio\tesis 06-09-14\SATO\bin\Debug\Datos.dll
+D:\Escritorio\tesis 06-09-14\SATO\bin\Debug\Entidades.pdb
+D:\Escritorio\tesis 06-09-14\SATO\bin\Debug\Negocio.pdb
+D:\Escritorio\tesis 06-09-14\SATO\bin\Debug\Datos.pdb
+D:\Escritorio\tesis 06-09-14\SATO\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Escritorio\tesis 06-09-14\SATO\obj\x86\Debug\Interop.WisSensorNLibLib.dll
+D:\Escritorio\tesis 06-09-14\SATO\obj\x86\Debug\Presentacion.csproj.ResolveComReference.cache
+D:\Escritorio\tesis 06-09-14\SATO\obj\x86\Debug\Presentacion.frmBarrio.resources
+D:\Escritorio\tesis 06-09-14\SATO\obj\x86\Debug\Presentacion.BuscarEmpleado.resources
+D:\Escritorio\tesis 06-09-14\SATO\obj\x86\Debug\Presentacion.frmBuscarPaciente.resources
+D:\Escritorio\tesis 06-09-14\SATO\obj\x86\Debug\Presentacion.BuscarProfesional.resources
+D:\Escritorio\tesis 06-09-14\SATO\obj\x86\Debug\Presentacion.frmConsultorio.resources
+D:\Escritorio\tesis 06-09-14\SATO\obj\x86\Debug\Presentacion.frmCuadrosDialogo.resources
+D:\Escritorio\tesis 06-09-14\SATO\obj\x86\Debug\Presentacion.frmDiagramacion.resources
+D:\Escritorio\tesis 06-09-14\SATO\obj\x86\Debug\Presentacion.frmEmpleado.resources
+D:\Escritorio\tesis 06-09-14\SATO\obj\x86\Debug\Presentacion.frmPaciente.resources
+D:\Escritorio\tesis 06-09-14\SATO\obj\x86\Debug\Presentacion.frmProfesional.resources
+D:\Escritorio\tesis 06-09-14\SATO\obj\x86\Debug\Presentacion.Splash.resources
+D:\Escritorio\tesis 06-09-14\SATO\obj\x86\Debug\Presentacion.frmHistoriaClinica.resources
+D:\Escritorio\tesis 06-09-14\SATO\obj\x86\Debug\Presentacion.frmLocalidad.resources
+D:\Escritorio\tesis 06-09-14\SATO\obj\x86\Debug\Presentacion.frmCobertura.resources
+D:\Escritorio\tesis 06-09-14\SATO\obj\x86\Debug\Presentacion.frmLogin.resources
+D:\Escritorio\tesis 06-09-14\SATO\obj\x86\Debug\Presentacion.frmPrincipal.resources
+D:\Escritorio\tesis 06-09-14\SATO\obj\x86\Debug\Presentacion.Properties.Resources.resources
+D:\Escritorio\tesis 06-09-14\SATO\obj\x86\Debug\Presentacion.frmProvincia.resources
+D:\Escritorio\tesis 06-09-14\SATO\obj\x86\Debug\Presentacion.frmTiposDocumento.resources
+D:\Escritorio\tesis 06-09-14\SATO\obj\x86\Debug\Presentacion.frmTurnos.resources
+D:\Escritorio\tesis 06-09-14\SATO\obj\x86\Debug\Presentacion.frmUsuario.resources
+D:\Escritorio\tesis 06-09-14\SATO\obj\x86\Debug\Presentacion.frmMensaje.resources
+D:\Escritorio\tesis 06-09-14\SATO\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Escritorio\tesis 06-09-14\SATO\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Escritorio\tesis 06-09-14\SATO\obj\x86\Debug\SATO.exe
+D:\Escritorio\tesis 06-09-14\SATO\obj\x86\Debug\SATO.pdb
+D:\Escritorio\tesis 29-09-14\SATO\bin\Debug\SATO.exe.config
+D:\Escritorio\tesis 29-09-14\SATO\obj\x86\Debug\Interop.WisSensorNLibLib.dll
+D:\Escritorio\tesis 29-09-14\SATO\obj\x86\Debug\Presentacion.csproj.ResolveComReference.cache
+D:\Escritorio\tesis 29-09-14\SATO\obj\x86\Debug\SATO.exe
+D:\Escritorio\tesis 29-09-14\SATO\obj\x86\Debug\SATO.pdb
+D:\Escritorio\tesis 29-09-14\SATO\bin\Debug\SATO.exe
+D:\Escritorio\tesis 29-09-14\SATO\bin\Debug\SATO.pdb
+D:\Escritorio\tesis 29-09-14\SATO\bin\Debug\Entidades.dll
+D:\Escritorio\tesis 29-09-14\SATO\bin\Debug\Negocio.dll
+D:\Escritorio\tesis 29-09-14\SATO\bin\Debug\Datos.dll
+D:\Escritorio\tesis 29-09-14\SATO\bin\Debug\Entidades.pdb
+D:\Escritorio\tesis 29-09-14\SATO\bin\Debug\Negocio.pdb
+D:\Escritorio\tesis 29-09-14\SATO\bin\Debug\Datos.pdb
+D:\Escritorio\tesis 29-09-14\SATO\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Escritorio\tesis 29-09-14\SATO\obj\x86\Debug\Presentacion.frmBarrio.resources
+D:\Escritorio\tesis 29-09-14\SATO\obj\x86\Debug\Presentacion.BuscarEmpleado.resources
+D:\Escritorio\tesis 29-09-14\SATO\obj\x86\Debug\Presentacion.frmBuscarPaciente.resources
+D:\Escritorio\tesis 29-09-14\SATO\obj\x86\Debug\Presentacion.BuscarProfesional.resources
+D:\Escritorio\tesis 29-09-14\SATO\obj\x86\Debug\Presentacion.frmConsultorio.resources
+D:\Escritorio\tesis 29-09-14\SATO\obj\x86\Debug\Presentacion.frmCuadrosDialogo.resources
+D:\Escritorio\tesis 29-09-14\SATO\obj\x86\Debug\Presentacion.frmDiagramacion.resources
+D:\Escritorio\tesis 29-09-14\SATO\obj\x86\Debug\Presentacion.frmEmpleado.resources
+D:\Escritorio\tesis 29-09-14\SATO\obj\x86\Debug\Presentacion.frmPaciente.resources
+D:\Escritorio\tesis 29-09-14\SATO\obj\x86\Debug\Presentacion.frmProfesional.resources
+D:\Escritorio\tesis 29-09-14\SATO\obj\x86\Debug\Presentacion.Splash.resources
+D:\Escritorio\tesis 29-09-14\SATO\obj\x86\Debug\Presentacion.frmHistoriaClinica.resources
+D:\Escritorio\tesis 29-09-14\SATO\obj\x86\Debug\Presentacion.frmLocalidad.resources
+D:\Escritorio\tesis 29-09-14\SATO\obj\x86\Debug\Presentacion.frmCobertura.resources
+D:\Escritorio\tesis 29-09-14\SATO\obj\x86\Debug\Presentacion.frmLogin.resources
+D:\Escritorio\tesis 29-09-14\SATO\obj\x86\Debug\Presentacion.frmPrincipal.resources
+D:\Escritorio\tesis 29-09-14\SATO\obj\x86\Debug\Presentacion.Properties.Resources.resources
+D:\Escritorio\tesis 29-09-14\SATO\obj\x86\Debug\Presentacion.frmProvincia.resources
+D:\Escritorio\tesis 29-09-14\SATO\obj\x86\Debug\Presentacion.frmTiposDocumento.resources
+D:\Escritorio\tesis 29-09-14\SATO\obj\x86\Debug\Presentacion.frmTurnos.resources
+D:\Escritorio\tesis 29-09-14\SATO\obj\x86\Debug\Presentacion.frmUsuario.resources
+D:\Escritorio\tesis 29-09-14\SATO\obj\x86\Debug\Presentacion.frmMensaje.resources
+D:\Escritorio\tesis 29-09-14\SATO\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Escritorio\tesis 29-09-14\SATO\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Escritorio\tesis 02-10-14\SATO\bin\Debug\SATO.exe.config
+D:\Escritorio\tesis 02-10-14\SATO\obj\x86\Debug\Interop.WisSensorNLibLib.dll
+D:\Escritorio\tesis 02-10-14\SATO\obj\x86\Debug\Presentacion.csproj.ResolveComReference.cache
+D:\Escritorio\tesis 02-10-14\SATO\obj\x86\Debug\SATO.exe
+D:\Escritorio\tesis 02-10-14\SATO\obj\x86\Debug\SATO.pdb
+D:\Escritorio\tesis 02-10-14\SATO\bin\Debug\SATO.exe
+D:\Escritorio\tesis 02-10-14\SATO\bin\Debug\SATO.pdb
+D:\Escritorio\tesis 02-10-14\SATO\bin\Debug\Entidades.dll
+D:\Escritorio\tesis 02-10-14\SATO\bin\Debug\Negocio.dll
+D:\Escritorio\tesis 02-10-14\SATO\bin\Debug\Datos.dll
+D:\Escritorio\tesis 02-10-14\SATO\bin\Debug\Entidades.pdb
+D:\Escritorio\tesis 02-10-14\SATO\bin\Debug\Negocio.pdb
+D:\Escritorio\tesis 02-10-14\SATO\bin\Debug\Datos.pdb
+D:\Escritorio\tesis 02-10-14\SATO\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Escritorio\tesis 02-10-14\SATO\obj\x86\Debug\Presentacion.frmBarrio.resources
+D:\Escritorio\tesis 02-10-14\SATO\obj\x86\Debug\Presentacion.BuscarEmpleado.resources
+D:\Escritorio\tesis 02-10-14\SATO\obj\x86\Debug\Presentacion.frmBuscarPaciente.resources
+D:\Escritorio\tesis 02-10-14\SATO\obj\x86\Debug\Presentacion.BuscarProfesional.resources
+D:\Escritorio\tesis 02-10-14\SATO\obj\x86\Debug\Presentacion.frmConsultorio.resources
+D:\Escritorio\tesis 02-10-14\SATO\obj\x86\Debug\Presentacion.frmCuadrosDialogo.resources
+D:\Escritorio\tesis 02-10-14\SATO\obj\x86\Debug\Presentacion.frmDiagramacion.resources
+D:\Escritorio\tesis 02-10-14\SATO\obj\x86\Debug\Presentacion.frmEmpleado.resources
+D:\Escritorio\tesis 02-10-14\SATO\obj\x86\Debug\Presentacion.frmPaciente.resources
+D:\Escritorio\tesis 02-10-14\SATO\obj\x86\Debug\Presentacion.frmProfesional.resources
+D:\Escritorio\tesis 02-10-14\SATO\obj\x86\Debug\Presentacion.Splash.resources
+D:\Escritorio\tesis 02-10-14\SATO\obj\x86\Debug\Presentacion.frmHistoriaClinica.resources
+D:\Escritorio\tesis 02-10-14\SATO\obj\x86\Debug\Presentacion.frmLocalidad.resources
+D:\Escritorio\tesis 02-10-14\SATO\obj\x86\Debug\Presentacion.frmCobertura.resources
+D:\Escritorio\tesis 02-10-14\SATO\obj\x86\Debug\Presentacion.frmLogin.resources
+D:\Escritorio\tesis 02-10-14\SATO\obj\x86\Debug\Presentacion.frmPrincipal.resources
+D:\Escritorio\tesis 02-10-14\SATO\obj\x86\Debug\Presentacion.Properties.Resources.resources
+D:\Escritorio\tesis 02-10-14\SATO\obj\x86\Debug\Presentacion.frmProvincia.resources
+D:\Escritorio\tesis 02-10-14\SATO\obj\x86\Debug\Presentacion.frmTiposDocumento.resources
+D:\Escritorio\tesis 02-10-14\SATO\obj\x86\Debug\Presentacion.frmTurnos.resources
+D:\Escritorio\tesis 02-10-14\SATO\obj\x86\Debug\Presentacion.frmUsuario.resources
+D:\Escritorio\tesis 02-10-14\SATO\obj\x86\Debug\Presentacion.frmMensaje.resources
+D:\Escritorio\tesis 02-10-14\SATO\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Escritorio\tesis 02-10-14\SATO\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Escritorio\tesis 02-10-14\SATO\obj\x86\Debug\Presentacion.frmConfiguracion.resources
+D:\Escritorio\tesis 04-10-14\SATO\bin\Debug\SATO.exe.config
+D:\Escritorio\tesis 04-10-14\SATO\obj\x86\Debug\Interop.WisSensorNLibLib.dll
+D:\Escritorio\tesis 04-10-14\SATO\obj\x86\Debug\Presentacion.csproj.ResolveComReference.cache
+D:\Escritorio\tesis 04-10-14\SATO\obj\x86\Debug\SATO.exe
+D:\Escritorio\tesis 04-10-14\SATO\obj\x86\Debug\SATO.pdb
+D:\Escritorio\tesis 04-10-14\SATO\bin\Debug\SATO.exe
+D:\Escritorio\tesis 04-10-14\SATO\bin\Debug\SATO.pdb
+D:\Escritorio\tesis 04-10-14\SATO\bin\Debug\Entidades.dll
+D:\Escritorio\tesis 04-10-14\SATO\bin\Debug\Negocio.dll
+D:\Escritorio\tesis 04-10-14\SATO\bin\Debug\Datos.dll
+D:\Escritorio\tesis 04-10-14\SATO\bin\Debug\Entidades.pdb
+D:\Escritorio\tesis 04-10-14\SATO\bin\Debug\Negocio.pdb
+D:\Escritorio\tesis 04-10-14\SATO\bin\Debug\Datos.pdb
+D:\Escritorio\tesis 04-10-14\SATO\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Escritorio\tesis 04-10-14\SATO\obj\x86\Debug\Presentacion.frmBarrio.resources
+D:\Escritorio\tesis 04-10-14\SATO\obj\x86\Debug\Presentacion.BuscarEmpleado.resources
+D:\Escritorio\tesis 04-10-14\SATO\obj\x86\Debug\Presentacion.frmBuscarPaciente.resources
+D:\Escritorio\tesis 04-10-14\SATO\obj\x86\Debug\Presentacion.BuscarProfesional.resources
+D:\Escritorio\tesis 04-10-14\SATO\obj\x86\Debug\Presentacion.frmConfiguracion.resources
+D:\Escritorio\tesis 04-10-14\SATO\obj\x86\Debug\Presentacion.frmConsultorio.resources
+D:\Escritorio\tesis 04-10-14\SATO\obj\x86\Debug\Presentacion.frmCuadrosDialogo.resources
+D:\Escritorio\tesis 04-10-14\SATO\obj\x86\Debug\Presentacion.frmDiagramacion.resources
+D:\Escritorio\tesis 04-10-14\SATO\obj\x86\Debug\Presentacion.frmEmpleado.resources
+D:\Escritorio\tesis 04-10-14\SATO\obj\x86\Debug\Presentacion.frmPaciente.resources
+D:\Escritorio\tesis 04-10-14\SATO\obj\x86\Debug\Presentacion.frmProfesional.resources
+D:\Escritorio\tesis 04-10-14\SATO\obj\x86\Debug\Presentacion.Splash.resources
+D:\Escritorio\tesis 04-10-14\SATO\obj\x86\Debug\Presentacion.frmHistoriaClinica.resources
+D:\Escritorio\tesis 04-10-14\SATO\obj\x86\Debug\Presentacion.frmLocalidad.resources
+D:\Escritorio\tesis 04-10-14\SATO\obj\x86\Debug\Presentacion.frmCobertura.resources
+D:\Escritorio\tesis 04-10-14\SATO\obj\x86\Debug\Presentacion.frmLogin.resources
+D:\Escritorio\tesis 04-10-14\SATO\obj\x86\Debug\Presentacion.frmPrincipal.resources
+D:\Escritorio\tesis 04-10-14\SATO\obj\x86\Debug\Presentacion.Properties.Resources.resources
+D:\Escritorio\tesis 04-10-14\SATO\obj\x86\Debug\Presentacion.frmProvincia.resources
+D:\Escritorio\tesis 04-10-14\SATO\obj\x86\Debug\Presentacion.frmTiposDocumento.resources
+D:\Escritorio\tesis 04-10-14\SATO\obj\x86\Debug\Presentacion.frmTurnos.resources
+D:\Escritorio\tesis 04-10-14\SATO\obj\x86\Debug\Presentacion.frmUsuario.resources
+D:\Escritorio\tesis 04-10-14\SATO\obj\x86\Debug\Presentacion.frmMensaje.resources
+D:\Escritorio\tesis 04-10-14\SATO\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Escritorio\tesis 04-10-14\SATO\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\SATO\bin\Debug\SATO.exe.config
+D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\SATO\obj\x86\Debug\Interop.WisSensorNLibLib.dll
+D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.csproj.ResolveComReference.cache
+D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\SATO\obj\x86\Debug\SATO.exe
+D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\SATO\obj\x86\Debug\SATO.pdb
+C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.csproj.ResolveComReference.cache
+C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.frmAtencion.resources
+C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.frmBarrio.resources
+C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.BuscarEmpleado.resources
+C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.frmBuscarPaciente.resources
+C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.BuscarProfesional.resources
+C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.frmConfiguracion.resources
+C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.frmConsultorio.resources
+C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.frmCuadrosDialogo.resources
+C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.frmDiagramacion.resources
+C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.frmEmpleado.resources
+C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.frmPaciente.resources
+C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.frmProfesional.resources
+C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.Splash.resources
+C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.frmHistoriaClinica.resources
+C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.frmLocalidad.resources
+C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.frmCobertura.resources
+C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.frmLogin.resources
+C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.frmPrincipal.resources
+C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.frmProvincia.resources
+C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.frmTiposDocumento.resources
+C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.frmTurnos.resources
+C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.frmUsuario.resources
+C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.frmMensaje.resources
+C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.csproj.GenerateResource.Cache
+C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\bin\Debug\SATO.exe.config
+C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\bin\Debug\SATO.exe
+C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\bin\Debug\SATO.pdb
+C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\bin\Debug\Entidades.dll
+C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\bin\Debug\Negocio.dll
+C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\bin\Debug\Datos.dll
+C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\bin\Debug\Entidades.pdb
+C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\bin\Debug\Negocio.pdb
+C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\bin\Debug\Datos.pdb
+C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\obj\x86\Debug\SATO.exe
+C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\obj\x86\Debug\SATO.pdb
