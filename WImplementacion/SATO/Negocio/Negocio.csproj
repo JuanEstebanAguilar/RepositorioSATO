@@ -31,10 +31,22 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+    <Reference Include="Interop.WisSensorNLibLib">
+      <HintPath>C:\Users\Rodrigo\Documents\Lector\SDK\Demo Program\C# using COM\Interop.WisSensorNLibLib.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+=======
+>>>>>>> origin/master
     <Reference Include="Interop.WisSensorNLibLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <EmbedInteropTypes>True</EmbedInteropTypes>
       <HintPath>bin\Debug\Interop.WisSensorNLibLib.dll</HintPath>
+<<<<<<< HEAD
+=======
+>>>>>>> origin/master
+>>>>>>> origin/master
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.configuration" />
