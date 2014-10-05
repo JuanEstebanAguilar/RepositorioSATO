@@ -12,11 +12,9 @@ namespace Datos
 {
     public class EnlaceDatos
     {
-<<<<<<< HEAD
         static String strCadena = "Data Source=RODRIGO-PC;Initial Catalog=Clinica;Integrated Security=True";
-=======
-        static String strCadena = @"Data Source=PC-PC\PC;Initial Catalog=Clinica;Integrated Security=True";
->>>>>>> origin/master
+        //static String strCadena = @"Data Source=PC-PC\PC;Initial Catalog=Clinica;Integrated Security=True";
+
         private SqlConnection getConexion()
         {
                 SqlConnection cnConexion = new SqlConnection(strCadena);

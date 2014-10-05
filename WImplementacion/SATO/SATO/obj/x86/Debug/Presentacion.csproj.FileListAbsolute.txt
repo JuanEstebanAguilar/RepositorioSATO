@@ -1228,7 +1228,7 @@ D:\Escritorio\tesis 04-10-14\SATO\obj\x86\Debug\Presentacion.frmMensaje.resource
 D:\Escritorio\tesis 04-10-14\SATO\obj\x86\Debug\GenerateResource.read.1.tlog
 D:\Escritorio\tesis 04-10-14\SATO\obj\x86\Debug\GenerateResource.write.1.tlog
 D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\SATO\bin\Debug\SATO.exe.config
-<<<<<<< HEAD
+
 D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.csproj.ResolveComReference.cache
 D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\SATO\obj\x86\Debug\SATO.exe
 D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\SATO\obj\x86\Debug\SATO.pdb
@@ -1265,7 +1265,7 @@ D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\SATO\obj\x86\Debug\Pre
 D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.frmUsuario.resources
 D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.frmMensaje.resources
 D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.csproj.GenerateResource.Cache
-=======
+
 D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\SATO\obj\x86\Debug\Interop.WisSensorNLibLib.dll
 D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.csproj.ResolveComReference.cache
 D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\SATO\obj\x86\Debug\SATO.exe
@@ -1308,4 +1308,4 @@ C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\bin\Debug\Negocio.pdb
 C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\bin\Debug\Datos.pdb
 C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\obj\x86\Debug\SATO.exe
 C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\obj\x86\Debug\SATO.pdb
->>>>>>> origin/master
+
