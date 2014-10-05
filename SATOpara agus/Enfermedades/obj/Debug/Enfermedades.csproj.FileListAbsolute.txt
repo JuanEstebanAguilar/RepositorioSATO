@@ -1,0 +1,9 @@
+C:\Users\Rodrigo\Documents\Visual Studio 2010\Projects\SATO 6.0\SATO\Enfermedades\bin\Debug\Enfermedades.dll
+C:\Users\Rodrigo\Documents\Visual Studio 2010\Projects\SATO 6.0\SATO\Enfermedades\bin\Debug\Enfermedades.pdb
+C:\Users\Rodrigo\Documents\Visual Studio 2010\Projects\SATO 6.0\SATO\Enfermedades\obj\Debug\Enfermedades.dll
+C:\Users\Rodrigo\Documents\Visual Studio 2010\Projects\SATO 6.0\SATO\Enfermedades\obj\Debug\Enfermedades.pdb
+D:\SATO 6.0\SATO\Enfermedades\bin\Debug\Enfermedades.dll
+D:\SATO 6.0\SATO\Enfermedades\bin\Debug\Enfermedades.pdb
+D:\SATO 6.0\SATO\Enfermedades\obj\Debug\Enfermedades.dll
+D:\SATO 6.0\SATO\Enfermedades\obj\Debug\Enfermedades.pdb
+D:\SATO 6.0\SATO\Enfermedades\obj\Debug\Enfermedades.csprojResolveAssemblyReference.cache
