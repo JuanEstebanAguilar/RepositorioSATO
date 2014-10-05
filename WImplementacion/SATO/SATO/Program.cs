@@ -26,9 +26,13 @@ namespace Presentacion
                 vtPrincipal.ShowDialog();
             }*/
 <<<<<<< HEAD
+            Application.Run(new frmAtencion());
+=======
+<<<<<<< HEAD
             Application.Run(new frmProfesional());
 =======
             Application.Run(new frmAtencion());
+>>>>>>> origin/master
 >>>>>>> origin/master
         }
     }
