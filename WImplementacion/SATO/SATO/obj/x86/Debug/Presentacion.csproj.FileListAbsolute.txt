@@ -1232,3 +1232,7 @@ D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\SATO\obj\x86\Debug\Int
 D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.csproj.ResolveComReference.cache
 D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\SATO\obj\x86\Debug\SATO.exe
 D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\SATO\obj\x86\Debug\SATO.pdb
+D:\RepositorioGit\RepositorioSATO\WImplementacion\SATO\SATO\bin\Debug\SATO.exe.config
+D:\RepositorioGit\RepositorioSATO\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.csproj.ResolveComReference.cache
+D:\RepositorioGit\RepositorioSATO\WImplementacion\SATO\SATO\obj\x86\Debug\SATO.exe
+D:\RepositorioGit\RepositorioSATO\WImplementacion\SATO\SATO\obj\x86\Debug\SATO.pdb
