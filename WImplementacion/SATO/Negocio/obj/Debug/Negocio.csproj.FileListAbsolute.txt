@@ -336,3 +336,13 @@ D:\Escritorio\tesis 04-10-14\Negocio\obj\Debug\Interop.WisSensorNLibLib.dll
 D:\Escritorio\tesis 04-10-14\Negocio\obj\Debug\Negocio.csproj.ResolveComReference.cache
 D:\Escritorio\tesis 04-10-14\Negocio\obj\Debug\Negocio.dll
 D:\Escritorio\tesis 04-10-14\Negocio\obj\Debug\Negocio.pdb
+D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\Negocio\obj\Debug\Negocio.csproj.ResolveComReference.cache
+D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\Negocio\obj\Debug\Negocio.dll
+D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\Negocio\obj\Debug\Negocio.pdb
+D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\Negocio\bin\Debug\Negocio.dll
+D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\Negocio\bin\Debug\Negocio.pdb
+D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\Negocio\bin\Debug\Datos.dll
+D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\Negocio\bin\Debug\Entidades.dll
+D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\Negocio\bin\Debug\Datos.pdb
+D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\Negocio\bin\Debug\Entidades.pdb

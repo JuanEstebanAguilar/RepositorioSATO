@@ -31,6 +31,10 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Interop.WisSensorNLibLib">
+      <HintPath>C:\Users\Rodrigo\Documents\Lector\SDK\Demo Program\C# using COM\Interop.WisSensorNLibLib.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.configuration" />
     <Reference Include="System.Core" />

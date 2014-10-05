@@ -35,6 +35,10 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Interop.WisSensorNLibLib">
+      <HintPath>C:\Users\Rodrigo\Documents\Lector\SDK\Demo Program\C# using COM\Interop.WisSensorNLibLib.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
     <Reference Include="PresentationCore" />
     <Reference Include="PresentationFramework" />
     <Reference Include="System" />
@@ -196,6 +200,7 @@
     <Compile Include="Validador.cs" />
     <EmbeddedResource Include="Barrio.resx">
       <DependentUpon>Barrio.cs</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="BuscarEmpleado.resx">
       <DependentUpon>BuscarEmpleado.cs</DependentUpon>

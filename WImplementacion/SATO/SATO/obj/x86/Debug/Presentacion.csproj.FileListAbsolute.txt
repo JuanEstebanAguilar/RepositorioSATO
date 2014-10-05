@@ -1228,10 +1228,39 @@ D:\Escritorio\tesis 04-10-14\SATO\obj\x86\Debug\Presentacion.frmMensaje.resource
 D:\Escritorio\tesis 04-10-14\SATO\obj\x86\Debug\GenerateResource.read.1.tlog
 D:\Escritorio\tesis 04-10-14\SATO\obj\x86\Debug\GenerateResource.write.1.tlog
 D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\SATO\bin\Debug\SATO.exe.config
-<<<<<<< HEAD
-=======
-D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\SATO\obj\x86\Debug\Interop.WisSensorNLibLib.dll
->>>>>>> origin/master
 D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.csproj.ResolveComReference.cache
 D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\SATO\obj\x86\Debug\SATO.exe
 D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\SATO\obj\x86\Debug\SATO.pdb
+D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\SATO\bin\Debug\SATO.exe
+D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\SATO\bin\Debug\SATO.pdb
+D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\SATO\bin\Debug\Entidades.dll
+D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\SATO\bin\Debug\Negocio.dll
+D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\SATO\bin\Debug\Datos.dll
+D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\SATO\bin\Debug\Entidades.pdb
+D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\SATO\bin\Debug\Negocio.pdb
+D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\SATO\bin\Debug\Datos.pdb
+D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.csprojResolveAssemblyReference.cache
+D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.frmBarrio.resources
+D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.BuscarEmpleado.resources
+D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.frmBuscarPaciente.resources
+D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.BuscarProfesional.resources
+D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.frmConfiguracion.resources
+D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.frmConsultorio.resources
+D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.frmCuadrosDialogo.resources
+D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.frmDiagramacion.resources
+D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.frmEmpleado.resources
+D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.frmPaciente.resources
+D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.frmProfesional.resources
+D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.Splash.resources
+D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.frmHistoriaClinica.resources
+D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.frmLocalidad.resources
+D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.frmCobertura.resources
+D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.frmLogin.resources
+D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.frmPrincipal.resources
+D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.Properties.Resources.resources
+D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.frmProvincia.resources
+D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.frmTiposDocumento.resources
+D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.frmTurnos.resources
+D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.frmUsuario.resources
+D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.frmMensaje.resources
+D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.csproj.GenerateResource.Cache

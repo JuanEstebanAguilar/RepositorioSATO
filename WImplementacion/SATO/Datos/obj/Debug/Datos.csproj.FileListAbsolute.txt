@@ -270,3 +270,11 @@ D:\Escritorio\tesis 04-10-14\Datos\bin\Debug\Entidades.pdb
 D:\Escritorio\tesis 04-10-14\Datos\obj\Debug\ResolveAssemblyReference.cache
 D:\Escritorio\tesis 04-10-14\Datos\obj\Debug\Datos.dll
 D:\Escritorio\tesis 04-10-14\Datos\obj\Debug\Datos.pdb
+D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\Datos\bin\Debug\Datos.dll.config
+D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\Datos\bin\Debug\Datos.dll
+D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\Datos\bin\Debug\Datos.pdb
+D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\Datos\bin\Debug\Entidades.dll
+D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\Datos\bin\Debug\Entidades.pdb
+D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\Datos\obj\Debug\Datos.dll
+D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\Datos\obj\Debug\Datos.pdb

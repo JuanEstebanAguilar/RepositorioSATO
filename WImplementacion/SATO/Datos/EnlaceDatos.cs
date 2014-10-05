@@ -11,7 +11,7 @@ namespace Datos
 {
     public class EnlaceDatos
     {
-        static String strCadena = "Data Source=pc-PC;Initial Catalog=Clinica;Integrated Security=True";
+        static String strCadena = "Data Source=RODRIGO-PC;Initial Catalog=Clinica;Integrated Security=True";
         private SqlConnection getConexion()
         {
             SqlConnection cnConexion = new SqlConnection(strCadena);
