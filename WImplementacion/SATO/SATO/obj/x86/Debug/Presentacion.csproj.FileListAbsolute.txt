@@ -1228,7 +1228,10 @@ D:\Escritorio\tesis 04-10-14\SATO\obj\x86\Debug\Presentacion.frmMensaje.resource
 D:\Escritorio\tesis 04-10-14\SATO\obj\x86\Debug\GenerateResource.read.1.tlog
 D:\Escritorio\tesis 04-10-14\SATO\obj\x86\Debug\GenerateResource.write.1.tlog
 D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\SATO\bin\Debug\SATO.exe.config
+<<<<<<< HEAD
+=======
 D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\SATO\obj\x86\Debug\Interop.WisSensorNLibLib.dll
+>>>>>>> origin/master
 D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.csproj.ResolveComReference.cache
 D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\SATO\obj\x86\Debug\SATO.exe
 D:\RepositorioGitHub\RepositorioSATO\WImplementacion\SATO\SATO\obj\x86\Debug\SATO.pdb
